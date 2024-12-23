@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.30\n"
+"Project-Id-Version: Easygram 0.31\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-08-19 13:27+0300\n"
-"PO-Revision-Date: 2024-08-19 13:28+0300\n"
+"POT-Creation-Date: 2024-12-23 20:08+0300\n"
+"PO-Revision-Date: 2024-12-23 20:13+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>\n"
@@ -387,8 +387,14 @@ msgstr "Не в сети"
 msgid "Chats"
 msgstr "Чаты"
 
+msgid "All chats"
+msgstr "Все чаты"
+
 msgid "Loading chats..."
 msgstr "Загрузка чатов..."
+
+msgid "Archive"
+msgstr "Архив"
 
 #, python-brace-format
 msgid "Chats ({0})"
@@ -407,17 +413,27 @@ msgstr "Открыть чат"
 msgid "Contacts ({0})"
 msgstr "Контакты ({0})"
 
+msgid "My profile"
+msgstr "Мой профиль"
+
 msgid "Preferences"
 msgstr "Настройки"
 
 msgid "About Easygram"
 msgstr "О Easygram"
 
+#, python-brace-format
+msgid "Archive: {count} unread chat"
+msgid_plural "Archive: {count} unread chats"
+msgstr[0] "Архив: {count} непрочитанный чат"
+msgstr[1] "Архив: {count} непрочитанных чата"
+msgstr[2] "Архив: {count} непрочитанных чатов"
+
 msgid "Skipped one-time voice message"
 msgstr "Пропущено одноразовое голосовое сообщение"
 
-msgid "Your chats"
-msgstr "Ваши чаты"
+msgid "Archived chats"
+msgstr "Архивированные чаты"
 
 msgid "Are you sure you want to close application?"
 msgstr "Вы действительно хотите закрыть приложение?"
@@ -828,6 +844,10 @@ msgstr ""
 "{name}, версия: {version}\n"
 "{link}"
 
+#. TRANSLATORS: this text on button in about dialog.
+msgid "Keyboard shortcuts"
+msgstr "Сочетания клавиш"
+
 msgid "File path:"
 msgstr "Путь к файлу:"
 
@@ -1114,6 +1134,90 @@ msgstr "Прикрепить файлы"
 msgid "When online"
 msgstr "Когда в сети"
 
+msgid "Service notification"
+msgstr "Сервисное уведомление"
+
+msgid "Log out"
+msgstr "Выйти из аккаунта"
+
+msgid "Change personal information"
+msgstr "Изменить личные данные"
+
+msgid "Basic information"
+msgstr "Основная информация"
+
+msgid "Your name:"
+msgstr "Ваше имя:"
+
+msgid "Your bio:"
+msgstr "О себе:"
+
+msgid "Birthday"
+msgstr "День рождения"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Day:"
+msgstr "День:"
+
+msgid "Month:"
+msgstr "Месяц:"
+
+msgid "Year:"
+msgstr "Год:"
+
+msgid "January"
+msgstr "Январь"
+
+msgid "February"
+msgstr "Февраль"
+
+msgid "March"
+msgstr "Март"
+
+msgid "April"
+msgstr "Апрель"
+
+msgid "May"
+msgstr "Май"
+
+msgid "June"
+msgstr "Июнь"
+
+msgid "July"
+msgstr "Июль"
+
+msgid "August"
+msgstr "Август"
+
+msgid "September"
+msgstr "Сентябрь"
+
+msgid "October"
+msgstr "Октябрь"
+
+msgid "November"
+msgstr "Ноябрь"
+
+msgid "December"
+msgstr "Декабрь"
+
+msgid "Change phone number"
+msgstr "Изменить номер телефона"
+
+msgid "Change personal channel"
+msgstr "Изменить личный канал"
+
+msgid "Change User name"
+msgstr "Изменить имя пользователя"
+
+msgid "Are you sure you want to log out of your account?"
+msgstr "Вы действительно хотите выйти из вашего аккаунта?"
+
+msgid "Failed to get full profile information."
+msgstr "Не удалось получить полную информацию о профиле."
+
 msgid "Seen"
 msgstr "Прочитано"
 
@@ -1147,6 +1251,9 @@ msgstr "Страна:"
 msgid "Country"
 msgstr "Страна"
 
+msgid "Log in by QR Code"
+msgstr "Войти по QR-коду"
+
 msgid "Next"
 msgstr "Далее"
 
@@ -1156,20 +1263,43 @@ msgstr "Вы хотите прервать процесс верификации
 msgid "Enter confirmation code"
 msgstr "Введите код подтверждения"
 
-msgid "The code was sent to you via Telegram."
-msgstr "Код был отправлен вам через Telegram."
+#, python-brace-format
+msgid "The code was sent to you via Telegram to {number}."
+msgstr "Код был отправлен вам через Telegram на {number}."
 
-msgid "The code was sent to you via SMS."
-msgstr "Код был отправлен вам с помощью SMS."
+#, python-brace-format
+msgid "The code was sent to you via SMS to {number}."
+msgstr "SMS с кодом было отправлено на {number}."
 
 msgid "Confirmation code:"
 msgstr "Код подтверждения:"
+
+msgid "Incorrect phone number?"
+msgstr "Неправильный номер телефона?"
 
 msgid "Enter password"
 msgstr "Введите пароль"
 
 msgid "Password:"
 msgstr "Пароль:"
+
+msgid ""
+"\n"
+"Instruction:\n"
+"\t\t1: Open Telegram on your phone.\n"
+"\t\t2: Go to Settings > Devices > Link Desktop Device.\n"
+"\t\t3: Point your phone at this screen to confirm login.\n"
+"\t\t"
+msgstr ""
+"\n"
+"Инструкция:\n"
+"\t\t1: Откройте Telegram на вашем смартфоне.\n"
+"\t\t2: Перейдите в Настройки > Устройства > Подключить устройство.\n"
+"\t\t3: Наведите смартфон на этот экран, чтобы подтвердить вход в систему.\n"
+"\t\t"
+
+msgid "Log in by phone number"
+msgstr "Войти по номеру телефона"
 
 msgid "Registration"
 msgstr "Регистрация"
@@ -1244,6 +1374,12 @@ msgstr "Открыть"
 msgid "Mark as read"
 msgstr "Пометить прочитанным"
 
+msgid "Move to archive"
+msgstr "Переместить в архив"
+
+msgid "Unarchive"
+msgstr "Разархивировать"
+
 msgid "Leave channel"
 msgstr "Покинуть канал"
 
@@ -1264,6 +1400,13 @@ msgstr "Отобразить окно"
 
 msgid "Exit"
 msgstr "Выход"
+
+#, python-brace-format
+msgid "{title}: {count} unread chat"
+msgid_plural "{title}: {count} unread chats"
+msgstr[0] "{title}: {count} непрочитанный чат"
+msgstr[1] "{title}: {count} непрочитанных чата"
+msgstr[2] "{title}: {count} непрочитанных чатов"
 
 msgid "You"
 msgstr "Вы"
@@ -1428,6 +1571,49 @@ msgid "I don't know what to call such a big size!"
 msgstr "Я не знаю, как назвать такой большой размер!"
 
 #, python-brace-format
+msgid "Scheduled at {time}"
+msgstr "Отложено на {time}"
+
+#, python-brace-format
+msgid "Scheduled {date} at {time}"
+msgstr "Отложено на {date} в {time}"
+
+msgid "Send when online."
+msgstr "Отправлять, когда в сети."
+
+#, python-brace-format
+msgid "Sent at {time}"
+msgstr "Отправлено в {time}"
+
+#, python-brace-format
+msgid "Sent {date} at {time}"
+msgstr "Отправлено {date} в {time}"
+
+#, python-brace-format
+msgid "Sending... at {time}"
+msgstr "Отправка... в {time}"
+
+#, python-brace-format
+msgid "Sending... {date} at {time}"
+msgstr "Отправка... {date} в {time}"
+
+#, python-brace-format
+msgid "Sending failed. at {time}"
+msgstr "Ошибка отправки. в {time}"
+
+#, python-brace-format
+msgid "Sending failed. {date} at {time}"
+msgstr "Ошибка отправки. {date} в {time}"
+
+#, python-brace-format
+msgid "Received at {time}"
+msgstr "Получено в {time}"
+
+#, python-brace-format
+msgid "Received {date} at {time}"
+msgstr "Получено {date} в {time}"
+
+#, python-brace-format
 msgid "{program} preferences"
 msgstr "Настройки {program}"
 
@@ -1518,6 +1704,9 @@ msgstr "Не отображать диалоговое окно \"Сообщен
 
 msgid "Use new search style in chat and message lists"
 msgstr "Использовать новый стиль поиска в списках чатов и сообщений"
+
+msgid "Trim long messages (1 - 4096 characters, 0 - do not trim):"
+msgstr "Обрезать длинные сообщения (1 - 4096 символов, 0- не обрезать):"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
 msgid "Auto (optimal: approximately 550 kB/Min)"
@@ -1723,6 +1912,9 @@ msgstr "Ничего не воспроизводится"
 msgid "Time: {t}/{l}"
 msgstr "Время: {t}/{l}"
 
+msgid "Equalizer"
+msgstr "Эквалайзер"
+
 #, python-brace-format
 msgid "Playback rate: {rate}"
 msgstr "Скорость воспроизведения: {rate}"
@@ -1762,38 +1954,6 @@ msgstr "Скорость воспроизведения {rate}"
 
 msgid "Default playback device"
 msgstr "Устройство воспроизведения по умолчанию"
-
-#, python-brace-format
-msgid "Scheduled at {time}"
-msgstr "Отложено на {time}"
-
-#, python-brace-format
-msgid "Scheduled {date} at {time}"
-msgstr "Отложено на {date} в {time}"
-
-#, python-brace-format
-msgid "Sent at {time}"
-msgstr "Отправлено в {time}"
-
-#, python-brace-format
-msgid "Sent {date} at {time}"
-msgstr "Отправлено {date} в {time}"
-
-#, python-brace-format
-msgid "Sending... at {time}"
-msgstr "Отправка... в {time}"
-
-#, python-brace-format
-msgid "Sending... {date} at {time}"
-msgstr "Отправка... {date} в {time}"
-
-#, python-brace-format
-msgid "Received at {time}"
-msgstr "Получено в {time}"
-
-#, python-brace-format
-msgid "Received {date} at {time}"
-msgstr "Получено {date} в {time}"
 
 msgid "Outgoing"
 msgstr "Исходящий"
