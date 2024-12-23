@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'easygram' '0.30'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-09-22 16:15+0300\n"
+"POT-Creation-Date: 2024-12-23 20:22+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1040,6 +1040,87 @@ msgstr ""
 msgid "Log out"
 msgstr ""
 
+msgid "Change personal information"
+msgstr ""
+
+msgid "Basic information"
+msgstr ""
+
+msgid "Your name:"
+msgstr ""
+
+msgid "Your bio:"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Day:"
+msgstr ""
+
+msgid "Month:"
+msgstr ""
+
+msgid "Year:"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "My profile"
+msgstr ""
+
+msgid "Change phone number"
+msgstr ""
+
+msgid "Change personal channel"
+msgstr ""
+
+msgid "Change User name"
+msgstr ""
+
+msgid "Are you sure you want to log out of your account?"
+msgstr ""
+
+msgid "Failed to get full profile information."
+msgstr ""
+
 msgid "Seen"
 msgstr ""
 
@@ -1097,9 +1178,6 @@ msgid "Confirmation code:"
 msgstr ""
 
 msgid "Incorrect phone number?"
-msgstr ""
-
-msgid "Change phone number"
 msgstr ""
 
 msgid "Enter password"
@@ -1191,6 +1269,12 @@ msgstr ""
 msgid "Mark as read"
 msgstr ""
 
+msgid "Move to archive"
+msgstr ""
+
+msgid "Unarchive"
+msgstr ""
+
 msgid "Leave channel"
 msgstr ""
 
@@ -1211,6 +1295,15 @@ msgstr ""
 
 msgid "Exit"
 msgstr ""
+
+msgid "All chats"
+msgstr ""
+
+#, python-brace-format
+msgid "{title}: {count} unread chat"
+msgid_plural "{title}: {count} unread chats"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "You"
 msgstr ""
@@ -1371,6 +1464,49 @@ msgid "YB"
 msgstr ""
 
 msgid "I don't know what to call such a big size!"
+msgstr ""
+
+#, python-brace-format
+msgid "Scheduled at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Scheduled {date} at {time}"
+msgstr ""
+
+msgid "Send when online."
+msgstr ""
+
+#, python-brace-format
+msgid "Sent at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sent {date} at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sending... at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sending... {date} at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sending failed. at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Sending failed. {date} at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Received at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Received {date} at {time}"
 msgstr ""
 
 #, python-brace-format
@@ -1673,6 +1809,9 @@ msgstr ""
 msgid "Loading chats..."
 msgstr ""
 
+msgid "Archive"
+msgstr ""
+
 #, python-brace-format
 msgid "Chats ({0})"
 msgstr ""
@@ -1687,7 +1826,13 @@ msgstr ""
 msgid "Preferences"
 msgstr ""
 
-msgid "Your chats"
+#, python-brace-format
+msgid "Archive: {count} unread chat"
+msgid_plural "Archive: {count} unread chats"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Archived chats"
 msgstr ""
 
 msgid "Are you sure you want to close application?"
@@ -1773,38 +1918,6 @@ msgid "Playback rate {rate}"
 msgstr ""
 
 msgid "Default playback device"
-msgstr ""
-
-#, python-brace-format
-msgid "Scheduled at {time}"
-msgstr ""
-
-#, python-brace-format
-msgid "Scheduled {date} at {time}"
-msgstr ""
-
-#, python-brace-format
-msgid "Sent at {time}"
-msgstr ""
-
-#, python-brace-format
-msgid "Sent {date} at {time}"
-msgstr ""
-
-#, python-brace-format
-msgid "Sending... at {time}"
-msgstr ""
-
-#, python-brace-format
-msgid "Sending... {date} at {time}"
-msgstr ""
-
-#, python-brace-format
-msgid "Received at {time}"
-msgstr ""
-
-#, python-brace-format
-msgid "Received {date} at {time}"
 msgstr ""
 
 msgid "Outgoing"
