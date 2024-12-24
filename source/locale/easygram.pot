@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'easygram' '0.30'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-12-23 20:22+0300\n"
+"POT-Creation-Date: 2024-12-24 08:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1116,6 +1116,9 @@ msgid "Change User name"
 msgstr ""
 
 msgid "Are you sure you want to log out of your account?"
+msgstr ""
+
+msgid "Feature not yet supported!"
 msgstr ""
 
 msgid "Failed to get full profile information."
