@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'easygram' '0.30'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-12-24 08:14+0300\n"
+"POT-Creation-Date: 2024-12-26 13:11+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -198,6 +198,27 @@ msgstr ""
 msgid "Face with head-bandage"
 msgstr ""
 
+msgid "Nauseated face"
+msgstr ""
+
+msgid "Face vomiting"
+msgstr ""
+
+msgid "Sneezing face"
+msgstr ""
+
+msgid "Hot face"
+msgstr ""
+
+msgid "Cold face"
+msgstr ""
+
+msgid "Woozy face"
+msgstr ""
+
+msgid "Face with crossed-out eyes"
+msgstr ""
+
 msgid "Face with spiral eyes"
 msgstr ""
 
@@ -294,6 +315,9 @@ msgstr ""
 msgid "Tired face"
 msgstr ""
 
+msgid "Yawning face"
+msgstr ""
+
 msgid "Enraged face"
 msgstr ""
 
@@ -307,6 +331,30 @@ msgid "Skull"
 msgstr ""
 
 msgid "Skull and crossbones"
+msgstr ""
+
+msgid "Pile of poo"
+msgstr ""
+
+msgid "Clown face"
+msgstr ""
+
+msgid "Ogre"
+msgstr ""
+
+msgid "Goblin"
+msgstr ""
+
+msgid "Ghost"
+msgstr ""
+
+msgid "Alien"
+msgstr ""
+
+msgid "Alien monster"
+msgstr ""
+
+msgid "Robot"
 msgstr ""
 
 msgid "Grinning cat"
@@ -375,6 +423,57 @@ msgstr ""
 msgid "Heart hands"
 msgstr ""
 
+msgid "Notebook with decorative cover"
+msgstr ""
+
+msgid "Closed book"
+msgstr ""
+
+msgid "Open book"
+msgstr ""
+
+msgid "Green book"
+msgstr ""
+
+msgid "Blue book"
+msgstr ""
+
+msgid "Orange book"
+msgstr ""
+
+msgid "Books"
+msgstr ""
+
+msgid "Notebook"
+msgstr ""
+
+msgid "Ledger"
+msgstr ""
+
+msgid "Page with curl"
+msgstr ""
+
+msgid "Scroll"
+msgstr ""
+
+msgid "Page facing up"
+msgstr ""
+
+msgid "Newspaper"
+msgstr ""
+
+msgid "Rolled-up newspaper"
+msgstr ""
+
+msgid "Bookmark tabs"
+msgstr ""
+
+msgid "Bookmark"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
 msgid "Bot menu"
 msgstr ""
 
@@ -391,7 +490,6 @@ msgstr ""
 msgid "Schedule message"
 msgstr ""
 
-#. TRANSLATORS: this is the label of the button in the file attachment dialog box.
 msgid "Set date and time..."
 msgstr ""
 
@@ -749,48 +847,6 @@ msgstr ""
 msgid "Keyboard shortcuts"
 msgstr ""
 
-msgid "File path:"
-msgstr ""
-
-msgid "Caption:"
-msgstr ""
-
-msgid "Attach file"
-msgstr ""
-
-msgid "No such file exists!"
-msgstr ""
-
-msgid "The caption text is too long!"
-msgstr ""
-
-msgid "No command to send!"
-msgstr ""
-
-msgid "Attach video"
-msgstr ""
-
-msgid "Attach audio"
-msgstr ""
-
-msgid "Title:"
-msgstr ""
-
-msgid "Performer:"
-msgstr ""
-
-msgid "Title required!"
-msgstr ""
-
-msgid "Attach photo"
-msgstr ""
-
-msgid "Attach animation"
-msgstr ""
-
-msgid "Attach document"
-msgstr ""
-
 msgid "About the channel"
 msgstr ""
 
@@ -818,7 +874,13 @@ msgstr ""
 msgid "Edit document"
 msgstr ""
 
+msgid "Caption:"
+msgstr ""
+
 msgid "Override file..."
+msgstr ""
+
+msgid "File path:"
 msgstr ""
 
 msgid "Browse..."
@@ -855,6 +917,12 @@ msgid "Edit audio"
 msgstr ""
 
 msgid "All audio files"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Performer:"
 msgstr ""
 
 msgid "Edit voice note"

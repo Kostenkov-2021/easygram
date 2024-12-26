@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Easygram 0.31\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-12-23 21:36+0300\n"
-"PO-Revision-Date: 2024-12-23 21:37+0300\n"
+"POT-Creation-Date: 2024-12-26 12:52+0300\n"
+"PO-Revision-Date: 2024-12-26 13:02+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>\n"
@@ -204,6 +204,27 @@ msgstr "Лицо с термометром"
 msgid "Face with head-bandage"
 msgstr "Лицо с перевязанной головой"
 
+msgid "Nauseated face"
+msgstr "Тошнит"
+
+msgid "Face vomiting"
+msgstr "Рвота"
+
+msgid "Sneezing face"
+msgstr "Чихает"
+
+msgid "Hot face"
+msgstr "Жар"
+
+msgid "Cold face"
+msgstr "Мёрзнет"
+
+msgid "Woozy face"
+msgstr "Чувствует головокружение"
+
+msgid "Face with crossed-out eyes"
+msgstr "Головокружение"
+
 msgid "Face with spiral eyes"
 msgstr "Ошеломлённое лицо"
 
@@ -300,6 +321,9 @@ msgstr "Усталое лицо"
 msgid "Tired face"
 msgstr "Сильно усталое лицо"
 
+msgid "Yawning face"
+msgstr "Зевает"
+
 msgid "Enraged face"
 msgstr "Лицо в ярости"
 
@@ -314,6 +338,30 @@ msgstr "Череп"
 
 msgid "Skull and crossbones"
 msgstr "Череп и кости"
+
+msgid "Pile of poo"
+msgstr "Какашка"
+
+msgid "Clown face"
+msgstr "Клоун"
+
+msgid "Ogre"
+msgstr "Чудовище"
+
+msgid "Goblin"
+msgstr "Японский гоблин"
+
+msgid "Ghost"
+msgstr "Привидение"
+
+msgid "Alien"
+msgstr "Инопланетянин"
+
+msgid "Alien monster"
+msgstr "Космический монстр"
+
+msgid "Robot"
+msgstr "Робот"
 
 msgid "Grinning cat"
 msgstr "Улыбающийся кот"
@@ -380,6 +428,57 @@ msgstr "Средний палец"
 
 msgid "Heart hands"
 msgstr "Жест \"сердце\""
+
+msgid "Notebook with decorative cover"
+msgstr "Записная книжка"
+
+msgid "Closed book"
+msgstr "Закрытая книга"
+
+msgid "Open book"
+msgstr "Открытая книга"
+
+msgid "Green book"
+msgstr "Зелёная книга"
+
+msgid "Blue book"
+msgstr "Синяя книга"
+
+msgid "Orange book"
+msgstr "Оранжевая книга"
+
+msgid "Books"
+msgstr "Книги"
+
+msgid "Notebook"
+msgstr "Тетрадь"
+
+msgid "Ledger"
+msgstr "Блокнот"
+
+msgid "Page with curl"
+msgstr "Страница с загибом"
+
+msgid "Scroll"
+msgstr "Свиток"
+
+msgid "Page facing up"
+msgstr "Страница"
+
+msgid "Newspaper"
+msgstr "Газета"
+
+msgid "Rolled-up newspaper"
+msgstr "Свёрнутая газета"
+
+msgid "Bookmark tabs"
+msgstr "Стикер-закладки"
+
+msgid "Bookmark"
+msgstr "Закладка"
+
+msgid "Label"
+msgstr "Бирка"
 
 msgid "Offline"
 msgstr "Не в сети"
@@ -491,7 +590,6 @@ msgstr "Эмодзи"
 msgid "Schedule message"
 msgstr "Отложить сообщение"
 
-#. TRANSLATORS: this is the label of the button in the file attachment dialog box.
 msgid "Set date and time..."
 msgstr "Установить дату и время..."
 
@@ -848,48 +946,6 @@ msgstr ""
 msgid "Keyboard shortcuts"
 msgstr "Сочетания клавиш"
 
-msgid "File path:"
-msgstr "Путь к файлу:"
-
-msgid "Caption:"
-msgstr "Подпись:"
-
-msgid "Attach file"
-msgstr "Прикрепить файл"
-
-msgid "No such file exists!"
-msgstr "Такого файла не существует!"
-
-msgid "The caption text is too long!"
-msgstr "Текст подписи слишком длинный!"
-
-msgid "No command to send!"
-msgstr "Нет команды для отправки!"
-
-msgid "Attach video"
-msgstr "Прикрепить видео"
-
-msgid "Attach audio"
-msgstr "Прикрепить аудио"
-
-msgid "Title:"
-msgstr "Название:"
-
-msgid "Performer:"
-msgstr "Исполнитель:"
-
-msgid "Title required!"
-msgstr "Название обязательно!"
-
-msgid "Attach photo"
-msgstr "Прикрепить фото"
-
-msgid "Attach animation"
-msgstr "Прикрепить анимацию"
-
-msgid "Attach document"
-msgstr "Прикрепить документ"
-
 msgid "About the channel"
 msgstr "О канале"
 
@@ -917,8 +973,14 @@ msgstr "Невозможно отправить пустое сообщение!
 msgid "Edit document"
 msgstr "Изменить документ"
 
+msgid "Caption:"
+msgstr "Подпись:"
+
 msgid "Override file..."
 msgstr "Заменить файл..."
+
+msgid "File path:"
+msgstr "Путь к файлу:"
 
 msgid "Browse..."
 msgstr "Обзор..."
@@ -955,6 +1017,12 @@ msgstr "Изменить аудио"
 
 msgid "All audio files"
 msgstr "Все аудиофайлы"
+
+msgid "Title:"
+msgstr "Название:"
+
+msgid "Performer:"
+msgstr "Исполнитель:"
 
 msgid "Edit voice note"
 msgstr "Изменить голосовое сообщение"
@@ -2014,3 +2082,33 @@ msgstr "Отправляет аудио"
 
 msgid "Watching animations"
 msgstr "Просматривает анимацию"
+
+#~ msgid "Attach file"
+#~ msgstr "Прикрепить файл"
+
+#~ msgid "No such file exists!"
+#~ msgstr "Такого файла не существует!"
+
+#~ msgid "The caption text is too long!"
+#~ msgstr "Текст подписи слишком длинный!"
+
+#~ msgid "No command to send!"
+#~ msgstr "Нет команды для отправки!"
+
+#~ msgid "Attach video"
+#~ msgstr "Прикрепить видео"
+
+#~ msgid "Attach audio"
+#~ msgstr "Прикрепить аудио"
+
+#~ msgid "Title required!"
+#~ msgstr "Название обязательно!"
+
+#~ msgid "Attach photo"
+#~ msgstr "Прикрепить фото"
+
+#~ msgid "Attach animation"
+#~ msgstr "Прикрепить анимацию"
+
+#~ msgid "Attach document"
+#~ msgstr "Прикрепить документ"
