@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 'easygram' '0.30'\n"
+"Project-Id-Version: 'easygram' '0.32'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-12-26 13:11+0300\n"
+"POT-Creation-Date: 2025-02-02 12:56+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -615,6 +615,9 @@ msgstr ""
 msgid "Voice and video messages in this chat are restricted!"
 msgstr ""
 
+msgid "Unable to send a voice message because the input device was not found."
+msgstr ""
+
 msgid "All files"
 msgstr ""
 
@@ -750,6 +753,14 @@ msgstr ""
 msgid "Stop recording"
 msgstr ""
 
+msgid ""
+"An error occurred while sending a voice message. See the log for more "
+"details."
+msgstr ""
+
+msgid "An error occurred while converting the file."
+msgstr ""
+
 msgid "Can't send empty messages!"
 msgstr ""
 
@@ -760,17 +771,13 @@ msgstr ""
 msgid "Sending in progress..."
 msgstr ""
 
-#. Show an error if the file could not be saved.
-msgid "An error occurred while writing the file."
-msgstr ""
-
-msgid "An error occurred while converting the file."
-msgstr ""
-
-msgid "Cancel the record and delete the message?"
+msgid "A message is being sent. Do you really want to close this window?"
 msgstr ""
 
 msgid "Confirmation"
+msgstr ""
+
+msgid "Cancel the record and delete the message?"
 msgstr ""
 
 #, python-brace-format
@@ -1293,81 +1300,102 @@ msgstr ""
 msgid "Incorrect password!"
 msgstr ""
 
-msgid "Detailed view"
+msgid "Detailed &view"
 msgstr ""
 
-msgid "Copy text"
+msgid "&Copy text"
 msgstr ""
 
-msgid "Save in downloads"
+msgid "&Save in downloads"
 msgstr ""
 
-msgid "Reply"
+msgid "&Reply"
 msgstr ""
 
-msgid "Pin"
+msgid "&Pin"
 msgstr ""
 
-msgid "Go to quoted message"
+msgid "Un&pin"
 msgstr ""
 
-#, python-brace-format
-msgid "Comments: {count}"
-msgstr ""
-
-msgid "Go to original message"
-msgstr ""
-
-msgid "Add to favorites"
-msgstr ""
-
-msgid "Forward"
-msgstr ""
-
-msgid "Add reaction"
+msgid "Go to &quoted message"
 msgstr ""
 
 #, python-brace-format
-msgid "Remove reaction {r}"
+msgid "Co&mments: {count}"
 msgstr ""
 
-msgid "Open profile"
+msgid "&Go to original message"
 msgstr ""
 
-msgid "Open"
+msgid "&Add to favorites"
 msgstr ""
 
-msgid "Mark as read"
+msgid "&Forward"
 msgstr ""
 
-msgid "Move to archive"
+msgid "Add react&ion"
 msgstr ""
 
-msgid "Unarchive"
+#, python-brace-format
+msgid "Remove react&ion {r}"
 msgstr ""
 
-msgid "Leave channel"
+msgid "Open &profile"
 msgstr ""
 
-msgid "Leave group"
+msgid "&Edit message"
 msgstr ""
 
-msgid "Clear history"
+msgid "&Delete"
+msgstr ""
+
+msgid "&Open"
+msgstr ""
+
+msgid "Mark as &read"
+msgstr ""
+
+msgid "Move to &archive"
+msgstr ""
+
+msgid "Un&archive"
+msgstr ""
+
+msgid "A&bout user"
+msgstr ""
+
+msgid "A&bout the channel"
+msgstr ""
+
+msgid "&Leave channel"
+msgstr ""
+
+msgid "&Leave group"
+msgstr ""
+
+msgid "&Clear history"
 msgstr ""
 
 msgid "Are you sure you want to leave this channel?"
 msgstr ""
 
+msgid "Leave channel"
+msgstr ""
+
 msgid "Are you sure you want to leave this group?"
 msgstr ""
 
-msgid "Show window"
+msgid "Leave group"
 msgstr ""
 
-msgid "Exit"
+msgid "&Show window"
 msgstr ""
 
-msgid "All chats"
+msgid "E&xit"
+msgstr ""
+
+msgid "&All chats"
 msgstr ""
 
 #, python-brace-format
@@ -1645,6 +1673,15 @@ msgstr ""
 msgid "Log rotation"
 msgstr ""
 
+msgid "View settings"
+msgstr ""
+
+msgid "Chat list"
+msgstr ""
+
+msgid "Show time after message text"
+msgstr ""
+
 msgid "chats settings"
 msgstr ""
 
@@ -1788,7 +1825,24 @@ msgstr ""
 msgid "Clear storage"
 msgstr ""
 
+msgid "Troubleshooting"
+msgstr ""
+
+msgid "Use streaming audio encoding when recording"
+msgstr ""
+
+msgid "Audio input latency (ms):"
+msgstr ""
+
+msgid ""
+"Disable record optimization (reduces RAM usage, but requires more free space "
+"on the system drive to store temporary files)"
+msgstr ""
+
 msgid "General"
+msgstr ""
+
+msgid "View"
 msgstr ""
 
 msgid "Chats"
@@ -1875,6 +1929,9 @@ msgid "Document"
 msgstr ""
 
 msgid "Offline"
+msgstr ""
+
+msgid "All chats"
 msgstr ""
 
 msgid "Loading chats..."
