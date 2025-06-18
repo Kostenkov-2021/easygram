@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 'easygram' '0.32'\n"
+"Project-Id-Version: 'easygram' '0.33'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-02-02 12:56+0300\n"
+"POT-Creation-Date: 2025-06-18 09:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -523,7 +523,14 @@ msgstr ""
 msgid "Join the channel"
 msgstr ""
 
+msgid "Select topic"
+msgstr ""
+
 msgid "Close"
+msgstr ""
+
+#, python-brace-format
+msgid "Topic: {name}"
 msgstr ""
 
 msgid "Messages"
@@ -1199,6 +1206,9 @@ msgstr ""
 msgid "Failed to get full profile information."
 msgstr ""
 
+msgid "Topics:"
+msgstr ""
+
 msgid "Seen"
 msgstr ""
 
@@ -1356,6 +1366,12 @@ msgstr ""
 msgid "Mark as &read"
 msgstr ""
 
+msgid "&View as messages"
+msgstr ""
+
+msgid "&View as topics"
+msgstr ""
+
 msgid "Move to &archive"
 msgstr ""
 
@@ -1403,6 +1419,12 @@ msgid "{title}: {count} unread chat"
 msgid_plural "{title}: {count} unread chats"
 msgstr[0] ""
 msgstr[1] ""
+
+msgid "Open &chat"
+msgstr ""
+
+msgid "Contact &information"
+msgstr ""
 
 msgid "You"
 msgstr ""
@@ -1524,6 +1546,12 @@ msgstr ""
 msgid "Expired voice message"
 msgstr ""
 
+msgid "Closed the topic."
+msgstr ""
+
+msgid "Opened the topic."
+msgstr ""
+
 msgid "Unsupported message type"
 msgstr ""
 
@@ -1634,6 +1662,9 @@ msgid "Show sender in system tray"
 msgstr ""
 
 msgid "Close chats by pressing the ESCAPE key"
+msgstr ""
+
+msgid "Show the window after complit download"
 msgstr ""
 
 msgid "Play event sounds"
@@ -1839,6 +1870,9 @@ msgid ""
 "on the system drive to store temporary files)"
 msgstr ""
 
+msgid "Keep the cursor position in the chat list"
+msgstr ""
+
 msgid "General"
 msgstr ""
 
@@ -1860,6 +1894,14 @@ msgstr ""
 msgid "Apply"
 msgstr ""
 
+msgid ""
+"Be Careful! The enable of this option can lead to unstable operation of the "
+"application and various errors. Do you really want to turn on this parameter?"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
+
 #, python-brace-format
 msgid "Disk usage: {size}, {count} file"
 msgid_plural "Disk usage: {size}, {count} files"
@@ -1874,7 +1916,12 @@ msgstr ""
 msgid "Warning"
 msgstr ""
 
-msgid "Restart the application to apply the new language settings."
+msgid ""
+"To apply some settings, it is required to reboot Easygram. Do you want to "
+"reboot Easygram right now?"
+msgstr ""
+
+msgid "Restart is required"
 msgstr ""
 
 #, python-brace-format
@@ -1928,6 +1975,12 @@ msgstr ""
 msgid "Document"
 msgstr ""
 
+msgid "(General topic)"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
 msgid "Offline"
 msgstr ""
 
@@ -1938,6 +1991,9 @@ msgid "Loading chats..."
 msgstr ""
 
 msgid "Archive"
+msgstr ""
+
+msgid "Mark all chats as read"
 msgstr ""
 
 #, python-brace-format
@@ -1960,6 +2016,10 @@ msgid_plural "Archive: {count} unread chats"
 msgstr[0] ""
 msgstr[1] ""
 
+#, python-brace-format
+msgid "Do you really want to delete this \"{name}\" contact?"
+msgstr ""
+
 msgid "Archived chats"
 msgstr ""
 
@@ -1979,6 +2039,9 @@ msgid "Invalid password!"
 msgstr ""
 
 msgid "Authorisation Error"
+msgstr ""
+
+msgid "Do you really want to mark all the chats on this list as read?"
 msgstr ""
 
 msgid "Updating..."

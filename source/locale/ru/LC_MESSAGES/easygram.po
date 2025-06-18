@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.31\n"
+"Project-Id-Version: Easygram 0.33\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-12-26 12:52+0300\n"
-"PO-Revision-Date: 2024-12-26 13:02+0300\n"
+"POT-Creation-Date: 2025-06-15 14:36+0300\n"
+"PO-Revision-Date: 2025-06-15 14:37+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>\n"
@@ -495,6 +495,9 @@ msgstr "Загрузка чатов..."
 msgid "Archive"
 msgstr "Архив"
 
+msgid "Mark all chats as read"
+msgstr "Пометить все чаты прочитанными"
+
 #, python-brace-format
 msgid "Chats ({0})"
 msgstr "Чаты ({0})"
@@ -531,6 +534,13 @@ msgstr[2] "Архив: {count} непрочитанных чатов"
 msgid "Skipped one-time voice message"
 msgstr "Пропущено одноразовое голосовое сообщение"
 
+#, python-brace-format
+msgid "Do you really want to delete this \"{name}\" contact?"
+msgstr "Вы действительно хотите удалить контакт \"{name}\"?"
+
+msgid "Confirmation"
+msgstr "Подтверждение"
+
 msgid "Archived chats"
 msgstr "Архивированные чаты"
 
@@ -551,6 +561,9 @@ msgstr "Неправильный пароль!"
 
 msgid "Authorisation Error"
 msgstr "Ошибка авторизации"
+
+msgid "Do you really want to mark all the chats on this list as read?"
+msgstr "Вы действительно хотите пометить все чаты в этом списке прочитанными?"
 
 msgid "Updating..."
 msgstr "Обновление..."
@@ -623,8 +636,15 @@ msgstr "Включить звук"
 msgid "Join the channel"
 msgstr "Присоединиться к каналу"
 
+msgid "Select topic"
+msgstr "Выберите тему"
+
 msgid "Close"
 msgstr "Закрыть"
+
+#, python-brace-format
+msgid "Topic: {name}"
+msgstr "Тема: {name}"
 
 msgid "Messages"
 msgstr "Сообщения"
@@ -714,6 +734,11 @@ msgstr "Информация"
 
 msgid "Voice and video messages in this chat are restricted!"
 msgstr "Голосовые и видеосообщения в этом чате запрещены!"
+
+msgid "Unable to send a voice message because the input device was not found."
+msgstr ""
+"Невозможно отправить голосовое сообщение, так как устройство ввода не "
+"найдено."
 
 msgid "All files"
 msgstr "Все файлы"
@@ -846,6 +871,16 @@ msgstr "Удалить после прослушивания"
 msgid "Stop recording"
 msgstr "Остановить запись"
 
+msgid ""
+"An error occurred while sending a voice message. See the log for more "
+"details."
+msgstr ""
+"Произошла ошибка при отправке голосового сообщения. Подробности смотрите в "
+"журнале."
+
+msgid "An error occurred while converting the file."
+msgstr "Произошла ошибка при преобразовании файла."
+
 msgid "Can't send empty messages!"
 msgstr "Невозможно отправлять пустые сообщения!"
 
@@ -855,17 +890,11 @@ msgstr "Информация"
 msgid "Sending in progress..."
 msgstr "Идёт отправка..."
 
-msgid "An error occurred while writing the file."
-msgstr "Произошла ошибка при записи файла."
-
-msgid "An error occurred while converting the file."
-msgstr "Произошла ошибка при преобразовании файла."
+msgid "A message is being sent. Do you really want to close this window?"
+msgstr "Сообщение отправляется. Вы действительно хотите закрыть это окно?"
 
 msgid "Cancel the record and delete the message?"
 msgstr "Отменить запись и удалить сообщение?"
-
-msgid "Confirmation"
-msgstr "Подтверждение"
 
 #, python-brace-format
 msgid "Poll: {title}, anonymous poll"
@@ -1145,7 +1174,7 @@ msgid "Go to message"
 msgstr "Перейти к сообщению"
 
 msgid "Unpin"
-msgstr "Открепить"
+msgstr "О&ткрепить"
 
 msgid "Unpin all"
 msgstr "Открепить все"
@@ -1289,6 +1318,9 @@ msgstr "Функция ещё не поддерживается!"
 msgid "Failed to get full profile information."
 msgstr "Не удалось получить полную информацию о профиле."
 
+msgid "Topics:"
+msgstr "Темы:"
+
 msgid "Seen"
 msgstr "Прочитано"
 
@@ -1398,79 +1430,109 @@ msgstr "Неверный код подтверждения!"
 msgid "Incorrect password!"
 msgstr "Неверный пароль!"
 
-msgid "Detailed view"
-msgstr "Детальный просмотр"
+msgid "Detailed &view"
+msgstr "&Детальный просмотр"
 
-msgid "Copy text"
-msgstr "Копировать текст"
+msgid "&Copy text"
+msgstr "&Копировать текст"
 
-msgid "Save in downloads"
-msgstr "Сохранить в загрузки"
+msgid "&Save in downloads"
+msgstr "&Сохранить в загрузки"
 
-msgid "Reply"
-msgstr "Ответить"
+msgid "&Reply"
+msgstr "&Ответить"
 
-msgid "Pin"
-msgstr "Закрепить"
+msgid "&Pin"
+msgstr "За&крепить"
 
-msgid "Go to quoted message"
-msgstr "Перейти к цитируемому сообщению"
+msgid "Un&pin"
+msgstr "От&Крепить"
 
-#, python-brace-format
-msgid "Comments: {count}"
-msgstr "Комментарии: {count}"
-
-msgid "Go to original message"
-msgstr "Перейти к исходному сообщению"
-
-msgid "Add to favorites"
-msgstr "Добавить в избранное"
-
-msgid "Forward"
-msgstr "Переслать"
-
-msgid "Add reaction"
-msgstr "Добавить реакцию"
+msgid "Go to &quoted message"
+msgstr "Перейти к &цитируемому сообщению"
 
 #, python-brace-format
-msgid "Remove reaction {r}"
-msgstr "Удалить реакцию {r}"
+msgid "Co&mments: {count}"
+msgstr "Ко&мментарии: {count}"
 
-msgid "Open profile"
-msgstr "Открыть профиль"
+msgid "&Go to original message"
+msgstr "Перейти к ис&ходному сообщению"
 
-msgid "Open"
-msgstr "Открыть"
+msgid "&Add to favorites"
+msgstr "Добавить в из&бранное"
 
-msgid "Mark as read"
-msgstr "Пометить прочитанным"
+msgid "&Forward"
+msgstr "Перес&лать"
 
-msgid "Move to archive"
-msgstr "Переместить в архив"
+msgid "Add react&ion"
+msgstr "Добавить &реакцию"
 
-msgid "Unarchive"
-msgstr "Разархивировать"
+#, python-brace-format
+msgid "Remove react&ion {r}"
+msgstr "Удалить &реакцию {r}"
 
-msgid "Leave channel"
-msgstr "Покинуть канал"
+msgid "Open &profile"
+msgstr "Открыть &профиль"
 
-msgid "Leave group"
-msgstr "Покинуть группу"
+msgid "&Edit message"
+msgstr "&Изменить сообщение"
 
-msgid "Clear history"
-msgstr "Очистить историю"
+msgid "&Delete"
+msgstr "&Удалить"
+
+msgid "&Open"
+msgstr "О&ткрыть"
+
+msgid "Mark as &read"
+msgstr "По&метить прочитанным"
+
+msgid "&View as messages"
+msgstr "П&росмотр по сообщениям"
+
+msgid "&View as topics"
+msgstr "П&росмотр по темам"
+
+msgid "Move to &archive"
+msgstr "Переместить в &архив"
+
+msgid "Un&archive"
+msgstr "Раз&архивировать"
+
+msgid "A&bout user"
+msgstr "&О пользователе"
+
+msgid "A&bout the channel"
+msgstr "&О канале"
+
+msgid "&Leave channel"
+msgstr "&Покинуть канал"
+
+msgid "&Leave group"
+msgstr "&Покинуть группу"
+
+msgid "&Clear history"
+msgstr "О&чистить историю"
 
 msgid "Are you sure you want to leave this channel?"
 msgstr "Вы действительно хотите покинуть этот канал?"
 
+msgid "Leave channel"
+msgstr "Покинуть канал"
+
 msgid "Are you sure you want to leave this group?"
 msgstr "Вы действительно хотите покинуть эту группу?"
 
-msgid "Show window"
-msgstr "Отобразить окно"
+msgid "Leave group"
+msgstr "Покинуть группу"
 
-msgid "Exit"
-msgstr "Выход"
+msgid "&Show window"
+msgstr "&Отобразить окно"
+
+msgid "E&xit"
+msgstr "В&ыход"
+
+msgid "&All chats"
+msgstr "&Все чаты"
 
 #, python-brace-format
 msgid "{title}: {count} unread chat"
@@ -1478,6 +1540,12 @@ msgid_plural "{title}: {count} unread chats"
 msgstr[0] "{title}: {count} непрочитанный чат"
 msgstr[1] "{title}: {count} непрочитанных чата"
 msgstr[2] "{title}: {count} непрочитанных чатов"
+
+msgid "Open &chat"
+msgstr "Открыть &чат"
+
+msgid "Contact &information"
+msgstr "&Информация о о контакте"
 
 msgid "You"
 msgstr "Вы"
@@ -1600,6 +1668,12 @@ msgstr "Видеосообщение  {h}:{m}:{s}"
 msgid "Expired voice message"
 msgstr "Истёкшее голосовое сообщение"
 
+msgid "Closed the topic."
+msgstr "Закрыл(а) тему."
+
+msgid "Opened the topic."
+msgstr "Открыл(а) тему."
+
 msgid "Unsupported message type"
 msgstr "Неподдерживаемый тип сообщения"
 
@@ -1712,6 +1786,9 @@ msgstr "Отображать отправителя в уведомлении"
 msgid "Close chats by pressing the ESCAPE key"
 msgstr "Закрывать чаты нажатием клавиши ESCAPE"
 
+msgid "Show the window after complit download"
+msgstr "Отображать окно после завершения загрузки"
+
 msgid "Play event sounds"
 msgstr "Воспроизводить звуки событий"
 
@@ -1748,6 +1825,15 @@ msgstr "Очищать журнал при запуске"
 
 msgid "Log rotation"
 msgstr "Ротация журнала"
+
+msgid "View settings"
+msgstr "Настройки отображения"
+
+msgid "Chat list"
+msgstr "Список чатов"
+
+msgid "Show time after message text"
+msgstr "Отображать время после текста сообщения"
 
 msgid "chats settings"
 msgstr "Настройки чатов"
@@ -1894,8 +1980,31 @@ msgstr "Имя"
 msgid "Clear storage"
 msgstr "Очистить хранилище"
 
+msgid "Troubleshooting"
+msgstr "Устранение проблем"
+
+msgid "Use streaming audio encoding when recording"
+msgstr "Использовать потоковое кодирование аудио во время записи"
+
+msgid "Audio input latency (ms):"
+msgstr "Задержка аудиовхода (мс):"
+
+msgid ""
+"Disable record optimization (reduces RAM usage, but requires more free space "
+"on the system drive to store temporary files)"
+msgstr ""
+"Отключить оптимизацию записи (уменьшает использование оперативной памяти, но "
+"требует больше свободного места на системном диске для хранения временных "
+"файлов)"
+
+msgid "Keep the cursor position in the chat list"
+msgstr "Сохранять позицию курсора в списке чатов"
+
 msgid "General"
 msgstr "Общие"
+
+msgid "View"
+msgstr "Вид"
 
 msgid "Speech"
 msgstr "Речь"
@@ -1908,6 +2017,17 @@ msgstr "Хранилище"
 
 msgid "Apply"
 msgstr "Применить"
+
+msgid ""
+"Be Careful! The enable of this option can lead to unstable operation of the "
+"application and various errors. Do you really want to turn on this parameter?"
+msgstr ""
+"Будьте осторожны! Включение этой настройки может привести к нестабильной "
+"работе приложения и различным ошибкам. Вы действительно хотите включить эту "
+"настройку?"
+
+msgid "Warning!"
+msgstr "Предупреждение!"
 
 #, python-brace-format
 msgid "Disk usage: {size}, {count} file"
@@ -1926,8 +2046,15 @@ msgstr ""
 msgid "Warning"
 msgstr "Предупреждение"
 
-msgid "Restart the application to apply the new language settings."
-msgstr "Перезапустите приложение, чтобы применить новые языковые настройки."
+msgid ""
+"To apply some settings, it is required to reboot Easygram. Do you want to "
+"reboot Easygram right now?"
+msgstr ""
+"Для применения некоторых настроек требуется перезапуск Easygram. Хотите "
+"перезапустить Easygram прямо сейчас?"
+
+msgid "Restart is required"
+msgstr "Необходим перезапуск"
 
 #, python-brace-format
 msgid "{name} (channel)"
@@ -1975,6 +2102,12 @@ msgstr "Анимация"
 
 msgid "Document"
 msgstr "Документ"
+
+msgid "(General topic)"
+msgstr "(Основная тема)"
+
+msgid "Closed"
+msgstr "Закрыта"
 
 msgid "Nothing is playing"
 msgstr "Ничего не воспроизводится"
@@ -2026,27 +2159,6 @@ msgstr "Скорость воспроизведения {rate}"
 msgid "Default playback device"
 msgstr "Устройство воспроизведения по умолчанию"
 
-msgid "Outgoing"
-msgstr "Исходящий"
-
-msgid "Incoming"
-msgstr "Входящий"
-
-msgid "Cancelled"
-msgstr "Отменённый"
-
-msgid "Missed"
-msgstr "Пропущенный"
-
-msgid "Declined"
-msgstr "Отклонённый"
-
-msgid "video call"
-msgstr "видео вызов"
-
-msgid "audio call"
-msgstr "аудио вызов"
-
 msgid "Selects a contact"
 msgstr "Выбирает контакт"
 
@@ -2082,6 +2194,96 @@ msgstr "Отправляет аудио"
 
 msgid "Watching animations"
 msgstr "Просматривает анимацию"
+
+msgid "Outgoing"
+msgstr "Исходящий"
+
+msgid "Incoming"
+msgstr "Входящий"
+
+msgid "Cancelled"
+msgstr "Отменённый"
+
+msgid "Missed"
+msgstr "Пропущенный"
+
+msgid "Declined"
+msgstr "Отклонённый"
+
+msgid "video call"
+msgstr "видео вызов"
+
+msgid "audio call"
+msgstr "аудио вызов"
+
+#~ msgid "Restart the application to apply the new language settings."
+#~ msgstr "Перезапустите приложение, чтобы применить новые языковые настройки."
+
+#~ msgid "Read chat list"
+#~ msgstr "Прочитать список чатов"
+
+#~ msgid "Detailed view"
+#~ msgstr "Детальный просмотр"
+
+#~ msgid "Copy text"
+#~ msgstr "Копировать текст"
+
+#~ msgid "Save in downloads"
+#~ msgstr "Сохранить в загрузки"
+
+#~ msgid "Reply"
+#~ msgstr "Ответить"
+
+#~ msgid "Pin"
+#~ msgstr "Закрепить"
+
+#~ msgid "Go to quoted message"
+#~ msgstr "Перейти к цитируемому сообщению"
+
+#~ msgid "Comments: {count}"
+#~ msgstr "Комментарии: {count}"
+
+#~ msgid "Go to original message"
+#~ msgstr "Перейти к исходному сообщению"
+
+#~ msgid "Add to favorites"
+#~ msgstr "До&бавить в избранное"
+
+#~ msgid "Forward"
+#~ msgstr "Переслать"
+
+#~ msgid "Add reaction"
+#~ msgstr "Добавить &реакцию"
+
+#~ msgid "Remove reaction {r}"
+#~ msgstr "Удалить реакцию {r}"
+
+#~ msgid "Open profile"
+#~ msgstr "Открыть профиль"
+
+#~ msgid "Open"
+#~ msgstr "Открыть"
+
+#~ msgid "Mark as read"
+#~ msgstr "Пометить прочитанным"
+
+#~ msgid "Move to archive"
+#~ msgstr "Переместить в &архив"
+
+#~ msgid "Unarchive"
+#~ msgstr "Разархивировать"
+
+#~ msgid "Clear history"
+#~ msgstr "О&чистить историю"
+
+#~ msgid "Show window"
+#~ msgstr "Отобразить окно"
+
+#~ msgid "Exit"
+#~ msgstr "Выход"
+
+#~ msgid "An error occurred while writing the file."
+#~ msgstr "Произошла ошибка при записи файла."
 
 #~ msgid "Attach file"
 #~ msgstr "Прикрепить файл"
