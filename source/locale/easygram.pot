@@ -6,13 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 'easygram' '0.33'\n"
+"Project-Id-Version: 'easygram' '0.42'\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-<<<<<<< Updated upstream
-"POT-Creation-Date: 2025-06-18 09:58+0300\n"
-=======
-"POT-Creation-Date: 2025-09-03 00:29+0300\n"
->>>>>>> Stashed changes
+"POT-Creation-Date: 2025-11-09 20:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,460 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-msgid "Slightly smiling face"
+msgid "Selected"
 msgstr ""
 
-msgid "Smiling face"
-msgstr ""
-
-msgid "Grinning face"
-msgstr ""
-
-msgid "Smiling face with smiling eyes"
-msgstr ""
-
-msgid "Smiling face with halo"
-msgstr ""
-
-msgid "Grinning face with big eyes"
-msgstr ""
-
-msgid "Grinning face with smiling eyes"
-msgstr ""
-
-msgid "Grinning squinting face"
-msgstr ""
-
-msgid "Grinning face with sweat"
-msgstr ""
-
-msgid "Rolling on the floor laughing"
-msgstr ""
-
-msgid "Face with tears of joy"
-msgstr ""
-
-msgid "Beaming face with smiling eyes"
-msgstr ""
-
-msgid "Smiling face with horns"
-msgstr ""
-
-msgid "Angry face with horns"
-msgstr ""
-
-msgid "Upside-down face"
-msgstr ""
-
-msgid "Melting face"
-msgstr ""
-
-msgid "Winking face"
-msgstr ""
-
-msgid "Winking face with tongue"
-msgstr ""
-
-msgid "Smiling face with open hands"
-msgstr ""
-
-msgid "Smiling face with hearts"
-msgstr ""
-
-msgid "Smiling face with heart-eyes"
-msgstr ""
-
-msgid "Star-struck"
-msgstr ""
-
-msgid "Face blowing a kiss"
-msgstr ""
-
-msgid "Kissing face"
-msgstr ""
-
-msgid "Kissing face with closed eyes"
-msgstr ""
-
-msgid "Kissing face with smiling eyes"
-msgstr ""
-
-msgid "Smiling face with tear"
-msgstr ""
-
-msgid "Face savoring food"
-msgstr ""
-
-msgid "Face with tongue"
-msgstr ""
-
-msgid "Face with hand over mouth"
-msgstr ""
-
-msgid "Face with open eyes and hand over mouth"
-msgstr ""
-
-msgid "Zany face"
-msgstr ""
-
-msgid "Squinting face with tongue"
-msgstr ""
-
-msgid "Money-mouth face"
-msgstr ""
-
-msgid "Face with peeking eye"
-msgstr ""
-
-msgid "Shushing face"
-msgstr ""
-
-msgid "Thinking face"
-msgstr ""
-
-msgid "Saluting face"
-msgstr ""
-
-msgid "Zipper-mouth face"
-msgstr ""
-
-msgid "Face with raised eyebrow"
-msgstr ""
-
-msgid "Neutral face"
-msgstr ""
-
-msgid "Expressionless face"
-msgstr ""
-
-msgid "Face without mouth"
-msgstr ""
-
-msgid "Dotted line face"
-msgstr ""
-
-msgid "Face in clouds"
-msgstr ""
-
-msgid "Smirking face"
-msgstr ""
-
-msgid "unamused face"
-msgstr ""
-
-msgid "Face with rolling eyes"
-msgstr ""
-
-msgid "Grimacing face"
-msgstr ""
-
-msgid "Face exhaling"
-msgstr ""
-
-msgid "Lying face"
-msgstr ""
-
-msgid "Shaking face"
-msgstr ""
-
-msgid "Relieved face"
-msgstr ""
-
-msgid "Pensive face"
-msgstr ""
-
-msgid "Sleepy face"
-msgstr ""
-
-msgid "Drooling face"
-msgstr ""
-
-msgid "Sleeping face"
-msgstr ""
-
-msgid "Face with medical mask"
-msgstr ""
-
-msgid "Face with thermometer"
-msgstr ""
-
-msgid "Face with head-bandage"
-msgstr ""
-
-msgid "Nauseated face"
-msgstr ""
-
-msgid "Face vomiting"
-msgstr ""
-
-msgid "Sneezing face"
-msgstr ""
-
-msgid "Hot face"
-msgstr ""
-
-msgid "Cold face"
-msgstr ""
-
-msgid "Woozy face"
-msgstr ""
-
-msgid "Face with crossed-out eyes"
-msgstr ""
-
-msgid "Face with spiral eyes"
-msgstr ""
-
-msgid "Exploding head"
-msgstr ""
-
-msgid "Cowboy hat face"
-msgstr ""
-
-msgid "Partying face"
-msgstr ""
-
-msgid "Smiling face with sunglasses"
-msgstr ""
-
-msgid "Nerd face"
-msgstr ""
-
-msgid "Face with monocle"
-msgstr ""
-
-msgid "Confused face"
-msgstr ""
-
-msgid "Face with diagonal mouth"
-msgstr ""
-
-msgid "Worried face"
-msgstr ""
-
-msgid "Slightly frowning face"
-msgstr ""
-
-msgid "Frowning face"
-msgstr ""
-
-msgid "Face with open mouth"
-msgstr ""
-
-msgid "Hushed face"
-msgstr ""
-
-msgid "Astonished face"
-msgstr ""
-
-msgid "Flushed face"
-msgstr ""
-
-msgid "Pleading face"
-msgstr ""
-
-msgid "Face holding back tears"
-msgstr ""
-
-msgid "Frowning face with open mouth"
-msgstr ""
-
-msgid "Anguished face"
-msgstr ""
-
-msgid "Fearful face"
-msgstr ""
-
-msgid "Anxious face with sweat"
-msgstr ""
-
-msgid "Sad but relieved face"
-msgstr ""
-
-msgid "Crying face"
-msgstr ""
-
-msgid "Loudly crying face"
-msgstr ""
-
-msgid "Face screaming in fear"
-msgstr ""
-
-msgid "Confounded face"
-msgstr ""
-
-msgid "Persevering face"
-msgstr ""
-
-msgid "Disappointed face"
-msgstr ""
-
-msgid "Downcast face with sweat"
-msgstr ""
-
-msgid "Weary face"
-msgstr ""
-
-msgid "Tired face"
-msgstr ""
-
-msgid "Yawning face"
-msgstr ""
-
-msgid "Enraged face"
-msgstr ""
-
-msgid "Angry face"
-msgstr ""
-
-msgid "Face with symbols on mouth"
-msgstr ""
-
-msgid "Skull"
-msgstr ""
-
-msgid "Skull and crossbones"
-msgstr ""
-
-msgid "Pile of poo"
-msgstr ""
-
-msgid "Clown face"
-msgstr ""
-
-msgid "Ogre"
-msgstr ""
-
-msgid "Goblin"
-msgstr ""
-
-msgid "Ghost"
-msgstr ""
-
-msgid "Alien"
-msgstr ""
-
-msgid "Alien monster"
-msgstr ""
-
-msgid "Robot"
-msgstr ""
-
-msgid "Grinning cat"
-msgstr ""
-
-msgid "Grinning cat with smiling eyes"
-msgstr ""
-
-msgid "Cat with tears of joy"
-msgstr ""
-
-msgid "Smiling cat with heart-eyes"
-msgstr ""
-
-msgid "Cat with wry smile"
-msgstr ""
-
-msgid "Kissing cat"
-msgstr ""
-
-msgid "Weary cat"
-msgstr ""
-
-msgid "Crying cat"
-msgstr ""
-
-msgid "Pouting cat"
-msgstr ""
-
-msgid "Thumbs up"
-msgstr ""
-
-msgid "Thumbs down"
-msgstr ""
-
-msgid "Clapping hands"
-msgstr ""
-
-msgid "Raising hands"
-msgstr ""
-
-msgid "Waving hand"
-msgstr ""
-
-msgid "OK hand"
-msgstr ""
-
-msgid "Pinching hand"
-msgstr ""
-
-msgid "Victory hand"
-msgstr ""
-
-msgid "Love-you gesture"
-msgstr ""
-
-msgid "Sign of the horns"
-msgstr ""
-
-msgid "Call me hand"
-msgstr ""
-
-msgid "Middle finger"
-msgstr ""
-
-msgid "Heart hands"
-msgstr ""
-
-msgid "Notebook with decorative cover"
-msgstr ""
-
-msgid "Closed book"
-msgstr ""
-
-msgid "Open book"
-msgstr ""
-
-msgid "Green book"
-msgstr ""
-
-msgid "Blue book"
-msgstr ""
-
-msgid "Orange book"
-msgstr ""
-
-msgid "Books"
-msgstr ""
-
-msgid "Notebook"
-msgstr ""
-
-msgid "Ledger"
-msgstr ""
-
-msgid "Page with curl"
-msgstr ""
-
-msgid "Scroll"
-msgstr ""
-
-msgid "Page facing up"
-msgstr ""
-
-msgid "Newspaper"
-msgstr ""
-
-msgid "Rolled-up newspaper"
-msgstr ""
-
-msgid "Bookmark tabs"
-msgstr ""
-
-msgid "Bookmark"
-msgstr ""
-
-msgid "Label"
+msgid "Not selected"
 msgstr ""
 
 msgid "Bot menu"
@@ -527,36 +73,34 @@ msgstr ""
 msgid "Join the channel"
 msgstr ""
 
-<<<<<<< Updated upstream
-=======
 msgid "Apply to join group"
 msgstr ""
 
 msgid "Join the group"
 msgstr ""
 
->>>>>>> Stashed changes
 msgid "Select topic"
 msgstr ""
 
 msgid "Close"
 msgstr ""
 
-<<<<<<< Updated upstream
-=======
+msgid "Multiple selection enabled"
+msgstr ""
+
+msgid "Multiple selection disabled"
+msgstr ""
+
 msgid "All files"
 msgstr ""
 
 msgid "Save file"
 msgstr ""
 
->>>>>>> Stashed changes
 #, python-brace-format
 msgid "Topic: {name}"
 msgstr ""
 
-<<<<<<< Updated upstream
-=======
 msgid "The request has been sent"
 msgstr ""
 
@@ -572,7 +116,6 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
->>>>>>> Stashed changes
 msgid "Messages"
 msgstr ""
 
@@ -642,15 +185,6 @@ msgid "Premium account"
 msgstr ""
 
 msgid "Skipped one-time voice message"
-msgstr ""
-
-msgid "Are you sure you want to delete this message?"
-msgstr ""
-
-msgid "Delete for everyone"
-msgstr ""
-
-msgid "Delete for yourself"
 msgstr ""
 
 msgid "There are no links in this message."
@@ -990,6 +524,25 @@ msgstr ""
 msgid "Delete message"
 msgstr ""
 
+msgid "Are you sure you want to delete this message?"
+msgstr ""
+
+#, python-brace-format
+msgid "Are you sure you want to delete {count} message?"
+msgid_plural "Are you sure you want to delete {count} messages?"
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-brace-format
+msgid "Delete also for {name}"
+msgstr ""
+
+msgid "Delete from all users"
+msgstr ""
+
+msgid "Revoke my messages"
+msgstr ""
+
 msgid "Delete"
 msgstr ""
 
@@ -1092,14 +645,19 @@ msgid "Views: {count}"
 msgstr ""
 
 #, python-brace-format
-msgid "Reactions: {reactions}"
-msgstr ""
-
-#, python-brace-format
 msgid "You sent a reaction {r}"
 msgstr ""
 
-msgid "Insert emoji"
+msgid "Emoji panel"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Filter:"
 msgstr ""
 
 msgid "List of pinned messages"
@@ -1123,16 +681,25 @@ msgstr ""
 msgid "Unpin all messages"
 msgstr ""
 
-msgid "Forward message"
-msgstr ""
+#, python-brace-format
+msgid "Forward {count} message"
+msgid_plural "Forward {count} messages"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "Chats:"
+msgstr ""
+
+msgid "Topic:"
 msgstr ""
 
 msgid "Advanced options"
 msgstr ""
 
 msgid "Hide sender name"
+msgstr ""
+
+msgid "Hide sender name (if available)"
 msgstr ""
 
 msgid "Remove caption"
@@ -1255,8 +822,6 @@ msgstr ""
 msgid "Topics:"
 msgstr ""
 
-<<<<<<< Updated upstream
-=======
 msgid "Search"
 msgstr ""
 
@@ -1284,7 +849,6 @@ msgstr ""
 msgid "Do you really want to clear search history?"
 msgstr ""
 
->>>>>>> Stashed changes
 msgid "Seen"
 msgstr ""
 
@@ -1348,6 +912,9 @@ msgid "Enter password"
 msgstr ""
 
 msgid "Password:"
+msgstr ""
+
+msgid "Password hint:"
 msgstr ""
 
 msgid ""
@@ -1427,6 +994,9 @@ msgid "&Add to favorites"
 msgstr ""
 
 msgid "&Forward"
+msgstr ""
+
+msgid "Copy lin&k"
 msgstr ""
 
 msgid "Add react&ion"
@@ -1509,6 +1079,12 @@ msgid "Open &chat"
 msgstr ""
 
 msgid "Contact &information"
+msgstr ""
+
+msgid "Delete from Favorites"
+msgstr ""
+
+msgid "Add to Favorites"
 msgstr ""
 
 msgid "You"
@@ -1741,6 +1317,118 @@ msgid "Received {date} at {time}"
 msgstr ""
 
 #, python-brace-format
+msgid "Custom emoji: {c}"
+msgstr ""
+
+#, python-brace-format
+msgid "Reaction paid: {c}"
+msgstr ""
+
+#, python-brace-format
+msgid "Unknown reaction: {c}"
+msgstr ""
+
+#, python-brace-format
+msgid "Reactions: {reactions}"
+msgstr ""
+
+#, python-brace-format
+msgid "Changed at {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Changed {date} at {time}"
+msgstr ""
+
+msgid "Storage settings"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "1 day"
+msgstr ""
+
+msgid "1 week"
+msgstr ""
+
+msgid "1 month"
+msgstr ""
+
+msgid "1 year"
+msgstr ""
+
+msgid "No limit"
+msgstr ""
+
+msgid "100 MB"
+msgstr ""
+
+msgid "200 MB"
+msgstr ""
+
+msgid "500 MB"
+msgstr ""
+
+msgid "1 GB"
+msgstr ""
+
+msgid "2 GB"
+msgstr ""
+
+msgid "5 GB"
+msgstr ""
+
+msgid "10 GB"
+msgstr ""
+
+msgid "20 GB"
+msgstr ""
+
+msgid "50 GB"
+msgstr ""
+
+msgid "Auto-remove cached media"
+msgstr ""
+
+msgid ""
+"Photos, videos and other files from cloud chats that you have not accessed "
+"during this period will be removed from this device to save disk space."
+msgstr ""
+
+msgid "Personal chats: unknown"
+msgstr ""
+
+msgid "Groups: unknown"
+msgstr ""
+
+msgid "Channels: unknown"
+msgstr ""
+
+msgid "Maximum cache size"
+msgstr ""
+
+msgid ""
+"If your cache size exceeds this limit, the oldest unused media will be "
+"removed from the device."
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+#, python-brace-format
+msgid "Personal chats: {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Groups: {time}"
+msgstr ""
+
+#, python-brace-format
+msgid "Channels: {time}"
+msgstr ""
+
+#, python-brace-format
 msgid "{program} preferences"
 msgstr ""
 
@@ -1769,12 +1457,6 @@ msgid "Close windows by pressing the ESCAPE key"
 msgstr ""
 
 msgid "Show the window after complit download"
-<<<<<<< Updated upstream
-msgstr ""
-
-msgid "Play event sounds"
-=======
->>>>>>> Stashed changes
 msgstr ""
 
 msgid "Downloads"
@@ -1830,6 +1512,18 @@ msgid "Chat window"
 msgstr ""
 
 msgid "Break up long messages"
+msgstr ""
+
+msgid "Keyboard settings"
+msgstr ""
+
+msgid "Multimedia keys"
+msgstr ""
+
+msgid "Handle multimedia keys"
+msgstr ""
+
+msgid "Multimedia keys:"
 msgstr ""
 
 msgid "chats settings"
@@ -1972,9 +1666,6 @@ msgstr ""
 msgid "In the foreground"
 msgstr ""
 
-msgid "Never"
-msgstr ""
-
 msgid "Network Status Changes:"
 msgstr ""
 
@@ -2011,7 +1702,10 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
-msgid "Clear storage"
+msgid "Clear cache"
+msgstr ""
+
+msgid "Delete all cloud drafts..."
 msgstr ""
 
 msgid "Troubleshooting"
@@ -2040,6 +1734,9 @@ msgstr ""
 msgid "Behavior"
 msgstr ""
 
+msgid "Keyboard"
+msgstr ""
+
 msgid "Chats"
 msgstr ""
 
@@ -2055,11 +1752,23 @@ msgstr ""
 msgid "Storage"
 msgstr ""
 
-msgid "Apply"
+msgid ""
+"Are you sure you want to delete all cloud drafts? This action cannot be "
+"undone!"
 msgstr ""
 
-<<<<<<< Updated upstream
-=======
+msgid "Warning"
+msgstr ""
+
+msgid "All cloud drafts have been successfully deleted."
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "An error occurred while deleting cloud drafts."
+msgstr ""
+
 msgid "Sound files"
 msgstr ""
 
@@ -2067,7 +1776,6 @@ msgstr ""
 msgid "A file with this name already exists: {name}"
 msgstr ""
 
->>>>>>> Stashed changes
 msgid ""
 "Be Careful! The enable of this option can lead to unstable operation of the "
 "application and various errors. Do you really want to turn on this parameter?"
@@ -2086,9 +1794,6 @@ msgid ""
 "Are you sure you want to clear storage? After this, all local copies of "
 "files from the cache will be deleted. Your search queries will also be "
 "cleared. This action cannot be undone!"
-msgstr ""
-
-msgid "Warning"
 msgstr ""
 
 msgid ""
@@ -2162,8 +1867,6 @@ msgstr ""
 msgid "Closed"
 msgstr ""
 
-<<<<<<< Updated upstream
-=======
 #, python-brace-format
 msgid "{name} (@{username}) (channel)"
 msgstr ""
@@ -2196,7 +1899,6 @@ msgid_plural "{count} members"
 msgstr[0] ""
 msgstr[1] ""
 
->>>>>>> Stashed changes
 msgid "Offline"
 msgstr ""
 
@@ -2277,6 +1979,9 @@ msgstr ""
 msgid "You have a new message"
 msgstr ""
 
+msgid "Disabled"
+msgstr ""
+
 msgid "Equalizer"
 msgstr ""
 
@@ -2318,6 +2023,12 @@ msgstr ""
 
 #, python-brace-format
 msgid "Volume {v}"
+msgstr ""
+
+msgid "Sound unmuted"
+msgstr ""
+
+msgid "Sound muted"
 msgstr ""
 
 #, python-brace-format
