@@ -14,9 +14,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.8\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-KeywordsList: n_\n"
 "X-Poedit-Basepath: ../../../emoji\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -26,25 +26,25 @@ msgid "grinning face"
 msgstr "широко улыбается"
 
 msgid "grinning face with big eyes"
-msgstr "смеется"
+msgstr "смеётся"
 
 msgid "grinning face with smiling eyes"
-msgstr "смеется с закрытыми глазами"
+msgstr "смеётся с закрытыми глазами"
 
 msgid "beaming face with smiling eyes"
 msgstr "светится от счастья"
 
 msgid "grinning squinting face"
-msgstr "смеется с прищуренными глазами"
+msgstr "смеётся с прищуренными глазами"
 
 msgid "grinning face with sweat"
-msgstr "нервно смеется"
+msgstr "нервно смеётся"
 
 msgid "rolling on the floor laughing"
 msgstr "катается со смеху"
 
 msgid "face with tears of joy"
-msgstr "смеется до слез"
+msgstr "смеётся до слез"
 
 msgid "slightly smiling face"
 msgstr "слегка улыбается"
@@ -68,10 +68,10 @@ msgid "smiling face with hearts"
 msgstr "улыбающееся лицо с сердечками"
 
 msgid "smiling face with heart-eyes"
-msgstr "влюбленное лицо"
+msgstr "влюблённое лицо"
 
 msgid "star-struck"
-msgstr "звезды в глазах"
+msgstr "звёзды в глазах"
 
 msgid "face blowing a kiss"
 msgstr "воздушный поцелуй"
@@ -137,7 +137,7 @@ msgid "face with raised eyebrow"
 msgstr "не верит"
 
 msgid "neutral face"
-msgstr "все равно"
+msgstr "всё равно"
 
 msgid "expressionless face"
 msgstr "без эмоций"
@@ -209,7 +209,7 @@ msgid "hot face"
 msgstr "жар"
 
 msgid "cold face"
-msgstr "мерзнет"
+msgstr "мёрзнет"
 
 msgid "woozy face"
 msgstr "чувствует головокружение"
@@ -233,7 +233,7 @@ msgid "disguised face"
 msgstr "маскировка"
 
 msgid "smiling face with sunglasses"
-msgstr "лицо в темных очках"
+msgstr "лицо в тёмных очках"
 
 msgid "nerd face"
 msgstr "очкарик"
@@ -272,7 +272,7 @@ msgid "pleading face"
 msgstr "умоляет"
 
 msgid "face holding back tears"
-msgstr "еле сдерживает слезы"
+msgstr "еле сдерживает слёзы"
 
 msgid "frowning face with open mouth"
 msgstr "в изумлении"
@@ -293,7 +293,7 @@ msgid "crying face"
 msgstr "плачет"
 
 msgid "loudly crying face"
-msgstr "слезы рекой"
+msgstr "слёзы рекой"
 
 msgid "face screaming in fear"
 msgstr "в ужасе"
@@ -332,10 +332,10 @@ msgid "face with symbols on mouth"
 msgstr "цензура"
 
 msgid "smiling face with horns"
-msgstr "улыбающийся чертенок"
+msgstr "улыбающийся чертёнок"
 
 msgid "angry face with horns"
-msgstr "злой чертенок"
+msgstr "злой чертёнок"
 
 msgid "skull"
 msgstr "череп"
@@ -374,10 +374,10 @@ msgid "grinning cat with smiling eyes"
 msgstr "смеющийся кот"
 
 msgid "cat with tears of joy"
-msgstr "смеющийся до слез кот"
+msgstr "смеющийся до слёз кот"
 
 msgid "smiling cat with heart-eyes"
-msgstr "влюбленный кот"
+msgstr "влюблённый кот"
 
 msgid "cat with wry smile"
 msgstr "ухмыляющийся кот"
@@ -407,7 +407,7 @@ msgid "love letter"
 msgstr "любовное письмо"
 
 msgid "heart with arrow"
-msgstr "сердце, пронзенное стрелой"
+msgstr "сердце, пронзённое стрелой"
 
 msgid "heart with ribbon"
 msgstr "сердце с лентой"
@@ -452,10 +452,10 @@ msgid "orange heart"
 msgstr "оранжевое сердце"
 
 msgid "yellow heart"
-msgstr "желтое сердце"
+msgstr "жёлтое сердце"
 
 msgid "green heart"
-msgstr "зеленое сердце"
+msgstr "зелёное сердце"
 
 msgid "blue heart"
 msgstr "синее сердце"
@@ -470,7 +470,7 @@ msgid "brown heart"
 msgstr "коричневое сердце"
 
 msgid "black heart"
-msgstr "черное сердце"
+msgstr "чёрное сердце"
 
 msgid "grey heart"
 msgstr "серое сердце"
@@ -554,7 +554,7 @@ msgid "rightwards pushing hand"
 msgstr "рука ладонью вправо"
 
 msgid "OK hand"
-msgstr "жест «все хорошо»"
+msgstr "жест «всё хорошо»"
 
 msgid "pinched fingers"
 msgstr "щепоть"
@@ -680,7 +680,7 @@ msgid "anatomical heart"
 msgstr "сердце человека"
 
 msgid "lungs"
-msgstr "легкие"
+msgstr "лёгкие"
 
 msgid "tooth"
 msgstr "зуб"
@@ -701,13 +701,13 @@ msgid "mouth"
 msgstr "рот"
 
 msgid "biting lip"
-msgstr "кусать губы"
+msgstr "кусает губы"
 
 msgid "baby"
 msgstr "младенец"
 
 msgid "child"
-msgstr "ребенок"
+msgstr "ребёнок"
 
 msgid "boy"
 msgstr "мальчик"
@@ -920,13 +920,13 @@ msgid "woman office worker"
 msgstr "офисная работница"
 
 msgid "scientist"
-msgstr "ученый"
+msgstr "учёный"
 
 msgid "man scientist"
-msgstr "мужчина-ученый"
+msgstr "мужчина-учёный"
 
 msgid "woman scientist"
-msgstr "ученая"
+msgstr "учёная"
 
 msgid "technologist"
 msgstr "инженер"
@@ -1088,10 +1088,10 @@ msgid "Santa Claus"
 msgstr "Санта-Клаус"
 
 msgid "Mrs. Claus"
-msgstr "миссис Клаус"
+msgstr "Миссис Клаус"
 
 msgid "mx claus"
-msgstr "Санта"
+msgstr "санта"
 
 msgid "superhero"
 msgstr "супергерой"
@@ -1196,13 +1196,13 @@ msgid "woman getting haircut"
 msgstr "женщина у парикмахера"
 
 msgid "person walking"
-msgstr "человек идет"
+msgstr "человек идёт"
 
 msgid "man walking"
-msgstr "мужчина идет"
+msgstr "мужчина идёт"
 
 msgid "woman walking"
-msgstr "женщина идет"
+msgstr "женщина идёт"
 
 msgid "person standing"
 msgstr "человек стоит"
@@ -1226,13 +1226,13 @@ msgid "person with white cane"
 msgstr "человек с белой тростью"
 
 msgid "man with white cane"
-msgstr "мужчина с тростью для ходьбы"
+msgstr "мужчина с белой тростью"
 
 msgid "woman with white cane"
-msgstr "женщина с тростью для ходьбы"
+msgstr "женщина с белой тростью"
 
 msgid "person in motorized wheelchair"
-msgstr "человек в кресле-коляске с мотором"
+msgstr "человек в электрическом кресле-коляске"
 
 msgid "man in motorized wheelchair"
 msgstr "мужчина в электрическом кресле-коляске"
@@ -1241,7 +1241,7 @@ msgid "woman in motorized wheelchair"
 msgstr "женщина в электрическом кресле-коляске"
 
 msgid "person in manual wheelchair"
-msgstr "человек в кресле-коляске с ручным приводом"
+msgstr "человек в ручном кресле-коляске"
 
 msgid "man in manual wheelchair"
 msgstr "мужчина в ручном кресле-коляске"
@@ -1316,13 +1316,13 @@ msgid "woman golfing"
 msgstr "женщина играет в гольф"
 
 msgid "person surfing"
-msgstr "серфинг"
+msgstr "сёрфинг"
 
 msgid "man surfing"
-msgstr "серфингист"
+msgstr "сёрфингист"
 
 msgid "woman surfing"
-msgstr "серфингистка"
+msgstr "сёрфингистка"
 
 msgid "person rowing boat"
 msgstr "гребля"
@@ -1415,13 +1415,13 @@ msgid "woman playing handball"
 msgstr "гандболистка"
 
 msgid "person juggling"
-msgstr "жонглер"
+msgstr "жонглёр"
 
 msgid "man juggling"
-msgstr "мужчина-жонглер"
+msgstr "мужчина-жонглёр"
 
 msgid "woman juggling"
-msgstr "женщина-жонглер"
+msgstr "женщина-жонглёр"
 
 msgid "person in lotus position"
 msgstr "человек в позе лотоса"
@@ -1448,7 +1448,7 @@ msgid "kiss"
 msgstr "поцелуй"
 
 msgid "couple with heart"
-msgstr "влюбленная пара"
+msgstr "влюблённая пара"
 
 msgid "speaking head"
 msgstr "говорящая голова"
@@ -1511,7 +1511,7 @@ msgid "cat"
 msgstr "кошка"
 
 msgid "black cat"
-msgstr "черная кошка"
+msgstr "чёрная кошка"
 
 msgid "lion"
 msgstr "морда льва"
@@ -1532,7 +1532,7 @@ msgid "moose"
 msgstr "лось"
 
 msgid "donkey"
-msgstr "осел"
+msgstr "осёл"
 
 msgid "horse"
 msgstr "лошадь"
@@ -1631,7 +1631,7 @@ msgid "beaver"
 msgstr "бобр"
 
 msgid "hedgehog"
-msgstr "еж"
+msgstr "ёж"
 
 msgid "bat"
 msgstr "летучая мышь"
@@ -1676,13 +1676,13 @@ msgid "rooster"
 msgstr "петух"
 
 msgid "hatching chick"
-msgstr "цыпленок в яйце"
+msgstr "цыплёнок в яйце"
 
 msgid "baby chick"
-msgstr "цыпленок боком"
+msgstr "цыплёнок боком"
 
 msgid "front-facing baby chick"
-msgstr "цыпленок"
+msgstr "цыплёнок"
 
 msgid "bird"
 msgstr "птица"
@@ -1694,7 +1694,7 @@ msgid "dove"
 msgstr "голубь"
 
 msgid "eagle"
-msgstr "орел"
+msgstr "орёл"
 
 msgid "duck"
 msgstr "утка"
@@ -1724,7 +1724,7 @@ msgid "wing"
 msgstr "крыло"
 
 msgid "black bird"
-msgstr "черная птица"
+msgstr "чёрная птица"
 
 msgid "goose"
 msgstr "гусь"
@@ -1775,7 +1775,7 @@ msgid "tropical fish"
 msgstr "тропическая рыба"
 
 msgid "blowfish"
-msgstr "рыба-еж"
+msgstr "рыба-ёж"
 
 msgid "shark"
 msgstr "акула"
@@ -1883,7 +1883,7 @@ msgid "potted plant"
 msgstr "растение в горшке"
 
 msgid "evergreen tree"
-msgstr "елка"
+msgstr "ёлка"
 
 msgid "deciduous tree"
 msgstr "дерево"
@@ -1904,7 +1904,7 @@ msgid "shamrock"
 msgstr "трилистник"
 
 msgid "four leaf clover"
-msgstr "четырехлистный клевер"
+msgstr "четырёхлистный клевер"
 
 msgid "maple leaf"
 msgstr "кленовый лист"
@@ -1952,7 +1952,7 @@ msgid "red apple"
 msgstr "красное яблоко"
 
 msgid "green apple"
-msgstr "зеленое яблоко"
+msgstr "зелёное яблоко"
 
 msgid "pear"
 msgstr "груша"
@@ -2006,7 +2006,7 @@ msgid "cucumber"
 msgstr "огурец"
 
 msgid "leafy green"
-msgstr "зеленый салат"
+msgstr "зелёный салат"
 
 msgid "broccoli"
 msgstr "брокколи"
@@ -2042,7 +2042,7 @@ msgid "baguette bread"
 msgstr "багет"
 
 msgid "flatbread"
-msgstr "лепешка"
+msgstr "лепёшка"
 
 msgid "pretzel"
 msgstr "крендель"
@@ -2156,7 +2156,7 @@ msgid "spaghetti"
 msgstr "спагетти"
 
 msgid "roasted sweet potato"
-msgstr "печеный сладкий картофель"
+msgstr "печёный сладкий картофель"
 
 msgid "oden"
 msgstr "одэн"
@@ -2240,7 +2240,7 @@ msgid "custard"
 msgstr "пудинг"
 
 msgid "honey pot"
-msgstr "мед"
+msgstr "мёд"
 
 msgid "baby bottle"
 msgstr "бутылочка с соской"
@@ -2324,13 +2324,13 @@ msgid "amphora"
 msgstr "амфора"
 
 msgid "globe showing Europe-Africa"
-msgstr "Европа и Африка на земном шаре"
+msgstr "глобус с Европой и Африкой"
 
 msgid "globe showing Americas"
-msgstr "Америка на земном шаре"
+msgstr "глобус с Северной и южной Америкой"
 
 msgid "globe showing Asia-Australia"
-msgstr "Азия и Австралия на земном шаре"
+msgstr "глобус с Азией и Австралией"
 
 msgid "globe with meridians"
 msgstr "меридианы"
@@ -2354,7 +2354,7 @@ msgid "volcano"
 msgstr "вулкан"
 
 msgid "mount fuji"
-msgstr "Фудзияма"
+msgstr "фудзияма"
 
 msgid "camping"
 msgstr "кемпинг"
@@ -2408,7 +2408,7 @@ msgid "office building"
 msgstr "офисное здание"
 
 msgid "Japanese post office"
-msgstr "японская почта"
+msgstr "Японское почтовое отделение"
 
 msgid "post office"
 msgstr "почта"
@@ -2438,7 +2438,7 @@ msgid "factory"
 msgstr "завод"
 
 msgid "Japanese castle"
-msgstr "японский замок"
+msgstr "Японский замок"
 
 msgid "castle"
 msgstr "замок"
@@ -2450,7 +2450,7 @@ msgid "Tokyo tower"
 msgstr "Токийская башня"
 
 msgid "Statue of Liberty"
-msgstr "статуя Свободы"
+msgstr "Статуя Свободы"
 
 msgid "church"
 msgstr "церковь"
@@ -2468,7 +2468,7 @@ msgid "shinto shrine"
 msgstr "синтоистский храм"
 
 msgid "kaaba"
-msgstr "Кааба"
+msgstr "кааба"
 
 msgid "fountain"
 msgstr "фонтан"
@@ -2480,7 +2480,7 @@ msgid "foggy"
 msgstr "туман"
 
 msgid "night with stars"
-msgstr "звездная ночь"
+msgstr "звёздная ночь"
 
 msgid "cityscape"
 msgstr "ночной город"
@@ -2519,7 +2519,7 @@ msgid "barber pole"
 msgstr "парикмахерская"
 
 msgid "circus tent"
-msgstr "цирковой шатер"
+msgstr "цирковой шатёр"
 
 msgid "locomotive"
 msgstr "паровоз"
@@ -2540,7 +2540,7 @@ msgid "metro"
 msgstr "метро"
 
 msgid "light rail"
-msgstr "легкий рельсовый транспорт"
+msgstr "лёгкий рельсовый транспорт"
 
 msgid "station"
 msgstr "железнодорожный вокзал"
@@ -2699,13 +2699,13 @@ msgid "ship"
 msgstr "корабль"
 
 msgid "airplane"
-msgstr "самолет"
+msgstr "самолёт"
 
 msgid "small airplane"
-msgstr "маленький самолет"
+msgstr "маленький самолёт"
 
 msgid "airplane departure"
-msgstr "взлет"
+msgstr "взлёт"
 
 msgid "airplane arrival"
 msgstr "посадка"
@@ -2717,13 +2717,13 @@ msgid "seat"
 msgstr "кресло"
 
 msgid "helicopter"
-msgstr "вертолет"
+msgstr "вертолёт"
 
 msgid "suspension railway"
 msgstr "подвесная железная дорога"
 
 msgid "mountain cableway"
-msgstr "вагон фуникулера"
+msgstr "вагон фуникулёра"
 
 msgid "aerial tramway"
 msgstr "канатная дорога"
@@ -2786,7 +2786,7 @@ msgid "three o’clock"
 msgstr "три часа"
 
 msgid "three-thirty"
-msgstr "полчетвертого"
+msgstr "полчетвёртого"
 
 msgid "four o’clock"
 msgstr "четыре часа"
@@ -2897,7 +2897,7 @@ msgid "shooting star"
 msgstr "падающая звезда"
 
 msgid "milky way"
-msgstr "Млечный Путь"
+msgstr "млечный Путь"
 
 msgid "cloud"
 msgstr "облако"
@@ -2948,7 +2948,7 @@ msgid "umbrella"
 msgstr "зонт"
 
 msgid "umbrella with rain drops"
-msgstr "зонт под дождем"
+msgstr "зонт под дождём"
 
 msgid "umbrella on ground"
 msgstr "пляжный зонт"
@@ -2981,7 +2981,7 @@ msgid "jack-o-lantern"
 msgstr "тыква-фонарь"
 
 msgid "Christmas tree"
-msgstr "новогодняя елка"
+msgstr "Новогодняя ёлка"
 
 msgid "fireworks"
 msgstr "фейерверк"
@@ -2993,7 +2993,7 @@ msgid "firecracker"
 msgstr "динамитная шашка"
 
 msgid "sparkles"
-msgstr "блестки"
+msgstr "блёстки"
 
 msgid "balloon"
 msgstr "воздушный шарик"
@@ -3011,7 +3011,7 @@ msgid "pine decoration"
 msgstr "украшенный бамбук"
 
 msgid "Japanese dolls"
-msgstr "японские куклы"
+msgstr "Японские куклы"
 
 msgid "carp streamer"
 msgstr "вымпелы в виде карпов"
@@ -3107,7 +3107,7 @@ msgid "badminton"
 msgstr "бадминтон"
 
 msgid "boxing glove"
-msgstr "боксерская перчатка"
+msgstr "боксёрская перчатка"
 
 msgid "martial arts uniform"
 msgstr "спортивное кимоно"
@@ -3137,7 +3137,7 @@ msgid "sled"
 msgstr "санки"
 
 msgid "curling stone"
-msgstr "керлинг"
+msgstr "кёрлинг"
 
 msgid "bullseye"
 msgstr "мишень"
@@ -3185,7 +3185,7 @@ msgid "mirror ball"
 msgstr "диско-шар"
 
 msgid "nesting dolls"
-msgstr "матрешка"
+msgstr "матрёшка"
 
 msgid "spade suit"
 msgstr "пики"
@@ -3296,7 +3296,7 @@ msgid "folding hand fan"
 msgstr "веер"
 
 msgid "purse"
-msgstr "кошелек"
+msgstr "кошелёк"
 
 msgid "handbag"
 msgstr "сумка"
@@ -3362,7 +3362,7 @@ msgid "rescue worker’s helmet"
 msgstr "каска с белым крестом"
 
 msgid "prayer beads"
-msgstr "четки"
+msgstr "чётки"
 
 msgid "lipstick"
 msgstr "помада"
@@ -3398,7 +3398,7 @@ msgid "bell"
 msgstr "колокольчик"
 
 msgid "bell with slash"
-msgstr "перечеркнутый колокольчик"
+msgstr "перечёркнутый колокольчик"
 
 msgid "musical score"
 msgstr "нотный стан"
@@ -3512,19 +3512,19 @@ msgid "floppy disk"
 msgstr "дискета"
 
 msgid "optical disk"
-msgstr "CD"
+msgstr "cd-диск"
 
 msgid "dvd"
-msgstr "DVD"
+msgstr "dvd-диск"
 
 msgid "abacus"
-msgstr "счеты"
+msgstr "счёты"
 
 msgid "movie camera"
 msgstr "кинокамера"
 
 msgid "film frames"
-msgstr "кинопленка"
+msgstr "киноплёнка"
 
 msgid "film projector"
 msgstr "кинопроектор"
@@ -3548,10 +3548,10 @@ msgid "videocassette"
 msgstr "видеокассета"
 
 msgid "magnifying glass tilted left"
-msgstr "лупа, наклоненная влево"
+msgstr "лупа, наклонённая влево"
 
 msgid "magnifying glass tilted right"
-msgstr "лупа, наклоненная вправо"
+msgstr "лупа, наклонённая вправо"
 
 msgid "candle"
 msgstr "свеча"
@@ -3578,7 +3578,7 @@ msgid "open book"
 msgstr "открытая книга"
 
 msgid "green book"
-msgstr "зеленая книга"
+msgstr "зелёная книга"
 
 msgid "blue book"
 msgstr "синяя книга"
@@ -3608,7 +3608,7 @@ msgid "newspaper"
 msgstr "газета"
 
 msgid "rolled-up newspaper"
-msgstr "свернутая газета"
+msgstr "свёрнутая газета"
 
 msgid "bookmark tabs"
 msgstr "стикеры-закладки"
@@ -3836,13 +3836,13 @@ msgid "wrench"
 msgstr "гаечный ключ"
 
 msgid "screwdriver"
-msgstr "отвертка"
+msgstr "отвёртка"
 
 msgid "nut and bolt"
 msgstr "болт и гайка"
 
 msgid "gear"
-msgstr "шестеренка"
+msgstr "шестерёнка"
 
 msgid "clamp"
 msgstr "компрессор"
@@ -3881,7 +3881,7 @@ msgid "petri dish"
 msgstr "чашка Петри"
 
 msgid "dna"
-msgstr "ДНК"
+msgstr "дНК"
 
 msgid "microscope"
 msgstr "микроскоп"
@@ -3977,7 +3977,7 @@ msgid "bubbles"
 msgstr "пузыри"
 
 msgid "toothbrush"
-msgstr "зубная щетка"
+msgstr "зубная щётка"
 
 msgid "sponge"
 msgstr "губка"
@@ -4061,13 +4061,13 @@ msgid "children crossing"
 msgstr "знак «дети»"
 
 msgid "no entry"
-msgstr "въезд запрещен"
+msgstr "въезд запрещён"
 
 msgid "prohibited"
 msgstr "запрещено"
 
 msgid "no bicycles"
-msgstr "перечеркнутый велосипед"
+msgstr "перечёркнутый велосипед"
 
 msgid "no smoking"
 msgstr "курение запрещено"
@@ -4079,7 +4079,7 @@ msgid "non-potable water"
 msgstr "непитьевая вода"
 
 msgid "no pedestrians"
-msgstr "переход запрещен"
+msgstr "переход запрещён"
 
 msgid "no mobile phones"
 msgstr "мобильные телефоны запрещены"
@@ -4187,43 +4187,43 @@ msgid "khanda"
 msgstr "кханда"
 
 msgid "Aries"
-msgstr "знак зодиака Овен"
+msgstr "Знак зодиака Овен"
 
 msgid "Taurus"
-msgstr "знак зодиака Телец"
+msgstr "Знак зодиака Телец"
 
 msgid "Gemini"
-msgstr "знак зодиака Близнецы"
+msgstr "Знак зодиака Близнецы"
 
 msgid "Cancer"
-msgstr "знак зодиака Рак"
+msgstr "Знак зодиака Рак"
 
 msgid "Leo"
-msgstr "знак зодиака Лев"
+msgstr "Знак зодиака Лев"
 
 msgid "Virgo"
-msgstr "знак зодиака Дева"
+msgstr "Знак зодиака Дева"
 
 msgid "Libra"
-msgstr "знак зодиака Весы"
+msgstr "Знак зодиака Весы"
 
 msgid "Scorpio"
-msgstr "знак зодиака Скорпион"
+msgstr "Знак зодиака Скорпион"
 
 msgid "Sagittarius"
-msgstr "знак зодиака Стрелец"
+msgstr "Знак зодиака Стрелец"
 
 msgid "Capricorn"
-msgstr "знак зодиака Козерог"
+msgstr "Знак зодиака Козерог"
 
 msgid "Aquarius"
-msgstr "знак зодиака Водолей"
+msgstr "Знак зодиака Водолей"
 
 msgid "Pisces"
-msgstr "знак зодиака Рыбы"
+msgstr "Знак зодиака Рыбы"
 
 msgid "Ophiuchus"
-msgstr "знак зодиака Змееносец"
+msgstr "Знак зодиака Змееносец"
 
 msgid "shuffle tracks button"
 msgstr "случайный выбор"
@@ -4238,7 +4238,7 @@ msgid "play button"
 msgstr "воспроизведение"
 
 msgid "fast-forward button"
-msgstr "перемотка вперед"
+msgstr "перемотка вперёд"
 
 msgid "next track button"
 msgstr "следующий трек"
@@ -4256,16 +4256,16 @@ msgid "last track button"
 msgstr "предыдущий трек"
 
 msgid "upwards button"
-msgstr "треугольник острием вверх"
+msgstr "треугольник остриём вверх"
 
 msgid "fast up button"
-msgstr "два треугольника острием вверх"
+msgstr "два треугольника остриём вверх"
 
 msgid "downwards button"
-msgstr "треугольник острием вниз"
+msgstr "треугольник остриём вниз"
 
 msgid "fast down button"
-msgstr "два треугольника острием вниз"
+msgstr "два треугольника остриём вниз"
 
 msgid "pause button"
 msgstr "пауза"
@@ -4358,7 +4358,7 @@ msgid "name badge"
 msgstr "бейдж"
 
 msgid "Japanese symbol for beginner"
-msgstr "символ новичка"
+msgstr "Японский символ новичка"
 
 msgid "hollow red circle"
 msgstr "красное кольцо"
@@ -4385,7 +4385,7 @@ msgid "double curly loop"
 msgstr "двойная петля"
 
 msgid "eight-spoked asterisk"
-msgstr "восьмиконечная звездочка"
+msgstr "восьмиконечная звёздочка"
 
 msgid "eight-pointed star"
 msgstr "восьмиконечная звезда"
@@ -4466,55 +4466,55 @@ msgid "VS button"
 msgstr "значок «против»"
 
 msgid "Japanese “here” button"
-msgstr "значок «здесь»"
+msgstr "Японское слово “здесь”"
 
 msgid "Japanese “service charge” button"
-msgstr "цена услуги"
+msgstr "Японский символ “плата за обслуживание”"
 
 msgid "Japanese “monthly amount” button"
-msgstr "месяц"
+msgstr "Японский символ “ежемесячный взнос”"
 
 msgid "Japanese “not free of charge” button"
-msgstr "платно"
+msgstr "Японский символ “платно”"
 
 msgid "Japanese “reserved” button"
-msgstr "забронировано"
+msgstr "Японский символ “забронировано”"
 
 msgid "Japanese “bargain” button"
-msgstr "удачная сделка"
+msgstr "Японский символ “распродажа”"
 
 msgid "Japanese “discount” button"
-msgstr "скидка"
+msgstr "Японский символ “скидка”"
 
 msgid "Japanese “free of charge” button"
-msgstr "бесплатно"
+msgstr "Японский символ “бесплатно”"
 
 msgid "Japanese “prohibited” button"
-msgstr "запрет"
+msgstr "Японский символ “запрещено”"
 
 msgid "Japanese “acceptable” button"
-msgstr "допустимость"
+msgstr "Японский символ “допустимо”"
 
 msgid "Japanese “application” button"
-msgstr "заявка"
+msgstr "Японский символ “заявление”"
 
 msgid "Japanese “passing grade” button"
-msgstr "проходной балл"
+msgstr "Японский символ “проходной балл”"
 
 msgid "Japanese “vacancy” button"
-msgstr "есть места"
+msgstr "Японский символ “есть места”"
 
 msgid "Japanese “congratulations” button"
-msgstr "поздравление"
+msgstr "Японский символ “поздравляю”"
 
 msgid "Japanese “secret” button"
-msgstr "секрет"
+msgstr "Японский символ “секретно”"
 
 msgid "Japanese “open for business” button"
-msgstr "открыто"
+msgstr "Японский символ открыто для “бизнеса”"
 
 msgid "Japanese “no vacancy” button"
-msgstr "нет мест"
+msgstr "Японский символ “нет мест”"
 
 msgid "red circle"
 msgstr "красный круг"
@@ -4523,10 +4523,10 @@ msgid "orange circle"
 msgstr "оранжевый круг"
 
 msgid "yellow circle"
-msgstr "желтый круг"
+msgstr "жёлтый круг"
 
 msgid "green circle"
-msgstr "зеленый круг"
+msgstr "зелёный круг"
 
 msgid "blue circle"
 msgstr "голубой круг"
@@ -4538,7 +4538,7 @@ msgid "brown circle"
 msgstr "коричневый круг"
 
 msgid "black circle"
-msgstr "черный круг"
+msgstr "чёрный круг"
 
 msgid "white circle"
 msgstr "белый круг"
@@ -4550,10 +4550,10 @@ msgid "orange square"
 msgstr "оранжевый квадрат"
 
 msgid "yellow square"
-msgstr "желтый квадрат"
+msgstr "жёлтый квадрат"
 
 msgid "green square"
-msgstr "зеленый квадрат"
+msgstr "зелёный квадрат"
 
 msgid "blue square"
 msgstr "синий квадрат"
@@ -4565,13 +4565,13 @@ msgid "brown square"
 msgstr "коричневый квадрат"
 
 msgid "black large square"
-msgstr "большой черный квадрат"
+msgstr "большой чёрный квадрат"
 
 msgid "white large square"
 msgstr "большой белый квадрат"
 
 msgid "black small square"
-msgstr "черный квадратик"
+msgstr "чёрный квадратик"
 
 msgid "white small square"
 msgstr "белый квадратик"
@@ -4604,7 +4604,7 @@ msgid "white square button"
 msgstr "кнопка с белой рамкой"
 
 msgid "black square button"
-msgstr "кнопка с черной рамкой"
+msgstr "кнопка с чёрной рамкой"
 
 msgid "chequered flag"
 msgstr "клетчатый флаг"
@@ -4616,7 +4616,7 @@ msgid "crossed flags"
 msgstr "скрещенные флаги"
 
 msgid "black flag"
-msgstr "черный флаг"
+msgstr "чёрный флаг"
 
 msgid "white flag"
 msgstr "белый флаг"
@@ -4664,7 +4664,7 @@ msgid "kiss: woman, man"
 msgstr "поцелуй: женщина мужчина"
 
 msgid "couple with heart: woman, man"
-msgstr "влюбленная пара: женщина мужчина"
+msgstr "влюблённая пара: женщина мужчина"
 
 msgid "family: man, woman, boy"
 msgstr "семья: мужчина женщина мальчик"
@@ -5417,10 +5417,10 @@ msgid "flag: U.S. Outlying Islands"
 msgstr "флаг: Внешние малые о-ва (США)"
 
 msgid "flag: United Nations"
-msgstr "флаг: Организация Объединенных Наций"
+msgstr "флаг: Организация Объединённых Наций"
 
 msgid "flag: United States"
-msgstr "флаг: Соединенные Штаты"
+msgstr "флаг: Соединённые Штаты"
 
 msgid "flag: Uruguay"
 msgstr "флаг: Уругвай"
