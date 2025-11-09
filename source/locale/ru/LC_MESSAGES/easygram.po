@@ -1,14 +1,13 @@
 # Easygram localization
-# Copyright (C) 2021 - 2022 Eugene  Poplavsky
+# Copyright (C) 2021 - 2025 Eugene  Poplavsky
+# Copyright (C) 2022 - 2025 Peter Ivanovich
 # This file is distributed under the same license as the 'easygram' package.
-# Eugene Poplavsky <jawhien@gmail.com>, 2021 - 2022
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.33\n"
+"Project-Id-Version: Easygram 0.40\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-06-15 14:36+0300\n"
-"PO-Revision-Date: 2025-06-15 14:37+0300\n"
+"POT-Creation-Date: 2025-11-07 20:31+0300\n"
+"PO-Revision-Date: 2025-11-07 21:28+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>\n"
@@ -24,461 +23,32 @@ msgstr ""
 "X-Poedit-KeywordsList: N_\n"
 "X-Poedit-SearchPath-0: .\n"
 
-msgid "Slightly smiling face"
-msgstr "Слегка улыбающееся лицо"
+msgid "Faces and emotions"
+msgstr "Лица и эмоции"
 
-msgid "Smiling face"
-msgstr "Улыбающееся лицо"
+msgid "People and gestures"
+msgstr "Люди и жесты"
 
-msgid "Grinning face"
-msgstr "Ухмыляющееся лицо"
+msgid "Animals and nature"
+msgstr "Животные и природа"
 
-msgid "Smiling face with smiling eyes"
-msgstr "Улыбающееся лицо с улыбающимися глазами"
+msgid "Food and drink"
+msgstr "Еда и напитки"
 
-msgid "Smiling face with halo"
-msgstr "Улыбающееся лицо с нимбом"
+msgid "Travel and places"
+msgstr "Путешествия и места"
 
-msgid "Grinning face with big eyes"
-msgstr "Улыбающееся лицо с открытым ртом"
+msgid "Activities"
+msgstr "Занятия"
 
-msgid "Grinning face with smiling eyes"
-msgstr "Улыбающееся лицо с улыбающимися глазами"
+msgid "Objects"
+msgstr "Объекты"
 
-msgid "Grinning squinting face"
-msgstr "Смеется с прищуренными глазами"
+msgid "Symbols"
+msgstr "Символы"
 
-msgid "Grinning face with sweat"
-msgstr "Нервно смеется"
-
-msgid "Rolling on the floor laughing"
-msgstr "Катается по полу от смеха"
-
-msgid "Face with tears of joy"
-msgstr "Лицо со слезами радости"
-
-msgid "Beaming face with smiling eyes"
-msgstr "Счастливое лицо с улыбающимися глазами"
-
-msgid "Smiling face with horns"
-msgstr "Улыбающееся лицо с рогами"
-
-msgid "Angry face with horns"
-msgstr "Злой чертёнок"
-
-msgid "Upside-down face"
-msgstr "Перевернутое лицо"
-
-msgid "Melting face"
-msgstr "Тает"
-
-msgid "Winking face"
-msgstr "Подмигивает"
-
-msgid "Winking face with tongue"
-msgstr "Подмигивающее лицо с открытым ртом"
-
-msgid "Smiling face with open hands"
-msgstr "Обнимает"
-
-msgid "Smiling face with hearts"
-msgstr "Улыбающееся лицо с сердечками"
-
-msgid "Smiling face with heart-eyes"
-msgstr "Улыбающееся лицо с глазами сердечками"
-
-msgid "Star-struck"
-msgstr "Звёзды в глазах"
-
-msgid "Face blowing a kiss"
-msgstr "Воздушный поцелуй"
-
-msgid "Kissing face"
-msgstr "Целует"
-
-msgid "Kissing face with closed eyes"
-msgstr "Целует с закрытыми глазами"
-
-msgid "Kissing face with smiling eyes"
-msgstr "Целует с улыбающимися глазами"
-
-msgid "Smiling face with tear"
-msgstr "Улыбающееся лицо со слезой"
-
-msgid "Face savoring food"
-msgstr "Вкусно"
-
-msgid "Face with tongue"
-msgstr "Показывает язык"
-
-msgid "Face with hand over mouth"
-msgstr "Прикрывает рот рукой"
-
-msgid "Face with open eyes and hand over mouth"
-msgstr "Прикрывает рот рукой с открытыми глазами"
-
-msgid "Zany face"
-msgstr "Сумасшедшее лицо"
-
-msgid "Squinting face with tongue"
-msgstr "Морщится и показывает язык"
-
-msgid "Money-mouth face"
-msgstr "Деньги в глазах"
-
-msgid "Face with peeking eye"
-msgstr "Подсматривает"
-
-msgid "Shushing face"
-msgstr "Тсс"
-
-msgid "Thinking face"
-msgstr "Задумчивое лицо"
-
-msgid "Saluting face"
-msgstr "Лицо, отдающее приветствие"
-
-msgid "Zipper-mouth face"
-msgstr "Рот на замке"
-
-msgid "Face with raised eyebrow"
-msgstr "Лицо с поднятой бровью"
-
-msgid "Neutral face"
-msgstr "Нейтральное лицо"
-
-msgid "Expressionless face"
-msgstr "Безразличное лицо"
-
-msgid "Face without mouth"
-msgstr "Лицо без рта"
-
-msgid "Dotted line face"
-msgstr "Лицо в виде пунктира"
-
-msgid "Face in clouds"
-msgstr "Лицо в облаках"
-
-msgid "Smirking face"
-msgstr "Ухмыляющееся лицо"
-
-msgid "unamused face"
-msgstr "Недовольное лицо"
-
-msgid "Face with rolling eyes"
-msgstr "Закатывает глаза"
-
-msgid "Grimacing face"
-msgstr "Гримаса"
-
-msgid "Face exhaling"
-msgstr "Выдыхает"
-
-msgid "Lying face"
-msgstr "Лжец"
-
-msgid "Shaking face"
-msgstr "Трясущееся лицо"
-
-msgid "Relieved face"
-msgstr "Испытывает облегчение"
-
-msgid "Pensive face"
-msgstr "Размышляет"
-
-msgid "Sleepy face"
-msgstr "Сонное лицо"
-
-msgid "Drooling face"
-msgstr "Пускает слюни"
-
-msgid "Sleeping face"
-msgstr "Спящее лицо"
-
-msgid "Face with medical mask"
-msgstr "Лицо в медицинской маске"
-
-msgid "Face with thermometer"
-msgstr "Лицо с термометром"
-
-msgid "Face with head-bandage"
-msgstr "Лицо с перевязанной головой"
-
-msgid "Nauseated face"
-msgstr "Тошнит"
-
-msgid "Face vomiting"
-msgstr "Рвота"
-
-msgid "Sneezing face"
-msgstr "Чихает"
-
-msgid "Hot face"
-msgstr "Жар"
-
-msgid "Cold face"
-msgstr "Мёрзнет"
-
-msgid "Woozy face"
-msgstr "Чувствует головокружение"
-
-msgid "Face with crossed-out eyes"
-msgstr "Головокружение"
-
-msgid "Face with spiral eyes"
-msgstr "Ошеломлённое лицо"
-
-msgid "Exploding head"
-msgstr "Взрыв мозга"
-
-msgid "Cowboy hat face"
-msgstr "Лицо в ковбойской шляпе"
-
-msgid "Partying face"
-msgstr "На вечеринке"
-
-msgid "Smiling face with sunglasses"
-msgstr "Улыбающееся лицо в солнцезащитных очках"
-
-msgid "Nerd face"
-msgstr "Очкарик"
-
-msgid "Face with monocle"
-msgstr "Лицо с моноклем"
-
-msgid "Confused face"
-msgstr "Смущенное лицо"
-
-msgid "Face with diagonal mouth"
-msgstr "Лицо с перекошенным ртом"
-
-msgid "Worried face"
-msgstr "Беспокоится"
-
-msgid "Slightly frowning face"
-msgstr "Немного хмурится"
-
-msgid "Frowning face"
-msgstr "Хмурое лицо"
-
-msgid "Face with open mouth"
-msgstr "Удивлённое лицо"
-
-msgid "Hushed face"
-msgstr "Неприятный сюрприз"
-
-msgid "Astonished face"
-msgstr "В шоке"
-
-msgid "Flushed face"
-msgstr "Краснеет"
-
-msgid "Pleading face"
-msgstr "Умоляет"
-
-msgid "Face holding back tears"
-msgstr "Еле сдерживает слёзы"
-
-msgid "Frowning face with open mouth"
-msgstr "Изумлённое лицо"
-
-msgid "Anguished face"
-msgstr "Страдает"
-
-msgid "Fearful face"
-msgstr "Боится"
-
-msgid "Anxious face with sweat"
-msgstr "Сильно беспокоится"
-
-msgid "Sad but relieved face"
-msgstr "Обошлось"
-
-msgid "Crying face"
-msgstr "Плачет"
-
-msgid "Loudly crying face"
-msgstr "Слёзы рекой"
-
-msgid "Face screaming in fear"
-msgstr "В ужасе"
-
-msgid "Confounded face"
-msgstr "Растерянное лицо"
-
-msgid "Persevering face"
-msgstr "Упорство"
-
-msgid "Disappointed face"
-msgstr "Разочарованное лицо"
-
-msgid "Downcast face with sweat"
-msgstr "Лицо в холодном поту"
-
-msgid "Weary face"
-msgstr "Усталое лицо"
-
-msgid "Tired face"
-msgstr "Сильно усталое лицо"
-
-msgid "Yawning face"
-msgstr "Зевает"
-
-msgid "Enraged face"
-msgstr "Лицо в ярости"
-
-msgid "Angry face"
-msgstr "Злое лицо"
-
-msgid "Face with symbols on mouth"
-msgstr "Цензура"
-
-msgid "Skull"
-msgstr "Череп"
-
-msgid "Skull and crossbones"
-msgstr "Череп и кости"
-
-msgid "Pile of poo"
-msgstr "Какашка"
-
-msgid "Clown face"
-msgstr "Клоун"
-
-msgid "Ogre"
-msgstr "Чудовище"
-
-msgid "Goblin"
-msgstr "Японский гоблин"
-
-msgid "Ghost"
-msgstr "Привидение"
-
-msgid "Alien"
-msgstr "Инопланетянин"
-
-msgid "Alien monster"
-msgstr "Космический монстр"
-
-msgid "Robot"
-msgstr "Робот"
-
-msgid "Grinning cat"
-msgstr "Улыбающийся кот"
-
-msgid "Grinning cat with smiling eyes"
-msgstr "Улыбающийся кот с улыбающимися глазами"
-
-msgid "Cat with tears of joy"
-msgstr "Смеющийся до слез кот"
-
-msgid "Smiling cat with heart-eyes"
-msgstr "Влюблённый кот"
-
-msgid "Cat with wry smile"
-msgstr "Ухмыляющийся кот"
-
-msgid "Kissing cat"
-msgstr "Целующий кот"
-
-msgid "Weary cat"
-msgstr "Кот в шоке"
-
-msgid "Crying cat"
-msgstr "Плачущий кот"
-
-msgid "Pouting cat"
-msgstr "Злой кот"
-
-msgid "Thumbs up"
-msgstr "Большой палец вверх"
-
-msgid "Thumbs down"
-msgstr "Большой палец вниз"
-
-msgid "Clapping hands"
-msgstr "Аплодисменты"
-
-msgid "Raising hands"
-msgstr "Жест ура"
-
-msgid "Waving hand"
-msgstr "Машет рукой"
-
-msgid "OK hand"
-msgstr "Жест \"все хорошо\""
-
-msgid "Pinching hand"
-msgstr "Жест \"мало\""
-
-msgid "Victory hand"
-msgstr "Жест V"
-
-msgid "Love-you gesture"
-msgstr "Жест \"я-тебя-люблю\""
-
-msgid "Sign of the horns"
-msgstr "Рокерский жест"
-
-msgid "Call me hand"
-msgstr "Жест \"позвони мне\""
-
-msgid "Middle finger"
-msgstr "Средний палец"
-
-msgid "Heart hands"
-msgstr "Жест \"сердце\""
-
-msgid "Notebook with decorative cover"
-msgstr "Записная книжка"
-
-msgid "Closed book"
-msgstr "Закрытая книга"
-
-msgid "Open book"
-msgstr "Открытая книга"
-
-msgid "Green book"
-msgstr "Зелёная книга"
-
-msgid "Blue book"
-msgstr "Синяя книга"
-
-msgid "Orange book"
-msgstr "Оранжевая книга"
-
-msgid "Books"
-msgstr "Книги"
-
-msgid "Notebook"
-msgstr "Тетрадь"
-
-msgid "Ledger"
-msgstr "Блокнот"
-
-msgid "Page with curl"
-msgstr "Страница с загибом"
-
-msgid "Scroll"
-msgstr "Свиток"
-
-msgid "Page facing up"
-msgstr "Страница"
-
-msgid "Newspaper"
-msgstr "Газета"
-
-msgid "Rolled-up newspaper"
-msgstr "Свёрнутая газета"
-
-msgid "Bookmark tabs"
-msgstr "Стикер-закладки"
-
-msgid "Bookmark"
-msgstr "Закладка"
-
-msgid "Label"
-msgstr "Бирка"
+msgid "Flags"
+msgstr "Флаги"
 
 msgid "Offline"
 msgstr "Не в сети"
@@ -517,6 +87,9 @@ msgstr "Контакты ({0})"
 
 msgid "My profile"
 msgstr "Мой профиль"
+
+msgid "Search"
+msgstr "Поиск"
 
 msgid "Preferences"
 msgstr "Настройки"
@@ -584,9 +157,15 @@ msgstr "У вас есть новое сообщение"
 #, python-brace-format
 msgid "{count} unread message"
 msgid_plural "{count} unread messages"
-msgstr[0] "\"{count} непрочитанное сообщение"
+msgstr[0] "{count} непрочитанное сообщение"
 msgstr[1] "{count} непрочитанных сообщения"
 msgstr[2] "{count} непрочитанных сообщений"
+
+msgid "Selected"
+msgstr "Выделено"
+
+msgid "Not selected"
+msgstr "Не выделено"
 
 msgid "Bot menu"
 msgstr "Меню бота"
@@ -636,15 +215,50 @@ msgstr "Включить звук"
 msgid "Join the channel"
 msgstr "Присоединиться к каналу"
 
+msgid "Apply to join group"
+msgstr "Подать заявку на вступление"
+
+msgid "Join the group"
+msgstr "Вступить в группу"
+
 msgid "Select topic"
 msgstr "Выберите тему"
 
 msgid "Close"
 msgstr "Закрыть"
 
+msgid "Multiple selection enabled"
+msgstr "Множественный выбор включён"
+
+msgid "Multiple selection disabled"
+msgstr "Множественный выбор выключен"
+
+msgid "All files"
+msgstr "Все файлы"
+
+msgid "Save file"
+msgstr "Сохранить файл"
+
 #, python-brace-format
 msgid "Topic: {name}"
 msgstr "Тема: {name}"
+
+msgid "The request has been sent"
+msgstr "Заявка была отправлена"
+
+msgid "Information"
+msgstr "Информация"
+
+#, python-brace-format
+msgid ""
+"Failed to save file \"{name}\", such file already exists and name search "
+"limit exceeded."
+msgstr ""
+"Не удалось сохранить файл \"{name}\", такой файл уже существует и исчерпан "
+"лимит поиска имени."
+
+msgid "Error"
+msgstr "Ошибка"
 
 msgid "Messages"
 msgstr "Сообщения"
@@ -653,8 +267,8 @@ msgid "Message:"
 msgstr "Сообщение:"
 
 #, python-brace-format
-msgid "Reply to {name}:"
-msgstr "Ответ {name}:"
+msgid "Reply to {name}: {text}:"
+msgstr "Ответ на {name}: {text}:"
 
 msgid "online"
 msgstr "в сети"
@@ -717,20 +331,8 @@ msgstr "Бот: {name}"
 msgid "Premium account"
 msgstr "Premium-аккаунт"
 
-msgid "Are you sure you want to delete this message?"
-msgstr "Вы действительно хотите удалить это сообщение?"
-
-msgid "Delete for everyone"
-msgstr "Удалить у всех"
-
-msgid "Delete for yourself"
-msgstr "Удалить у меня"
-
 msgid "There are no links in this message."
 msgstr "В этом сообщении нет ссылок."
-
-msgid "Information"
-msgstr "Информация"
 
 msgid "Voice and video messages in this chat are restricted!"
 msgstr "Голосовые и видеосообщения в этом чате запрещены!"
@@ -739,9 +341,6 @@ msgid "Unable to send a voice message because the input device was not found."
 msgstr ""
 "Невозможно отправить голосовое сообщение, так как устройство ввода не "
 "найдено."
-
-msgid "All files"
-msgstr "Все файлы"
 
 msgid "Select file"
 msgstr "Выберите файл"
@@ -758,9 +357,6 @@ msgstr "Ошибка отправки"
 msgid "You have not set the date and time!"
 msgstr "Вы не установили дату и время!"
 
-msgid "Error"
-msgstr "Ошибка"
-
 msgid "%d.%m.%Y at %H:%M"
 msgstr "%d.%m.%Y в %H:%M"
 
@@ -768,13 +364,18 @@ msgstr "%d.%m.%Y в %H:%M"
 msgid "Scheduled for: {date}"
 msgstr "Отложено на: {date}"
 
-#, python-brace-format
+msgid "Scheduled for: When the user is online"
+msgstr "Отложено на: когда пользователь будет в сети"
+
+msgid "An error occurred. See details in the event log."
+msgstr "Произошла ошибка. Подробности смотрите в журнале событий."
+
 msgid ""
-"Failed to save file \"{name}\", such file already exists and name search "
-"limit exceeded."
-msgstr ""
-"Не удалось сохранить файл \"{name}\", такой файл уже существует и исчерпан "
-"лимит поиска имени."
+"It was not possible to import contact. Perhaps it is absent in Telegram."
+msgstr "Не удалось импортировать контакт. Возможно, его нет в Telegram."
+
+msgid "Successfully imported."
+msgstr "Успешно импортирован."
 
 msgid "Comment:"
 msgstr "Комментарий:"
@@ -787,6 +388,18 @@ msgstr "Комментарии для: "
 
 msgid "Schedule"
 msgstr "Отложить"
+
+msgid "When to send"
+msgstr "Когда отправить"
+
+msgid "Date and time"
+msgstr "Дата и время"
+
+msgid "When will user be online"
+msgstr "Когда пользователь будет в сети"
+
+msgid "Date and time selection"
+msgstr "Выбор даты и времени"
 
 msgid "Hour:"
 msgstr "Час:"
@@ -864,6 +477,9 @@ msgstr "Голосовое сообщение: {title}"
 
 msgid "Start recording"
 msgstr "Начать запись"
+
+msgid "Options"
+msgstr "Опции"
 
 msgid "Delete after listening"
 msgstr "Удалить после прослушивания"
@@ -944,21 +560,6 @@ msgstr "Ссылки"
 
 msgid "Original text in English: © Eugene Poplavsky."
 msgstr "Перевод на русский язык: © Eugene Poplavsky, Peter Ivanovich."
-
-#, python-brace-format
-msgid ""
-"Easygram is distributed under the GNU GPLv3 open source license, with the "
-"exception of certain additional components and Microsoft redistributable "
-"code. By using or distributing Easygram, you agree to be bound by the terms "
-"of the license agreement. The text of the license can be found at:\n"
-"{link}"
-msgstr ""
-"Easygram распространяется по лицензии GNU GPLv3 с открытым исходным кодом, "
-"за исключением некоторых дополнительных компонентов и распространяемого кода "
-"Microsoft. Используя или распространяя Easygram, вы соглашаетесь соблюдать "
-"условия лицензионного соглашения. С текстом лицензии можно ознакомиться "
-"здесь:\n"
-"{link}"
 
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr "Easygram также включает в себя ряд компонентов, совместимых с GNU GPL."
@@ -1059,6 +660,26 @@ msgstr "Изменить голосовое сообщение"
 msgid "Delete message"
 msgstr "Удалить сообщение"
 
+msgid "Are you sure you want to delete this message?"
+msgstr "Вы действительно хотите удалить это сообщение?"
+
+#, python-brace-format
+msgid "Are you sure you want to delete {count} message?"
+msgid_plural "Are you sure you want to delete {count} messages?"
+msgstr[0] "Вы действительно хотите удалить {count} сообщение?"
+msgstr[1] "Вы действительно хотите удалить {count} сообщения?"
+msgstr[2] "Вы действительно хотите удалить {count} сообщений?"
+
+#, python-brace-format
+msgid "Delete also for {name}"
+msgstr "Также удалить для {name}"
+
+msgid "Delete from all users"
+msgstr "Удалить у всех пользователей"
+
+msgid "Revoke my messages"
+msgstr "Отозвать мои сообщения"
+
 msgid "Delete"
 msgstr "Удалить"
 
@@ -1068,6 +689,10 @@ msgstr "Успешно"
 #, python-brace-format
 msgid "File '{name}' saved in downloads"
 msgstr "Файл '{name}' сохранён в загрузки"
+
+#, python-brace-format
+msgid "The file is saved in \"{path}\""
+msgstr "Файл сохранён в \"{path}\""
 
 msgid "Show in Folder"
 msgstr "Показать в папке"
@@ -1096,6 +721,9 @@ msgstr "Отложенное сообщение"
 #, python-brace-format
 msgid "Message scheduled at {date}"
 msgstr "Сообщение отложено на {date}"
+
+msgid "The message will be sent when the user is online."
+msgstr "Сообщение будет отправлено, когда пользователь будет в сети."
 
 msgid "Message Detail"
 msgstr "Информация о сообщении"
@@ -1154,15 +782,20 @@ msgid "Views: {count}"
 msgstr "Просмотры: {count}"
 
 #, python-brace-format
-msgid "Reactions: {reactions}"
-msgstr "Реакции: {reactions}"
-
-#, python-brace-format
 msgid "You sent a reaction {r}"
 msgstr "Вы отправили реакцию {r}"
 
-msgid "Insert emoji"
-msgstr "Вставить эмодзи"
+msgid "Emoji panel"
+msgstr "Панель эмодзи"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Filter:"
+msgstr "Фильтр:"
 
 msgid "List of pinned messages"
 msgstr "Список закреплённых сообщений"
@@ -1185,17 +818,27 @@ msgstr "Вы уверены, что хотите открепить все со�
 msgid "Unpin all messages"
 msgstr "Открепить все сообщения"
 
-msgid "Forward message"
-msgstr "Переслать сообщение"
+#, python-brace-format
+msgid "Forward {count} message"
+msgid_plural "Forward {count} messages"
+msgstr[0] "Переслать {count} сообщение"
+msgstr[1] "Переслать {count} сообщения"
+msgstr[2] "Переслать {count} сообщений"
 
 msgid "Chats:"
 msgstr "Чаты:"
+
+msgid "Topic:"
+msgstr "Тема:"
 
 msgid "Advanced options"
 msgstr "Дополнительные настройки"
 
 msgid "Hide sender name"
 msgstr "Скрыть имя отправителя"
+
+msgid "Hide sender name (if available)"
+msgstr "Скрыть имя отправителя (если доступно)"
 
 msgid "Remove caption"
 msgstr "Удалить подпись"
@@ -1222,14 +865,8 @@ msgstr "Свойства"
 msgid "Send without compression"
 msgstr "Отправить без сжатия"
 
-msgid "Options"
-msgstr "Опции"
-
 msgid "Attach files"
 msgstr "Прикрепить файлы"
-
-msgid "When online"
-msgstr "Когда в сети"
 
 msgid "Service notification"
 msgstr "Сервисное уведомление"
@@ -1321,6 +958,30 @@ msgstr "Не удалось получить полную информацию �
 msgid "Topics:"
 msgstr "Темы:"
 
+msgid "Search query:"
+msgstr "Поисковый запрос:"
+
+msgid "Search Results"
+msgstr "Результаты Поиска"
+
+msgid "Clear history"
+msgstr "Очистить историю"
+
+msgid "From your chats"
+msgstr "Из ваших чатов"
+
+msgid "Global search"
+msgstr "Глобальный поиск"
+
+msgid "No results"
+msgstr "Нет результатов"
+
+msgid "An error has occurred"
+msgstr "Произошла ошибка"
+
+msgid "Do you really want to clear search history?"
+msgstr "Вы действительно хотите очистить историю поиска?"
+
 msgid "Seen"
 msgstr "Прочитано"
 
@@ -1386,6 +1047,9 @@ msgstr "Введите пароль"
 msgid "Password:"
 msgstr "Пароль:"
 
+msgid "Password hint:"
+msgstr "Подсказка для пароля"
+
 msgid ""
 "\n"
 "Instruction:\n"
@@ -1439,14 +1103,23 @@ msgstr "&Копировать текст"
 msgid "&Save in downloads"
 msgstr "&Сохранить в загрузки"
 
+msgid "Save fi&le as..."
+msgstr "Сохранить &файл как..."
+
+msgid "&Save VCard"
+msgstr "&Сохранить VCard"
+
+msgid "Impor&t in to contacts"
+msgstr "Импор&тировать в контакты"
+
 msgid "&Reply"
 msgstr "&Ответить"
 
 msgid "&Pin"
-msgstr "За&крепить"
+msgstr "Закр&епить"
 
 msgid "Un&pin"
-msgstr "От&Крепить"
+msgstr "Откр&епить"
 
 msgid "Go to &quoted message"
 msgstr "Перейти к &цитируемому сообщению"
@@ -1464,15 +1137,18 @@ msgstr "Добавить в из&бранное"
 msgid "&Forward"
 msgstr "Перес&лать"
 
+msgid "Copy lin&k"
+msgstr "Копироват&ь ссылку"
+
 msgid "Add react&ion"
 msgstr "Добавить &реакцию"
 
 #, python-brace-format
-msgid "Remove react&ion {r}"
-msgstr "Удалить &реакцию {r}"
+msgid "Remove reacti&on {r}"
+msgstr "Удалить реакци&ю {r}"
 
-msgid "Open &profile"
-msgstr "Открыть &профиль"
+msgid "Open the &user profile"
+msgstr "Открыть &профиль пользователя"
 
 msgid "&Edit message"
 msgstr "&Изменить сообщение"
@@ -1545,7 +1221,13 @@ msgid "Open &chat"
 msgstr "Открыть &чат"
 
 msgid "Contact &information"
-msgstr "&Информация о о контакте"
+msgstr "&Информация о контакте"
+
+msgid "Delete from Favorites"
+msgstr "Удалить из избранного"
+
+msgid "Add to Favorites"
+msgstr "Добавить в избранное"
 
 msgid "You"
 msgstr "Вы"
@@ -1602,9 +1284,18 @@ msgstr "Gif {caption}"
 msgid "The user is now in telegram."
 msgstr "Пользователь теперь в Telegram."
 
+msgid "Channel created."
+msgstr "Канал создан."
+
 #. TRANSLATORS: This is the text of the message when the user creates a group.
 msgid "Group created"
 msgstr "Группа создана"
+
+msgid "Channel photo updated"
+msgstr "Фотография канала обновлена"
+
+msgid "Group photo updated"
+msgstr "Фотография группы обновлена"
 
 msgid "This group has become a supergroup."
 msgstr "Эта группа стала супергруппой."
@@ -1649,6 +1340,16 @@ msgstr "удалил(а) {user}"
 
 msgid "joined the group via invite link"
 msgstr "вступил(а) в группу по ссылке-приглашению"
+
+msgid "was accepted into the group"
+msgstr "был(а) принят(а) в группу"
+
+#, python-brace-format
+msgid "Contact: {name}"
+msgstr "Контакт: {name}"
+
+msgid "Location"
+msgstr "Местоположение"
 
 msgid "Pinned message"
 msgstr "Закрепил(а) сообщение"
@@ -1724,7 +1425,7 @@ msgid "Scheduled {date} at {time}"
 msgstr "Отложено на {date} в {time}"
 
 msgid "Send when online."
-msgstr "Отправлять, когда в сети."
+msgstr "Отправить, когда в сети."
 
 #, python-brace-format
 msgid "Sent at {time}"
@@ -1759,6 +1460,123 @@ msgid "Received {date} at {time}"
 msgstr "Получено {date} в {time}"
 
 #, python-brace-format
+msgid "Custom emoji: {c}"
+msgstr "Пользовательские эмодзи: {c}"
+
+#, python-brace-format
+msgid "Reaction paid: {c}"
+msgstr "Оплаченная реакция: {c}"
+
+#, python-brace-format
+msgid "Unknown reaction: {c}"
+msgstr "Неизвестная реакция: {c}"
+
+#, python-brace-format
+msgid "Reactions: {reactions}"
+msgstr "Реакции: {reactions}"
+
+#, python-brace-format
+msgid "Changed at {time}"
+msgstr "Изменено в {time}"
+
+#, python-brace-format
+msgid "Changed {date} at {time}"
+msgstr "Изменено {date} в {time}"
+
+msgid "Storage settings"
+msgstr "Настройки хранилища"
+
+msgid "Never"
+msgstr "Никогда"
+
+msgid "1 day"
+msgstr "1 день"
+
+msgid "1 week"
+msgstr "1 неделя"
+
+msgid "1 month"
+msgstr "1 месяц"
+
+msgid "1 year"
+msgstr "1 год"
+
+msgid "No limit"
+msgstr "Нет ограничения"
+
+msgid "100 MB"
+msgstr "100 МБ"
+
+msgid "200 MB"
+msgstr "200 МБ"
+
+msgid "500 MB"
+msgstr "500 МБ"
+
+msgid "1 GB"
+msgstr "1 ГБ"
+
+msgid "2 GB"
+msgstr "2 ГБ"
+
+msgid "5 GB"
+msgstr "5 ГБ"
+
+msgid "10 GB"
+msgstr "10 ГБ"
+
+msgid "20 GB"
+msgstr "20 ГБ"
+
+msgid "50 GB"
+msgstr "50 ГБ"
+
+msgid "Auto-remove cached media"
+msgstr "Автоматическое удаление кэшированных медиа"
+
+msgid ""
+"Photos, videos and other files from cloud chats that you have not accessed "
+"during this period will be removed from this device to save disk space."
+msgstr ""
+"Фотографии, видео и другие файлы из чатов, к которым вы не обращались в "
+"течение этого периода, будут удалены с этого устройства для экономии места "
+"на диске."
+
+msgid "Personal chats: unknown"
+msgstr "Личные чаты: неизвестно"
+
+msgid "Groups: unknown"
+msgstr "Группы: неизвестно"
+
+msgid "Channels: unknown"
+msgstr "Каналы: неизвестно"
+
+msgid "Maximum cache size"
+msgstr "Максимальный размер кэша"
+
+msgid ""
+"If your cache size exceeds this limit, the oldest unused media will be "
+"removed from the device."
+msgstr ""
+"Если размер вашего кэша превысит это ограничение, самые старые "
+"неиспользуемые медиа будут удалены с устройства."
+
+msgid "Apply"
+msgstr "Применить"
+
+#, python-brace-format
+msgid "Personal chats: {time}"
+msgstr "Личные чаты: {time}"
+
+#, python-brace-format
+msgid "Groups: {time}"
+msgstr "Группы: {time}"
+
+#, python-brace-format
+msgid "Channels: {time}"
+msgstr "Каналы: {time}"
+
+#, python-brace-format
 msgid "{program} preferences"
 msgstr "Настройки {program}"
 
@@ -1783,14 +1601,11 @@ msgstr "Подтверждение перед закрытием"
 msgid "Show sender in system tray"
 msgstr "Отображать отправителя в уведомлении"
 
-msgid "Close chats by pressing the ESCAPE key"
-msgstr "Закрывать чаты нажатием клавиши ESCAPE"
+msgid "Close windows by pressing the ESCAPE key"
+msgstr "Закрывать окна по нажатию клавиши ESCAPE"
 
 msgid "Show the window after complit download"
 msgstr "Отображать окно после завершения загрузки"
-
-msgid "Play event sounds"
-msgstr "Воспроизводить звуки событий"
 
 msgid "Downloads"
 msgstr "Загрузки"
@@ -1834,6 +1649,30 @@ msgstr "Список чатов"
 
 msgid "Show time after message text"
 msgstr "Отображать время после текста сообщения"
+
+msgid "Mark chats without notifications"
+msgstr "Отмечать чаты без уведомлений"
+
+msgid "Behavior settings"
+msgstr "Настройки поведения"
+
+msgid "Chat window"
+msgstr "Окно чата"
+
+msgid "Break up long messages"
+msgstr "Разбивать длинные сообщения"
+
+msgid "Keyboard settings"
+msgstr "Настройки клавиатуры"
+
+msgid "Multimedia keys"
+msgstr "Мультимедийные клавиши"
+
+msgid "Handle multimedia keys"
+msgstr "Перехватывать мультимедийные клавиши"
+
+msgid "Multimedia keys:"
+msgstr "Мультимедийные клавиши:"
 
 msgid "chats settings"
 msgstr "Настройки чатов"
@@ -1907,6 +1746,45 @@ msgstr "Аудио"
 msgid "Video messages"
 msgstr "Видео"
 
+msgid "Sound scheme settings"
+msgstr "Настройки звуковой схемы"
+
+msgid "Play the sounds of events"
+msgstr "Воспроизводить звуки событий"
+
+msgid "Events:"
+msgstr "События:"
+
+msgid "New incoming message in open chat "
+msgstr "Новое входящее сообщение в открытом чате "
+
+msgid "New outgoing message in open chat"
+msgstr "Новое исходящее сообщение в открытом чате"
+
+msgid "New unread message"
+msgstr "Новое непрочитанное сообщение"
+
+msgid "Record"
+msgstr "Запись"
+
+msgid "Chat action"
+msgstr "Действие в чате"
+
+msgid "Download is completed"
+msgstr "Скачивание завершено"
+
+msgid "Select sound:"
+msgstr "Выберите звук:"
+
+msgid "Play this sound"
+msgstr "Воспроизвести звук"
+
+msgid "Add new sound..."
+msgstr "Добавить новый звук..."
+
+msgid "Delete sound"
+msgstr "Удалить звук"
+
 msgid "Speech settings"
 msgstr "Настройки речи"
 
@@ -1937,9 +1815,6 @@ msgstr "Всегда"
 
 msgid "In the foreground"
 msgstr "На переднем плане"
-
-msgid "Never"
-msgstr "Никогда"
 
 msgid "Network Status Changes:"
 msgstr "Изменение состояния сети:"
@@ -1977,8 +1852,11 @@ msgstr "Статистика:"
 msgid "Name"
 msgstr "Имя"
 
-msgid "Clear storage"
-msgstr "Очистить хранилище"
+msgid "Clear cache"
+msgstr "Очистить кэш"
+
+msgid "Delete all cloud drafts..."
+msgstr "Удалить все черновики из облака..."
 
 msgid "Troubleshooting"
 msgstr "Устранение проблем"
@@ -2006,6 +1884,15 @@ msgstr "Общие"
 msgid "View"
 msgstr "Вид"
 
+msgid "Behavior"
+msgstr "Поведение"
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "Sounds"
+msgstr "Звуки"
+
 msgid "Speech"
 msgstr "Речь"
 
@@ -2015,8 +1902,31 @@ msgstr "Устройства"
 msgid "Storage"
 msgstr "Хранилище"
 
-msgid "Apply"
-msgstr "Применить"
+msgid ""
+"Are you sure you want to delete all cloud drafts? This action cannot be "
+"undone!"
+msgstr ""
+"Вы действительно хотите удалить все черновики из облака? Это действие "
+"невозможно отменить!"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "All cloud drafts have been successfully deleted."
+msgstr "Все черновики из облака были успешно удалены."
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "An error occurred while deleting cloud drafts."
+msgstr "При удалении черновиков из облака произошла ошибка."
+
+msgid "Sound files"
+msgstr "Звуковые файлы"
+
+#, python-brace-format
+msgid "A file with this name already exists: {name}"
+msgstr "Файл с таким именем уже существует: {name}"
 
 msgid ""
 "Be Careful! The enable of this option can lead to unstable operation of the "
@@ -2038,13 +1948,12 @@ msgstr[2] "Использование диска: {size}, {count} файлов"
 
 msgid ""
 "Are you sure you want to clear storage? After this, all local copies of "
-"files from the cache will be deleted. This action cannot be undone!"
+"files from the cache will be deleted. Your search queries will also be "
+"cleared. This action cannot be undone!"
 msgstr ""
 "Вы уверены, что хотите очистить хранилище? После этого все локальные копии "
-"файлов из кэша будут удалены. Это действие невозможно отменить!"
-
-msgid "Warning"
-msgstr "Предупреждение"
+"файлов из кэша будут удалены. Ваша история поисковых запросов также будет "
+"очищена. Это действие невозможно отменить!"
 
 msgid ""
 "To apply some settings, it is required to reboot Easygram. Do you want to "
@@ -2075,6 +1984,9 @@ msgstr "{title} (в сети)"
 msgid "(pinned)"
 msgstr "(закреплено)"
 
+msgid "Muted"
+msgstr "Без уведомлений"
+
 #, python-brace-format
 msgid "{count} mention"
 msgid_plural "{count} mentions"
@@ -2087,6 +1999,9 @@ msgid_plural "New reactions"
 msgstr[0] "Новая реакция"
 msgstr[1] "Новые реакции"
 msgstr[2] "Новых реакций"
+
+msgid "A choice of topic is available"
+msgstr "Доступен выбор темы"
 
 msgid "Music"
 msgstr "Музыка"
@@ -2109,12 +2024,61 @@ msgstr "(Основная тема)"
 msgid "Closed"
 msgstr "Закрыта"
 
+#, python-brace-format
+msgid "{name} (@{username}) (channel)"
+msgstr "{name} (@{username}) (канал)"
+
+#, python-brace-format
+msgid "{name} (@{username}) (group)"
+msgstr "{name} (@{username}) (группа)"
+
+#, python-brace-format
+msgid "{name} (@{username}) (bot)"
+msgstr "{name} (@{username}) (бот)"
+
+#, python-brace-format
+msgid "{title} (@{username}) (online)"
+msgstr "{title} (@{username}) (в сети)"
+
+#, python-brace-format
+msgid "{title} (@{username})"
+msgstr "{title} (@{username})"
+
+#, python-brace-format
+msgid "{count} subscriber"
+msgid_plural "{count} subscribers"
+msgstr[0] "{count} подписчик"
+msgstr[1] "{count} подписчика"
+msgstr[2] "{count} подписчиков"
+
+#, python-brace-format
+msgid "{count} member"
+msgid_plural "{count} members"
+msgstr[0] "{count} участник"
+msgstr[1] "{count} участника"
+msgstr[2] "{count} участников"
+
+msgid "Play/Pause"
+msgstr "Воспроизведение/пауза"
+
+msgid "Mute/Unmute"
+msgstr "Выключить / включить звук"
+
+msgid "Volume down"
+msgstr "Уменьшение громкости"
+
+msgid "Volume up"
+msgstr "Увеличение громкости"
+
 msgid "Nothing is playing"
 msgstr "Ничего не воспроизводится"
 
 #, python-brace-format
 msgid "Time: {t}/{l}"
 msgstr "Время: {t}/{l}"
+
+msgid "Disabled"
+msgstr "Выключен"
 
 msgid "Equalizer"
 msgstr "Эквалайзер"
@@ -2151,6 +2115,12 @@ msgstr "Пауза"
 #, python-brace-format
 msgid "Volume {v}"
 msgstr "Громкость {v}"
+
+msgid "Sound unmuted"
+msgstr "Звук включён"
+
+msgid "Sound muted"
+msgstr "Звук выключен"
 
 #, python-brace-format
 msgid "Playback rate {rate}"
@@ -2216,101 +2186,43 @@ msgstr "видео вызов"
 msgid "audio call"
 msgstr "аудио вызов"
 
-#~ msgid "Restart the application to apply the new language settings."
-#~ msgstr "Перезапустите приложение, чтобы применить новые языковые настройки."
+msgid "Action"
+msgstr "Действие"
 
-#~ msgid "Read chat list"
-#~ msgstr "Прочитать список чатов"
+msgid "Foreground message"
+msgstr "Сообщение на переднем плане"
 
-#~ msgid "Detailed view"
-#~ msgstr "Детальный просмотр"
+msgid "Background message"
+msgstr "Сообщение в фоне"
 
-#~ msgid "Copy text"
-#~ msgstr "Копировать текст"
+msgid "Operation completed"
+msgstr "Операция завершена"
 
-#~ msgid "Save in downloads"
-#~ msgstr "Сохранить в загрузки"
+msgid "Background message classic"
+msgstr "Сообщение в фоне классический"
 
-#~ msgid "Reply"
-#~ msgstr "Ответить"
+msgid "Message notification telegram"
+msgstr "Уведомление о сообщении telegram"
 
-#~ msgid "Pin"
-#~ msgstr "Закрепить"
+msgid "Incoming message telegram"
+msgstr "Входящее сообщение telegram"
 
-#~ msgid "Go to quoted message"
-#~ msgstr "Перейти к цитируемому сообщению"
+msgid "Outgoing message telegram"
+msgstr "Исходящее сообщение telegram"
 
-#~ msgid "Comments: {count}"
-#~ msgstr "Комментарии: {count}"
+msgid "Outgoing message"
+msgstr "Исходящее сообщение"
 
-#~ msgid "Go to original message"
-#~ msgstr "Перейти к исходному сообщению"
+#, python-brace-format
+msgid "{sound} (builtin)"
+msgstr "{sound} (встроенный)"
 
-#~ msgid "Add to favorites"
-#~ msgstr "До&бавить в избранное"
+#, python-brace-format
+msgid "{sound} (user)"
+msgstr "{sound} (пользовательский)"
 
-#~ msgid "Forward"
-#~ msgstr "Переслать"
+#~ msgid "Delete for everyone"
+#~ msgstr "Удалить у всех"
 
-#~ msgid "Add reaction"
-#~ msgstr "Добавить &реакцию"
-
-#~ msgid "Remove reaction {r}"
-#~ msgstr "Удалить реакцию {r}"
-
-#~ msgid "Open profile"
-#~ msgstr "Открыть профиль"
-
-#~ msgid "Open"
-#~ msgstr "Открыть"
-
-#~ msgid "Mark as read"
-#~ msgstr "Пометить прочитанным"
-
-#~ msgid "Move to archive"
-#~ msgstr "Переместить в &архив"
-
-#~ msgid "Unarchive"
-#~ msgstr "Разархивировать"
-
-#~ msgid "Clear history"
-#~ msgstr "О&чистить историю"
-
-#~ msgid "Show window"
-#~ msgstr "Отобразить окно"
-
-#~ msgid "Exit"
-#~ msgstr "Выход"
-
-#~ msgid "An error occurred while writing the file."
-#~ msgstr "Произошла ошибка при записи файла."
-
-#~ msgid "Attach file"
-#~ msgstr "Прикрепить файл"
-
-#~ msgid "No such file exists!"
-#~ msgstr "Такого файла не существует!"
-
-#~ msgid "The caption text is too long!"
-#~ msgstr "Текст подписи слишком длинный!"
-
-#~ msgid "No command to send!"
-#~ msgstr "Нет команды для отправки!"
-
-#~ msgid "Attach video"
-#~ msgstr "Прикрепить видео"
-
-#~ msgid "Attach audio"
-#~ msgstr "Прикрепить аудио"
-
-#~ msgid "Title required!"
-#~ msgstr "Название обязательно!"
-
-#~ msgid "Attach photo"
-#~ msgstr "Прикрепить фото"
-
-#~ msgid "Attach animation"
-#~ msgstr "Прикрепить анимацию"
-
-#~ msgid "Attach document"
-#~ msgstr "Прикрепить документ"
+#~ msgid "Forward message"
+#~ msgstr "Переслать сообщение"

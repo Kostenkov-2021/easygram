@@ -1,0 +1,5483 @@
+# Easygram localization
+# Copyright (C) 2021 - 2025 Eugene  Poplavsky
+# Copyright (C) 2022 - 2025 Peter Ivanovich
+# This file is distributed under the same license as the 'easygram' package.
+# these lines are based on CLDR 45
+msgid ""
+msgstr ""
+"Project-Id-Version: Easygram 0.40\n"
+"POT-Creation-Date: 2025-11-02 17:22+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: n_\n"
+"X-Poedit-Basepath: ../../../emoji\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: data.py\n"
+
+msgid "grinning face"
+msgstr "широко улыбается"
+
+msgid "grinning face with big eyes"
+msgstr "смеется"
+
+msgid "grinning face with smiling eyes"
+msgstr "смеется с закрытыми глазами"
+
+msgid "beaming face with smiling eyes"
+msgstr "светится от счастья"
+
+msgid "grinning squinting face"
+msgstr "смеется с прищуренными глазами"
+
+msgid "grinning face with sweat"
+msgstr "нервно смеется"
+
+msgid "rolling on the floor laughing"
+msgstr "катается со смеху"
+
+msgid "face with tears of joy"
+msgstr "смеется до слез"
+
+msgid "slightly smiling face"
+msgstr "слегка улыбается"
+
+msgid "upside-down face"
+msgstr "вверх тормашками"
+
+msgid "melting face"
+msgstr "тает"
+
+msgid "winking face"
+msgstr "подмигивает"
+
+msgid "smiling face with smiling eyes"
+msgstr "довольно улыбается"
+
+msgid "smiling face with halo"
+msgstr "с нимбом"
+
+msgid "smiling face with hearts"
+msgstr "улыбающееся лицо с сердечками"
+
+msgid "smiling face with heart-eyes"
+msgstr "влюбленное лицо"
+
+msgid "star-struck"
+msgstr "звезды в глазах"
+
+msgid "face blowing a kiss"
+msgstr "воздушный поцелуй"
+
+msgid "kissing face"
+msgstr "целует"
+
+msgid "smiling face"
+msgstr "улыбается"
+
+msgid "kissing face with closed eyes"
+msgstr "целует с закрытыми глазами"
+
+msgid "kissing face with smiling eyes"
+msgstr "счастливый поцелуй"
+
+msgid "smiling face with tear"
+msgstr "улыбающееся лицо со слезой"
+
+msgid "face savoring food"
+msgstr "вкусно"
+
+msgid "face with tongue"
+msgstr "показывает язык"
+
+msgid "winking face with tongue"
+msgstr "показывает язык и подмигивает"
+
+msgid "zany face"
+msgstr "сумасшедшее лицо"
+
+msgid "squinting face with tongue"
+msgstr "морщится и показывает язык"
+
+msgid "money-mouth face"
+msgstr "деньги в глазах"
+
+msgid "smiling face with open hands"
+msgstr "обнимает"
+
+msgid "face with hand over mouth"
+msgstr "прикрывает рот рукой"
+
+msgid "face with open eyes and hand over mouth"
+msgstr "прикрывает рот рукой с открытыми глазами"
+
+msgid "face with peeking eye"
+msgstr "подсматривает"
+
+msgid "shushing face"
+msgstr "тс-с-с"
+
+msgid "thinking face"
+msgstr "думает"
+
+msgid "saluting face"
+msgstr "воинское приветствие"
+
+msgid "zipper-mouth face"
+msgstr "рот на замке"
+
+msgid "face with raised eyebrow"
+msgstr "не верит"
+
+msgid "neutral face"
+msgstr "все равно"
+
+msgid "expressionless face"
+msgstr "без эмоций"
+
+msgid "face without mouth"
+msgstr "лицо без рта"
+
+msgid "dotted line face"
+msgstr "лицо пунктиром"
+
+msgid "face in clouds"
+msgstr "лицо в облаках"
+
+msgid "smirking face"
+msgstr "ухмыляется"
+
+msgid "unamused face"
+msgstr "скучает"
+
+msgid "face with rolling eyes"
+msgstr "закатывает глаза"
+
+msgid "grimacing face"
+msgstr "гримаса"
+
+msgid "face exhaling"
+msgstr "выдыхает"
+
+msgid "lying face"
+msgstr "лжец"
+
+msgid "shaking face"
+msgstr "трясущееся лицо"
+
+msgid "relieved face"
+msgstr "испытывает облегчение"
+
+msgid "pensive face"
+msgstr "размышляет"
+
+msgid "sleepy face"
+msgstr "хочет спать"
+
+msgid "drooling face"
+msgstr "пускает слюни"
+
+msgid "sleeping face"
+msgstr "спит"
+
+msgid "face with medical mask"
+msgstr "в медицинской маске"
+
+msgid "face with thermometer"
+msgstr "с градусником во рту"
+
+msgid "face with head-bandage"
+msgstr "с перевязанной головой"
+
+msgid "nauseated face"
+msgstr "тошнит"
+
+msgid "face vomiting"
+msgstr "рвота"
+
+msgid "sneezing face"
+msgstr "чихает"
+
+msgid "hot face"
+msgstr "жар"
+
+msgid "cold face"
+msgstr "мерзнет"
+
+msgid "woozy face"
+msgstr "чувствует головокружение"
+
+msgid "face with crossed-out eyes"
+msgstr "головокружение"
+
+msgid "face with spiral eyes"
+msgstr "ошеломление"
+
+msgid "exploding head"
+msgstr "взрыв мозга"
+
+msgid "cowboy hat face"
+msgstr "в ковбойской шляпе"
+
+msgid "partying face"
+msgstr "на вечеринке"
+
+msgid "disguised face"
+msgstr "маскировка"
+
+msgid "smiling face with sunglasses"
+msgstr "лицо в темных очках"
+
+msgid "nerd face"
+msgstr "очкарик"
+
+msgid "face with monocle"
+msgstr "с моноклем"
+
+msgid "confused face"
+msgstr "в замешательстве"
+
+msgid "face with diagonal mouth"
+msgstr "с перекошенным ртом"
+
+msgid "worried face"
+msgstr "беспокоится"
+
+msgid "slightly frowning face"
+msgstr "немного грустит"
+
+msgid "frowning face"
+msgstr "грустит"
+
+msgid "face with open mouth"
+msgstr "удивление"
+
+msgid "hushed face"
+msgstr "неприятный сюрприз"
+
+msgid "astonished face"
+msgstr "в шоке"
+
+msgid "flushed face"
+msgstr "краснеет"
+
+msgid "pleading face"
+msgstr "умоляет"
+
+msgid "face holding back tears"
+msgstr "еле сдерживает слезы"
+
+msgid "frowning face with open mouth"
+msgstr "в изумлении"
+
+msgid "anguished face"
+msgstr "страдает"
+
+msgid "fearful face"
+msgstr "боится"
+
+msgid "anxious face with sweat"
+msgstr "сильно беспокоится"
+
+msgid "sad but relieved face"
+msgstr "обошлось"
+
+msgid "crying face"
+msgstr "плачет"
+
+msgid "loudly crying face"
+msgstr "слезы рекой"
+
+msgid "face screaming in fear"
+msgstr "в ужасе"
+
+msgid "confounded face"
+msgstr "в растерянности"
+
+msgid "persevering face"
+msgstr "упорство"
+
+msgid "disappointed face"
+msgstr "разочарование"
+
+msgid "downcast face with sweat"
+msgstr "в холодном поту"
+
+msgid "weary face"
+msgstr "усталость"
+
+msgid "tired face"
+msgstr "сильная усталость"
+
+msgid "yawning face"
+msgstr "зевает"
+
+msgid "face with steam from nose"
+msgstr "в ожидании успеха"
+
+msgid "enraged face"
+msgstr "злится"
+
+msgid "angry face"
+msgstr "сердится"
+
+msgid "face with symbols on mouth"
+msgstr "цензура"
+
+msgid "smiling face with horns"
+msgstr "улыбающийся чертенок"
+
+msgid "angry face with horns"
+msgstr "злой чертенок"
+
+msgid "skull"
+msgstr "череп"
+
+msgid "skull and crossbones"
+msgstr "череп и кости"
+
+msgid "pile of poo"
+msgstr "какашка"
+
+msgid "clown face"
+msgstr "клоун"
+
+msgid "ogre"
+msgstr "чудовище"
+
+msgid "goblin"
+msgstr "японский гоблин"
+
+msgid "ghost"
+msgstr "привидение"
+
+msgid "alien"
+msgstr "инопланетянин"
+
+msgid "alien monster"
+msgstr "космический монстр"
+
+msgid "robot"
+msgstr "робот"
+
+msgid "grinning cat"
+msgstr "улыбающийся кот"
+
+msgid "grinning cat with smiling eyes"
+msgstr "смеющийся кот"
+
+msgid "cat with tears of joy"
+msgstr "смеющийся до слез кот"
+
+msgid "smiling cat with heart-eyes"
+msgstr "влюбленный кот"
+
+msgid "cat with wry smile"
+msgstr "ухмыляющийся кот"
+
+msgid "kissing cat"
+msgstr "целующий кот"
+
+msgid "weary cat"
+msgstr "кот в шоке"
+
+msgid "crying cat"
+msgstr "плачущий кот"
+
+msgid "pouting cat"
+msgstr "злой кот"
+
+msgid "see-no-evil monkey"
+msgstr "ничего не вижу"
+
+msgid "hear-no-evil monkey"
+msgstr "ничего не слышу"
+
+msgid "speak-no-evil monkey"
+msgstr "ничего никому не скажу"
+
+msgid "love letter"
+msgstr "любовное письмо"
+
+msgid "heart with arrow"
+msgstr "сердце, пронзенное стрелой"
+
+msgid "heart with ribbon"
+msgstr "сердце с лентой"
+
+msgid "sparkling heart"
+msgstr "сверкающее сердце"
+
+msgid "growing heart"
+msgstr "растущее сердце"
+
+msgid "beating heart"
+msgstr "пульсирующее сердце"
+
+msgid "revolving hearts"
+msgstr "вращающиеся сердца"
+
+msgid "two hearts"
+msgstr "два сердца"
+
+msgid "heart decoration"
+msgstr "значок «сердце»"
+
+msgid "heart exclamation"
+msgstr "восклицательный знак в виде сердца"
+
+msgid "broken heart"
+msgstr "разбитое сердце"
+
+msgid "heart on fire"
+msgstr "горящее сердце"
+
+msgid "mending heart"
+msgstr "заживающее сердце"
+
+msgid "red heart"
+msgstr "алое сердце"
+
+msgid "pink heart"
+msgstr "розовое сердце"
+
+msgid "orange heart"
+msgstr "оранжевое сердце"
+
+msgid "yellow heart"
+msgstr "желтое сердце"
+
+msgid "green heart"
+msgstr "зеленое сердце"
+
+msgid "blue heart"
+msgstr "синее сердце"
+
+msgid "light blue heart"
+msgstr "голубое сердце"
+
+msgid "purple heart"
+msgstr "фиолетовое сердце"
+
+msgid "brown heart"
+msgstr "коричневое сердце"
+
+msgid "black heart"
+msgstr "черное сердце"
+
+msgid "grey heart"
+msgstr "серое сердце"
+
+msgid "white heart"
+msgstr "белое сердце"
+
+msgid "kiss mark"
+msgstr "след от поцелуя"
+
+msgid "hundred points"
+msgstr "сто баллов"
+
+msgid "anger symbol"
+msgstr "значок «гнев»"
+
+msgid "collision"
+msgstr "взрыв"
+
+msgid "dizzy"
+msgstr "кружащаяся звезда"
+
+msgid "sweat droplets"
+msgstr "капли пота"
+
+msgid "dashing away"
+msgstr "исчезновение"
+
+msgid "hole"
+msgstr "дыра"
+
+msgid "speech balloon"
+msgstr "облачко с многоточием"
+
+msgid "eye in speech bubble"
+msgstr "значок свидетеля"
+
+msgid "left speech bubble"
+msgstr "пустое облачко"
+
+msgid "right anger bubble"
+msgstr "гневное облачко"
+
+msgid "thought balloon"
+msgstr "облачко с мыслями"
+
+msgid "ZZZ"
+msgstr "сон"
+
+msgid "waving hand"
+msgstr "машет рукой"
+
+msgid "raised back of hand"
+msgstr "поднятая рука"
+
+msgid "hand with fingers splayed"
+msgstr "раскрытая ладонь"
+
+msgid "raised hand"
+msgstr "поднятая ладонь"
+
+msgid "vulcan salute"
+msgstr "вулканский салют"
+
+msgid "rightwards hand"
+msgstr "рука вправо"
+
+msgid "leftwards hand"
+msgstr "рука влево"
+
+msgid "palm down hand"
+msgstr "рука ладонью вниз"
+
+msgid "palm up hand"
+msgstr "рука ладонью вверх"
+
+msgid "leftwards pushing hand"
+msgstr "рука ладонью влево"
+
+msgid "rightwards pushing hand"
+msgstr "рука ладонью вправо"
+
+msgid "OK hand"
+msgstr "жест «все хорошо»"
+
+msgid "pinched fingers"
+msgstr "щепоть"
+
+msgid "pinching hand"
+msgstr "жест «мало»"
+
+msgid "victory hand"
+msgstr "жест V"
+
+msgid "crossed fingers"
+msgstr "скрещенные пальцы"
+
+msgid "hand with index finger and thumb crossed"
+msgstr "жест «деньги»"
+
+msgid "love-you gesture"
+msgstr "я-тебя-люблю"
+
+msgid "sign of the horns"
+msgstr "рокерский жест"
+
+msgid "call me hand"
+msgstr "жест «позвони мне»"
+
+msgid "backhand index pointing left"
+msgstr "указывающий налево палец"
+
+msgid "backhand index pointing right"
+msgstr "указывающий направо палец"
+
+msgid "backhand index pointing up"
+msgstr "указывающий вверх палец"
+
+msgid "middle finger"
+msgstr "средний палец"
+
+msgid "backhand index pointing down"
+msgstr "указывающий вниз палец"
+
+msgid "index pointing up"
+msgstr "указательный палец вверх"
+
+msgid "index pointing at the viewer"
+msgstr "указательный палец на себя"
+
+msgid "thumbs up"
+msgstr "большой палец вверх"
+
+msgid "thumbs down"
+msgstr "большой палец вниз"
+
+msgid "raised fist"
+msgstr "поднятый кулак"
+
+msgid "oncoming fist"
+msgstr "кулак"
+
+msgid "left-facing fist"
+msgstr "кулак влево"
+
+msgid "right-facing fist"
+msgstr "кулак вправо"
+
+msgid "clapping hands"
+msgstr "аплодисменты"
+
+msgid "raising hands"
+msgstr "ура"
+
+msgid "heart hands"
+msgstr "жест «сердце»"
+
+msgid "open hands"
+msgstr "ладони в стороны"
+
+msgid "palms up together"
+msgstr "ладони лодочкой"
+
+msgid "handshake"
+msgstr "рукопожатие"
+
+msgid "folded hands"
+msgstr "сложенные руки"
+
+msgid "writing hand"
+msgstr "пишущая рука"
+
+msgid "nail polish"
+msgstr "маникюр"
+
+msgid "selfie"
+msgstr "селфи"
+
+msgid "flexed biceps"
+msgstr "бицепс"
+
+msgid "mechanical arm"
+msgstr "механическая рука"
+
+msgid "mechanical leg"
+msgstr "механическая нога"
+
+msgid "leg"
+msgstr "нога"
+
+msgid "foot"
+msgstr "щиколотка"
+
+msgid "ear"
+msgstr "ухо"
+
+msgid "ear with hearing aid"
+msgstr "ухо со слуховым аппаратом"
+
+msgid "nose"
+msgstr "нос"
+
+msgid "brain"
+msgstr "мозг"
+
+msgid "anatomical heart"
+msgstr "сердце человека"
+
+msgid "lungs"
+msgstr "легкие"
+
+msgid "tooth"
+msgstr "зуб"
+
+msgid "bone"
+msgstr "кость"
+
+msgid "eyes"
+msgstr "глаза"
+
+msgid "eye"
+msgstr "глаз"
+
+msgid "tongue"
+msgstr "язык"
+
+msgid "mouth"
+msgstr "рот"
+
+msgid "biting lip"
+msgstr "кусать губы"
+
+msgid "baby"
+msgstr "младенец"
+
+msgid "child"
+msgstr "ребенок"
+
+msgid "boy"
+msgstr "мальчик"
+
+msgid "girl"
+msgstr "девочка"
+
+msgid "person"
+msgstr "взрослый"
+
+msgid "person: blond hair"
+msgstr "человек со светлыми волосами"
+
+msgid "man"
+msgstr "мужчина"
+
+msgid "person: beard"
+msgstr "бородатый человек"
+
+msgid "man: beard"
+msgstr "бородатый мужчина"
+
+msgid "man: blond hair"
+msgstr "блондин"
+
+msgid "woman"
+msgstr "женщина"
+
+msgid "woman: blond hair"
+msgstr "блондинка"
+
+msgid "older person"
+msgstr "пожилой человек"
+
+msgid "old man"
+msgstr "пожилой мужчина"
+
+msgid "old woman"
+msgstr "пожилая женщина"
+
+msgid "person frowning"
+msgstr "нахмурившийся человек"
+
+msgid "man frowning"
+msgstr "нахмурившийся мужчина"
+
+msgid "woman frowning"
+msgstr "нахмурившаяся женщина"
+
+msgid "person pouting"
+msgstr "обиженный человек"
+
+msgid "man pouting"
+msgstr "обиженный мужчина"
+
+msgid "woman pouting"
+msgstr "обиженная женщина"
+
+msgid "person gesturing NO"
+msgstr "человек против"
+
+msgid "man gesturing NO"
+msgstr "мужчина против"
+
+msgid "woman gesturing NO"
+msgstr "женщина против"
+
+msgid "person gesturing OK"
+msgstr "человек за"
+
+msgid "man gesturing OK"
+msgstr "мужчина за"
+
+msgid "woman gesturing OK"
+msgstr "женщина за"
+
+msgid "person tipping hand"
+msgstr "человек тянет руку"
+
+msgid "man tipping hand"
+msgstr "мужчина тянет руку"
+
+msgid "woman tipping hand"
+msgstr "женщина тянет руку"
+
+msgid "person raising hand"
+msgstr "человек с поднятой рукой"
+
+msgid "man raising hand"
+msgstr "мужчина с поднятой рукой"
+
+msgid "woman raising hand"
+msgstr "женщина с поднятой рукой"
+
+msgid "deaf person"
+msgstr "глухой человек"
+
+msgid "deaf man"
+msgstr "глухой мужчина"
+
+msgid "deaf woman"
+msgstr "глухая женщина"
+
+msgid "person bowing"
+msgstr "человек кланяется"
+
+msgid "man bowing"
+msgstr "мужчина кланяется"
+
+msgid "woman bowing"
+msgstr "женщина кланяется"
+
+msgid "person facepalming"
+msgstr "фейспалм"
+
+msgid "man facepalming"
+msgstr "фейспалм мужчина"
+
+msgid "woman facepalming"
+msgstr "фейспалм женщина"
+
+msgid "person shrugging"
+msgstr "человек пожимает плечами"
+
+msgid "man shrugging"
+msgstr "мужчина пожимает плечами"
+
+msgid "woman shrugging"
+msgstr "женщина пожимает плечами"
+
+msgid "health worker"
+msgstr "медицинский работник"
+
+msgid "man health worker"
+msgstr "врач"
+
+msgid "woman health worker"
+msgstr "женщина-врач"
+
+msgid "student"
+msgstr "учащийся"
+
+msgid "man student"
+msgstr "студент"
+
+msgid "woman student"
+msgstr "студентка"
+
+msgid "teacher"
+msgstr "педагог"
+
+msgid "man teacher"
+msgstr "учитель"
+
+msgid "woman teacher"
+msgstr "учительница"
+
+msgid "judge"
+msgstr "судья"
+
+msgid "man judge"
+msgstr "мужчина-судья"
+
+msgid "woman judge"
+msgstr "женщина-судья"
+
+msgid "farmer"
+msgstr "фермер"
+
+msgid "man farmer"
+msgstr "мужчина-фермер"
+
+msgid "woman farmer"
+msgstr "женщина-фермер"
+
+msgid "cook"
+msgstr "повар"
+
+msgid "man cook"
+msgstr "мужчина-повар"
+
+msgid "woman cook"
+msgstr "повариха"
+
+msgid "mechanic"
+msgstr "механик"
+
+msgid "man mechanic"
+msgstr "мужчина-механик"
+
+msgid "woman mechanic"
+msgstr "женщина-механик"
+
+msgid "factory worker"
+msgstr "рабочий"
+
+msgid "man factory worker"
+msgstr "мужчина-рабочий"
+
+msgid "woman factory worker"
+msgstr "работница"
+
+msgid "office worker"
+msgstr "офисный работник"
+
+msgid "man office worker"
+msgstr "офисный работник - мужчина"
+
+msgid "woman office worker"
+msgstr "офисная работница"
+
+msgid "scientist"
+msgstr "ученый"
+
+msgid "man scientist"
+msgstr "мужчина-ученый"
+
+msgid "woman scientist"
+msgstr "ученая"
+
+msgid "technologist"
+msgstr "инженер"
+
+msgid "man technologist"
+msgstr "мужчина-инженер"
+
+msgid "woman technologist"
+msgstr "женщина-инженер"
+
+msgid "singer"
+msgstr "певец"
+
+msgid "man singer"
+msgstr "мужчина-певец"
+
+msgid "woman singer"
+msgstr "певица"
+
+msgid "artist"
+msgstr "художник"
+
+msgid "man artist"
+msgstr "мужчина-художник"
+
+msgid "woman artist"
+msgstr "художница"
+
+msgid "pilot"
+msgstr "пилот"
+
+msgid "man pilot"
+msgstr "мужчина-пилот"
+
+msgid "woman pilot"
+msgstr "женщина-пилот"
+
+msgid "astronaut"
+msgstr "космонавт"
+
+msgid "man astronaut"
+msgstr "мужчина-космонавт"
+
+msgid "woman astronaut"
+msgstr "женщина-космонавт"
+
+msgid "firefighter"
+msgstr "пожарный"
+
+msgid "man firefighter"
+msgstr "мужчина-пожарный"
+
+msgid "woman firefighter"
+msgstr "женщина-пожарный"
+
+msgid "police officer"
+msgstr "полицейский"
+
+msgid "man police officer"
+msgstr "мужчина-полицейский"
+
+msgid "woman police officer"
+msgstr "женщина-полицейский"
+
+msgid "detective"
+msgstr "детектив"
+
+msgid "man detective"
+msgstr "мужчина-детектив"
+
+msgid "woman detective"
+msgstr "женщина-детектив"
+
+msgid "guard"
+msgstr "гвардеец"
+
+msgid "man guard"
+msgstr "мужчина-гвардеец"
+
+msgid "woman guard"
+msgstr "женщина-гвардеец"
+
+msgid "ninja"
+msgstr "ниндзя"
+
+msgid "construction worker"
+msgstr "строитель"
+
+msgid "man construction worker"
+msgstr "мужчина-строитель"
+
+msgid "woman construction worker"
+msgstr "женщина-строитель"
+
+msgid "person with crown"
+msgstr "человек с короной"
+
+msgid "prince"
+msgstr "принц"
+
+msgid "princess"
+msgstr "принцесса"
+
+msgid "person wearing turban"
+msgstr "человек в тюрбане"
+
+msgid "man wearing turban"
+msgstr "мужчина в тюрбане"
+
+msgid "woman wearing turban"
+msgstr "женщина в тюрбане"
+
+msgid "person with skullcap"
+msgstr "мужчина в китайской шапке"
+
+msgid "woman with headscarf"
+msgstr "женщина в платке"
+
+msgid "person in tuxedo"
+msgstr "жених"
+
+msgid "man in tuxedo"
+msgstr "мужчина в смокинге"
+
+msgid "woman in tuxedo"
+msgstr "женщина в смокинге"
+
+msgid "person with veil"
+msgstr "невеста"
+
+msgid "woman with veil"
+msgstr "женщина в фате"
+
+msgid "pregnant woman"
+msgstr "беременная женщина"
+
+msgid "pregnant man"
+msgstr "беременный мужчина"
+
+msgid "pregnant person"
+msgstr "беременный человек"
+
+msgid "breast-feeding"
+msgstr "кормление грудью"
+
+msgid "woman feeding baby"
+msgstr "кормящая женщина"
+
+msgid "man feeding baby"
+msgstr "кормящий мужчина"
+
+msgid "person feeding baby"
+msgstr "кормящий человек"
+
+msgid "baby angel"
+msgstr "ангелочек"
+
+msgid "Santa Claus"
+msgstr "Санта-Клаус"
+
+msgid "Mrs. Claus"
+msgstr "миссис Клаус"
+
+msgid "mx claus"
+msgstr "Санта"
+
+msgid "superhero"
+msgstr "супергерой"
+
+msgid "man superhero"
+msgstr "мужчина-супергерой"
+
+msgid "woman superhero"
+msgstr "женщина-супергерой"
+
+msgid "supervillain"
+msgstr "суперзлодей"
+
+msgid "man supervillain"
+msgstr "мужчина-суперзлодей"
+
+msgid "woman supervillain"
+msgstr "женщина-суперзлодей"
+
+msgid "mage"
+msgstr "маг"
+
+msgid "man mage"
+msgstr "волшебник"
+
+msgid "woman mage"
+msgstr "волшебница"
+
+msgid "fairy"
+msgstr "фея"
+
+msgid "man fairy"
+msgstr "мужчина-фея"
+
+msgid "woman fairy"
+msgstr "женщина-фея"
+
+msgid "vampire"
+msgstr "вампир"
+
+msgid "man vampire"
+msgstr "мужчина-вампир"
+
+msgid "woman vampire"
+msgstr "женщина-вампир"
+
+msgid "merperson"
+msgstr "русалка"
+
+msgid "merman"
+msgstr "тритон"
+
+msgid "mermaid"
+msgstr "женщина-русалка"
+
+msgid "elf"
+msgstr "эльф"
+
+msgid "man elf"
+msgstr "мужчина-эльф"
+
+msgid "woman elf"
+msgstr "женщина-эльф"
+
+msgid "genie"
+msgstr "джинн"
+
+msgid "man genie"
+msgstr "мужчина-джинн"
+
+msgid "woman genie"
+msgstr "женщина-джинн"
+
+msgid "zombie"
+msgstr "зомби"
+
+msgid "man zombie"
+msgstr "мужчина-зомби"
+
+msgid "woman zombie"
+msgstr "женщина-зомби"
+
+msgid "troll"
+msgstr "тролль"
+
+msgid "person getting massage"
+msgstr "человеку массируют лицо"
+
+msgid "man getting massage"
+msgstr "мужчине массируют лицо"
+
+msgid "woman getting massage"
+msgstr "женщине массируют лицо"
+
+msgid "person getting haircut"
+msgstr "человек у парикмахера"
+
+msgid "man getting haircut"
+msgstr "мужчина у парикмахера"
+
+msgid "woman getting haircut"
+msgstr "женщина у парикмахера"
+
+msgid "person walking"
+msgstr "человек идет"
+
+msgid "man walking"
+msgstr "мужчина идет"
+
+msgid "woman walking"
+msgstr "женщина идет"
+
+msgid "person standing"
+msgstr "человек стоит"
+
+msgid "man standing"
+msgstr "мужчина стоит"
+
+msgid "woman standing"
+msgstr "женщина стоит"
+
+msgid "person kneeling"
+msgstr "человек на коленях"
+
+msgid "man kneeling"
+msgstr "мужчина на коленях"
+
+msgid "woman kneeling"
+msgstr "женщина на коленях"
+
+msgid "person with white cane"
+msgstr "человек с белой тростью"
+
+msgid "man with white cane"
+msgstr "мужчина с тростью для ходьбы"
+
+msgid "woman with white cane"
+msgstr "женщина с тростью для ходьбы"
+
+msgid "person in motorized wheelchair"
+msgstr "человек в кресле-коляске с мотором"
+
+msgid "man in motorized wheelchair"
+msgstr "мужчина в электрическом кресле-коляске"
+
+msgid "woman in motorized wheelchair"
+msgstr "женщина в электрическом кресле-коляске"
+
+msgid "person in manual wheelchair"
+msgstr "человек в кресле-коляске с ручным приводом"
+
+msgid "man in manual wheelchair"
+msgstr "мужчина в ручном кресле-коляске"
+
+msgid "woman in manual wheelchair"
+msgstr "женщина в ручном кресле-коляске"
+
+msgid "person running"
+msgstr "человек бежит"
+
+msgid "man running"
+msgstr "мужчина бежит"
+
+msgid "woman running"
+msgstr "женщина бежит"
+
+msgid "woman dancing"
+msgstr "танцующая женщина"
+
+msgid "man dancing"
+msgstr "танцующий мужчина"
+
+msgid "person in suit levitating"
+msgstr "бизнесмен в воздухе"
+
+msgid "people with bunny ears"
+msgstr "люди с ушами кролика"
+
+msgid "men with bunny ears"
+msgstr "мужчины с ушами кролика"
+
+msgid "women with bunny ears"
+msgstr "женщины с ушами кролика"
+
+msgid "person in steamy room"
+msgstr "человек в бане"
+
+msgid "man in steamy room"
+msgstr "мужчина в бане"
+
+msgid "woman in steamy room"
+msgstr "женщина в бане"
+
+msgid "person climbing"
+msgstr "человек взбирается по скале"
+
+msgid "man climbing"
+msgstr "мужчина взбирается по скале"
+
+msgid "woman climbing"
+msgstr "женщина взбирается по скале"
+
+msgid "person fencing"
+msgstr "фехтовальщик"
+
+msgid "horse racing"
+msgstr "скачки"
+
+msgid "skier"
+msgstr "горные лыжи"
+
+msgid "snowboarder"
+msgstr "сноубордист"
+
+msgid "person golfing"
+msgstr "гольфист"
+
+msgid "man golfing"
+msgstr "мужчина играет в гольф"
+
+msgid "woman golfing"
+msgstr "женщина играет в гольф"
+
+msgid "person surfing"
+msgstr "серфинг"
+
+msgid "man surfing"
+msgstr "серфингист"
+
+msgid "woman surfing"
+msgstr "серфингистка"
+
+msgid "person rowing boat"
+msgstr "гребля"
+
+msgid "man rowing boat"
+msgstr "гребец"
+
+msgid "woman rowing boat"
+msgstr "гребчиха"
+
+msgid "person swimming"
+msgstr "плавание"
+
+msgid "man swimming"
+msgstr "пловец"
+
+msgid "woman swimming"
+msgstr "пловчиха"
+
+msgid "person bouncing ball"
+msgstr "баскетболист"
+
+msgid "man bouncing ball"
+msgstr "мужчина с мячом"
+
+msgid "woman bouncing ball"
+msgstr "женщина с мячом"
+
+msgid "person lifting weights"
+msgstr "тяжелоатлет"
+
+msgid "man lifting weights"
+msgstr "мужчина со штангой"
+
+msgid "woman lifting weights"
+msgstr "женщина со штангой"
+
+msgid "person biking"
+msgstr "велосипедист"
+
+msgid "man biking"
+msgstr "мужчина на велосипеде"
+
+msgid "woman biking"
+msgstr "женщина на велосипеде"
+
+msgid "person mountain biking"
+msgstr "человек на горном велосипеде"
+
+msgid "man mountain biking"
+msgstr "мужчина на горном велосипеде"
+
+msgid "woman mountain biking"
+msgstr "женщина на горном велосипеде"
+
+msgid "person cartwheeling"
+msgstr "акробатический трюк"
+
+msgid "man cartwheeling"
+msgstr "акробат"
+
+msgid "woman cartwheeling"
+msgstr "женщина-акробат"
+
+msgid "people wrestling"
+msgstr "борцы"
+
+msgid "men wrestling"
+msgstr "мужчины-борцы"
+
+msgid "women wrestling"
+msgstr "женщины-борцы"
+
+msgid "person playing water polo"
+msgstr "водное поло"
+
+msgid "man playing water polo"
+msgstr "мужчина играет в водное поло"
+
+msgid "woman playing water polo"
+msgstr "женщина играет в водное поло"
+
+msgid "person playing handball"
+msgstr "гандбол"
+
+msgid "man playing handball"
+msgstr "гандболист"
+
+msgid "woman playing handball"
+msgstr "гандболистка"
+
+msgid "person juggling"
+msgstr "жонглер"
+
+msgid "man juggling"
+msgstr "мужчина-жонглер"
+
+msgid "woman juggling"
+msgstr "женщина-жонглер"
+
+msgid "person in lotus position"
+msgstr "человек в позе лотоса"
+
+msgid "man in lotus position"
+msgstr "мужчина в позе лотоса"
+
+msgid "woman in lotus position"
+msgstr "женщина в позе лотоса"
+
+msgid "person taking bath"
+msgstr "человек в ванне"
+
+msgid "person in bed"
+msgstr "человек в кровати"
+
+msgid "people holding hands"
+msgstr "люди, держащиеся за руки"
+
+msgid "woman and man holding hands"
+msgstr "мужчина и женщина"
+
+msgid "kiss"
+msgstr "поцелуй"
+
+msgid "couple with heart"
+msgstr "влюбленная пара"
+
+msgid "speaking head"
+msgstr "говорящая голова"
+
+msgid "bust in silhouette"
+msgstr "силуэт человека"
+
+msgid "busts in silhouette"
+msgstr "два силуэта"
+
+msgid "people hugging"
+msgstr "обнимающиеся люди"
+
+msgid "family"
+msgstr "семья"
+
+msgid "footprints"
+msgstr "следы"
+
+msgid "monkey face"
+msgstr "морда обезьяны"
+
+msgid "monkey"
+msgstr "обезьяна"
+
+msgid "gorilla"
+msgstr "горилла"
+
+msgid "orangutan"
+msgstr "орангутан"
+
+msgid "dog face"
+msgstr "морда собаки"
+
+msgid "dog"
+msgstr "собака"
+
+msgid "guide dog"
+msgstr "собака-поводырь"
+
+msgid "service dog"
+msgstr "служебная собака"
+
+msgid "poodle"
+msgstr "пудель"
+
+msgid "wolf"
+msgstr "морда волка"
+
+msgid "fox"
+msgstr "морда лисицы"
+
+msgid "raccoon"
+msgstr "морда енота"
+
+msgid "cat face"
+msgstr "морда кошки"
+
+msgid "cat"
+msgstr "кошка"
+
+msgid "black cat"
+msgstr "черная кошка"
+
+msgid "lion"
+msgstr "морда льва"
+
+msgid "tiger face"
+msgstr "морда тигра"
+
+msgid "tiger"
+msgstr "тигр"
+
+msgid "leopard"
+msgstr "леопард"
+
+msgid "horse face"
+msgstr "морда лошади"
+
+msgid "moose"
+msgstr "лось"
+
+msgid "donkey"
+msgstr "осел"
+
+msgid "horse"
+msgstr "лошадь"
+
+msgid "unicorn"
+msgstr "голова единорога"
+
+msgid "zebra"
+msgstr "зебра"
+
+msgid "deer"
+msgstr "олень"
+
+msgid "bison"
+msgstr "бизон"
+
+msgid "cow face"
+msgstr "морда коровы"
+
+msgid "ox"
+msgstr "бык"
+
+msgid "water buffalo"
+msgstr "буйвол"
+
+msgid "cow"
+msgstr "корова"
+
+msgid "pig face"
+msgstr "морда свиньи"
+
+msgid "pig"
+msgstr "свинья"
+
+msgid "boar"
+msgstr "кабан"
+
+msgid "pig nose"
+msgstr "свиной пятачок"
+
+msgid "ram"
+msgstr "баран"
+
+msgid "ewe"
+msgstr "овца"
+
+msgid "goat"
+msgstr "коза"
+
+msgid "camel"
+msgstr "одногорбый верблюд"
+
+msgid "two-hump camel"
+msgstr "двугорбый верблюд"
+
+msgid "llama"
+msgstr "лама"
+
+msgid "giraffe"
+msgstr "жираф"
+
+msgid "elephant"
+msgstr "слон"
+
+msgid "mammoth"
+msgstr "мамонт"
+
+msgid "rhinoceros"
+msgstr "носорог"
+
+msgid "hippopotamus"
+msgstr "гиппопотам"
+
+msgid "mouse face"
+msgstr "морда мыши"
+
+msgid "mouse"
+msgstr "мышь"
+
+msgid "rat"
+msgstr "крыса"
+
+msgid "hamster"
+msgstr "морда хомяка"
+
+msgid "rabbit face"
+msgstr "морда кролика"
+
+msgid "rabbit"
+msgstr "кролик"
+
+msgid "chipmunk"
+msgstr "бурундук"
+
+msgid "beaver"
+msgstr "бобр"
+
+msgid "hedgehog"
+msgstr "еж"
+
+msgid "bat"
+msgstr "летучая мышь"
+
+msgid "bear"
+msgstr "морда медведя"
+
+msgid "polar bear"
+msgstr "морда белого медведя"
+
+msgid "koala"
+msgstr "морда коалы"
+
+msgid "panda"
+msgstr "морда панды"
+
+msgid "sloth"
+msgstr "ленивец"
+
+msgid "otter"
+msgstr "выдра"
+
+msgid "skunk"
+msgstr "скунс"
+
+msgid "kangaroo"
+msgstr "кенгуру"
+
+msgid "badger"
+msgstr "барсук"
+
+msgid "paw prints"
+msgstr "следы животного"
+
+msgid "turkey"
+msgstr "индейка"
+
+msgid "chicken"
+msgstr "курица"
+
+msgid "rooster"
+msgstr "петух"
+
+msgid "hatching chick"
+msgstr "цыпленок в яйце"
+
+msgid "baby chick"
+msgstr "цыпленок боком"
+
+msgid "front-facing baby chick"
+msgstr "цыпленок"
+
+msgid "bird"
+msgstr "птица"
+
+msgid "penguin"
+msgstr "пингвин"
+
+msgid "dove"
+msgstr "голубь"
+
+msgid "eagle"
+msgstr "орел"
+
+msgid "duck"
+msgstr "утка"
+
+msgid "swan"
+msgstr "лебедь"
+
+msgid "owl"
+msgstr "сова"
+
+msgid "dodo"
+msgstr "дронт"
+
+msgid "feather"
+msgstr "перо"
+
+msgid "flamingo"
+msgstr "фламинго"
+
+msgid "peacock"
+msgstr "павлин"
+
+msgid "parrot"
+msgstr "попугай"
+
+msgid "wing"
+msgstr "крыло"
+
+msgid "black bird"
+msgstr "черная птица"
+
+msgid "goose"
+msgstr "гусь"
+
+msgid "frog"
+msgstr "голова лягушки"
+
+msgid "crocodile"
+msgstr "крокодил"
+
+msgid "turtle"
+msgstr "черепаха"
+
+msgid "lizard"
+msgstr "ящерица"
+
+msgid "snake"
+msgstr "змея"
+
+msgid "dragon face"
+msgstr "голова дракона"
+
+msgid "dragon"
+msgstr "дракон"
+
+msgid "sauropod"
+msgstr "зауропод"
+
+msgid "T-Rex"
+msgstr "Ти-Рекс"
+
+msgid "spouting whale"
+msgstr "кит с фонтанчиком"
+
+msgid "whale"
+msgstr "кит"
+
+msgid "dolphin"
+msgstr "дельфин"
+
+msgid "seal"
+msgstr "тюлень"
+
+msgid "fish"
+msgstr "рыба"
+
+msgid "tropical fish"
+msgstr "тропическая рыба"
+
+msgid "blowfish"
+msgstr "рыба-еж"
+
+msgid "shark"
+msgstr "акула"
+
+msgid "octopus"
+msgstr "осьминог"
+
+msgid "spiral shell"
+msgstr "раковина"
+
+msgid "coral"
+msgstr "коралл"
+
+msgid "jellyfish"
+msgstr "медуза"
+
+msgid "snail"
+msgstr "улитка"
+
+msgid "butterfly"
+msgstr "бабочка"
+
+msgid "bug"
+msgstr "гусеница"
+
+msgid "ant"
+msgstr "муравей"
+
+msgid "honeybee"
+msgstr "пчела"
+
+msgid "beetle"
+msgstr "жук"
+
+msgid "lady beetle"
+msgstr "божья коровка"
+
+msgid "cricket"
+msgstr "сверчок"
+
+msgid "cockroach"
+msgstr "таракан"
+
+msgid "spider"
+msgstr "паук"
+
+msgid "spider web"
+msgstr "паутина"
+
+msgid "scorpion"
+msgstr "скорпион"
+
+msgid "mosquito"
+msgstr "комар"
+
+msgid "fly"
+msgstr "муха"
+
+msgid "worm"
+msgstr "червяк"
+
+msgid "microbe"
+msgstr "микроб"
+
+msgid "bouquet"
+msgstr "букет"
+
+msgid "cherry blossom"
+msgstr "цветок вишни"
+
+msgid "white flower"
+msgstr "белый цветок"
+
+msgid "lotus"
+msgstr "лотос"
+
+msgid "rosette"
+msgstr "розетка"
+
+msgid "rose"
+msgstr "роза"
+
+msgid "wilted flower"
+msgstr "увядший цветок"
+
+msgid "hibiscus"
+msgstr "гибискус"
+
+msgid "sunflower"
+msgstr "подсолнух"
+
+msgid "blossom"
+msgstr "цветок"
+
+msgid "tulip"
+msgstr "тюльпан"
+
+msgid "hyacinth"
+msgstr "гиацинт"
+
+msgid "seedling"
+msgstr "росток"
+
+msgid "potted plant"
+msgstr "растение в горшке"
+
+msgid "evergreen tree"
+msgstr "елка"
+
+msgid "deciduous tree"
+msgstr "дерево"
+
+msgid "palm tree"
+msgstr "пальма"
+
+msgid "cactus"
+msgstr "кактус"
+
+msgid "sheaf of rice"
+msgstr "колос"
+
+msgid "herb"
+msgstr "веточка"
+
+msgid "shamrock"
+msgstr "трилистник"
+
+msgid "four leaf clover"
+msgstr "четырехлистный клевер"
+
+msgid "maple leaf"
+msgstr "кленовый лист"
+
+msgid "fallen leaf"
+msgstr "падающие листья"
+
+msgid "leaf fluttering in wind"
+msgstr "листья на ветру"
+
+msgid "empty nest"
+msgstr "пустое гнездо"
+
+msgid "nest with eggs"
+msgstr "гнездо с яйцами"
+
+msgid "mushroom"
+msgstr "гриб"
+
+msgid "grapes"
+msgstr "виноград"
+
+msgid "melon"
+msgstr "дыня"
+
+msgid "watermelon"
+msgstr "арбуз"
+
+msgid "tangerine"
+msgstr "мандарин"
+
+msgid "lemon"
+msgstr "лимон"
+
+msgid "banana"
+msgstr "банан"
+
+msgid "pineapple"
+msgstr "ананас"
+
+msgid "mango"
+msgstr "манго"
+
+msgid "red apple"
+msgstr "красное яблоко"
+
+msgid "green apple"
+msgstr "зеленое яблоко"
+
+msgid "pear"
+msgstr "груша"
+
+msgid "peach"
+msgstr "персик"
+
+msgid "cherries"
+msgstr "вишня"
+
+msgid "strawberry"
+msgstr "клубника"
+
+msgid "blueberries"
+msgstr "голубика"
+
+msgid "kiwi fruit"
+msgstr "киви"
+
+msgid "tomato"
+msgstr "помидор"
+
+msgid "olive"
+msgstr "оливка"
+
+msgid "coconut"
+msgstr "кокос"
+
+msgid "avocado"
+msgstr "авокадо"
+
+msgid "eggplant"
+msgstr "баклажан"
+
+msgid "potato"
+msgstr "картофель"
+
+msgid "carrot"
+msgstr "морковь"
+
+msgid "ear of corn"
+msgstr "кукурузный початок"
+
+msgid "hot pepper"
+msgstr "острый перец"
+
+msgid "bell pepper"
+msgstr "болгарский перец"
+
+msgid "cucumber"
+msgstr "огурец"
+
+msgid "leafy green"
+msgstr "зеленый салат"
+
+msgid "broccoli"
+msgstr "брокколи"
+
+msgid "garlic"
+msgstr "чеснок"
+
+msgid "onion"
+msgstr "лук"
+
+msgid "peanuts"
+msgstr "арахис"
+
+msgid "beans"
+msgstr "фасоль"
+
+msgid "chestnut"
+msgstr "каштан"
+
+msgid "ginger root"
+msgstr "корень имбиря"
+
+msgid "pea pod"
+msgstr "стручок гороха"
+
+msgid "bread"
+msgstr "хлеб"
+
+msgid "croissant"
+msgstr "круассан"
+
+msgid "baguette bread"
+msgstr "багет"
+
+msgid "flatbread"
+msgstr "лепешка"
+
+msgid "pretzel"
+msgstr "крендель"
+
+msgid "bagel"
+msgstr "бублик"
+
+msgid "pancakes"
+msgstr "блины"
+
+msgid "waffle"
+msgstr "вафля"
+
+msgid "cheese wedge"
+msgstr "сыр"
+
+msgid "meat on bone"
+msgstr "мясо на косточке"
+
+msgid "poultry leg"
+msgstr "куриная ножка"
+
+msgid "cut of meat"
+msgstr "кусок мяса"
+
+msgid "bacon"
+msgstr "бекон"
+
+msgid "hamburger"
+msgstr "гамбургер"
+
+msgid "french fries"
+msgstr "картофель фри"
+
+msgid "pizza"
+msgstr "пицца"
+
+msgid "hot dog"
+msgstr "хот-дог"
+
+msgid "sandwich"
+msgstr "сэндвич"
+
+msgid "taco"
+msgstr "тако"
+
+msgid "burrito"
+msgstr "буррито"
+
+msgid "tamale"
+msgstr "тамале"
+
+msgid "stuffed flatbread"
+msgstr "шаурма"
+
+msgid "falafel"
+msgstr "фалафель"
+
+msgid "egg"
+msgstr "яйцо"
+
+msgid "cooking"
+msgstr "яичница на сковороде"
+
+msgid "shallow pan of food"
+msgstr "рагу в сковороде"
+
+msgid "pot of food"
+msgstr "кастрюля с горячей едой"
+
+msgid "fondue"
+msgstr "фондю"
+
+msgid "bowl with spoon"
+msgstr "миска с ложкой"
+
+msgid "green salad"
+msgstr "овощной салат"
+
+msgid "popcorn"
+msgstr "попкорн"
+
+msgid "butter"
+msgstr "масло"
+
+msgid "salt"
+msgstr "солонка"
+
+msgid "canned food"
+msgstr "консервы"
+
+msgid "bento box"
+msgstr "бэнто"
+
+msgid "rice cracker"
+msgstr "рисовый крекер"
+
+msgid "rice ball"
+msgstr "онигири"
+
+msgid "cooked rice"
+msgstr "рис"
+
+msgid "curry rice"
+msgstr "рис с карри"
+
+msgid "steaming bowl"
+msgstr "лапша"
+
+msgid "spaghetti"
+msgstr "спагетти"
+
+msgid "roasted sweet potato"
+msgstr "печеный сладкий картофель"
+
+msgid "oden"
+msgstr "одэн"
+
+msgid "sushi"
+msgstr "суши"
+
+msgid "fried shrimp"
+msgstr "жареная креветка"
+
+msgid "fish cake with swirl"
+msgstr "камабоко"
+
+msgid "moon cake"
+msgstr "лунный пирог"
+
+msgid "dango"
+msgstr "данго"
+
+msgid "dumpling"
+msgstr "вареник"
+
+msgid "fortune cookie"
+msgstr "печенье с предсказанием"
+
+msgid "takeout box"
+msgstr "коробка для еды на вынос"
+
+msgid "crab"
+msgstr "краб"
+
+msgid "lobster"
+msgstr "омар"
+
+msgid "shrimp"
+msgstr "креветка"
+
+msgid "squid"
+msgstr "кальмар"
+
+msgid "oyster"
+msgstr "устрица"
+
+msgid "soft ice cream"
+msgstr "мороженое в стаканчике"
+
+msgid "shaved ice"
+msgstr "мороженое в креманке"
+
+msgid "ice cream"
+msgstr "мороженое"
+
+msgid "doughnut"
+msgstr "пончик"
+
+msgid "cookie"
+msgstr "печенье"
+
+msgid "birthday cake"
+msgstr "торт ко дню рождения"
+
+msgid "shortcake"
+msgstr "кусочек торта"
+
+msgid "cupcake"
+msgstr "капкейк"
+
+msgid "pie"
+msgstr "пирог"
+
+msgid "chocolate bar"
+msgstr "шоколад"
+
+msgid "candy"
+msgstr "конфета"
+
+msgid "lollipop"
+msgstr "леденец"
+
+msgid "custard"
+msgstr "пудинг"
+
+msgid "honey pot"
+msgstr "мед"
+
+msgid "baby bottle"
+msgstr "бутылочка с соской"
+
+msgid "glass of milk"
+msgstr "стакан молока"
+
+msgid "hot beverage"
+msgstr "горячий напиток"
+
+msgid "teapot"
+msgstr "чайник"
+
+msgid "teacup without handle"
+msgstr "чашка без ручки"
+
+msgid "sake"
+msgstr "бутылка саке"
+
+msgid "bottle with popping cork"
+msgstr "шампанское"
+
+msgid "wine glass"
+msgstr "бокал вина"
+
+msgid "cocktail glass"
+msgstr "коктейль"
+
+msgid "tropical drink"
+msgstr "тропический коктейль"
+
+msgid "beer mug"
+msgstr "кружка пива"
+
+msgid "clinking beer mugs"
+msgstr "чокающиеся кружки"
+
+msgid "clinking glasses"
+msgstr "чокающиеся бокалы"
+
+msgid "tumbler glass"
+msgstr "стакан с виски"
+
+msgid "pouring liquid"
+msgstr "стакан с жидкостью"
+
+msgid "cup with straw"
+msgstr "стакан с соломинкой"
+
+msgid "bubble tea"
+msgstr "чай с шариками"
+
+msgid "beverage box"
+msgstr "пакетик сока"
+
+msgid "mate"
+msgstr "мате"
+
+msgid "ice"
+msgstr "кубик льда"
+
+msgid "chopsticks"
+msgstr "палочки для еды"
+
+msgid "fork and knife with plate"
+msgstr "тарелка с приборами"
+
+msgid "fork and knife"
+msgstr "вилка и нож"
+
+msgid "spoon"
+msgstr "ложка"
+
+msgid "kitchen knife"
+msgstr "нож"
+
+msgid "jar"
+msgstr "банка"
+
+msgid "amphora"
+msgstr "амфора"
+
+msgid "globe showing Europe-Africa"
+msgstr "Европа и Африка на земном шаре"
+
+msgid "globe showing Americas"
+msgstr "Америка на земном шаре"
+
+msgid "globe showing Asia-Australia"
+msgstr "Азия и Австралия на земном шаре"
+
+msgid "globe with meridians"
+msgstr "меридианы"
+
+msgid "world map"
+msgstr "карта мира"
+
+msgid "map of Japan"
+msgstr "карта Японии"
+
+msgid "compass"
+msgstr "компас"
+
+msgid "snow-capped mountain"
+msgstr "гора со снежной шапкой"
+
+msgid "mountain"
+msgstr "гора"
+
+msgid "volcano"
+msgstr "вулкан"
+
+msgid "mount fuji"
+msgstr "Фудзияма"
+
+msgid "camping"
+msgstr "кемпинг"
+
+msgid "beach with umbrella"
+msgstr "пляж"
+
+msgid "desert"
+msgstr "пустыня"
+
+msgid "desert island"
+msgstr "остров"
+
+msgid "national park"
+msgstr "национальный парк"
+
+msgid "stadium"
+msgstr "стадион"
+
+msgid "classical building"
+msgstr "античное здание"
+
+msgid "building construction"
+msgstr "стройка"
+
+msgid "brick"
+msgstr "кирпичи"
+
+msgid "rock"
+msgstr "камень"
+
+msgid "wood"
+msgstr "древесина"
+
+msgid "hut"
+msgstr "хижина"
+
+msgid "houses"
+msgstr "дома"
+
+msgid "derelict house"
+msgstr "заброшенный дом"
+
+msgid "house"
+msgstr "дом"
+
+msgid "house with garden"
+msgstr "дом с садом"
+
+msgid "office building"
+msgstr "офисное здание"
+
+msgid "Japanese post office"
+msgstr "японская почта"
+
+msgid "post office"
+msgstr "почта"
+
+msgid "hospital"
+msgstr "больница"
+
+msgid "bank"
+msgstr "банк"
+
+msgid "hotel"
+msgstr "гостиница"
+
+msgid "love hotel"
+msgstr "гостиница для свиданий"
+
+msgid "convenience store"
+msgstr "круглосуточный магазин"
+
+msgid "school"
+msgstr "школа"
+
+msgid "department store"
+msgstr "универмаг"
+
+msgid "factory"
+msgstr "завод"
+
+msgid "Japanese castle"
+msgstr "японский замок"
+
+msgid "castle"
+msgstr "замок"
+
+msgid "wedding"
+msgstr "свадьба"
+
+msgid "Tokyo tower"
+msgstr "Токийская башня"
+
+msgid "Statue of Liberty"
+msgstr "статуя Свободы"
+
+msgid "church"
+msgstr "церковь"
+
+msgid "mosque"
+msgstr "мечеть"
+
+msgid "hindu temple"
+msgstr "индуистский храм"
+
+msgid "synagogue"
+msgstr "синагога"
+
+msgid "shinto shrine"
+msgstr "синтоистский храм"
+
+msgid "kaaba"
+msgstr "Кааба"
+
+msgid "fountain"
+msgstr "фонтан"
+
+msgid "tent"
+msgstr "палатка"
+
+msgid "foggy"
+msgstr "туман"
+
+msgid "night with stars"
+msgstr "звездная ночь"
+
+msgid "cityscape"
+msgstr "ночной город"
+
+msgid "sunrise over mountains"
+msgstr "восход солнца над горами"
+
+msgid "sunrise"
+msgstr "восход"
+
+msgid "cityscape at dusk"
+msgstr "закат в городе"
+
+msgid "sunset"
+msgstr "закат"
+
+msgid "bridge at night"
+msgstr "мост ночью"
+
+msgid "hot springs"
+msgstr "горячие источники"
+
+msgid "carousel horse"
+msgstr "лошадь на карусели"
+
+msgid "playground slide"
+msgstr "детская горка"
+
+msgid "ferris wheel"
+msgstr "колесо обозрения"
+
+msgid "roller coaster"
+msgstr "американские горки"
+
+msgid "barber pole"
+msgstr "парикмахерская"
+
+msgid "circus tent"
+msgstr "цирковой шатер"
+
+msgid "locomotive"
+msgstr "паровоз"
+
+msgid "railway car"
+msgstr "вагон"
+
+msgid "high-speed train"
+msgstr "скоростной поезд"
+
+msgid "bullet train"
+msgstr "поезд-пуля"
+
+msgid "train"
+msgstr "поезд"
+
+msgid "metro"
+msgstr "метро"
+
+msgid "light rail"
+msgstr "легкий рельсовый транспорт"
+
+msgid "station"
+msgstr "железнодорожный вокзал"
+
+msgid "tram"
+msgstr "трамвай"
+
+msgid "monorail"
+msgstr "монорельс"
+
+msgid "mountain railway"
+msgstr "поезд в горах"
+
+msgid "tram car"
+msgstr "трамвайный вагон"
+
+msgid "bus"
+msgstr "автобус"
+
+msgid "oncoming bus"
+msgstr "автобус спереди"
+
+msgid "trolleybus"
+msgstr "троллейбус"
+
+msgid "minibus"
+msgstr "микроавтобус"
+
+msgid "ambulance"
+msgstr "машина скорой помощи"
+
+msgid "fire engine"
+msgstr "пожарная машина"
+
+msgid "police car"
+msgstr "полицейская машина"
+
+msgid "oncoming police car"
+msgstr "полицейская машина спереди"
+
+msgid "taxi"
+msgstr "такси"
+
+msgid "oncoming taxi"
+msgstr "такси спереди"
+
+msgid "automobile"
+msgstr "автомобиль"
+
+msgid "oncoming automobile"
+msgstr "автомобиль спереди"
+
+msgid "sport utility vehicle"
+msgstr "джип"
+
+msgid "pickup truck"
+msgstr "пикап"
+
+msgid "delivery truck"
+msgstr "грузовик"
+
+msgid "articulated lorry"
+msgstr "фура"
+
+msgid "tractor"
+msgstr "трактор"
+
+msgid "racing car"
+msgstr "гоночный автомобиль"
+
+msgid "motorcycle"
+msgstr "мотоцикл"
+
+msgid "motor scooter"
+msgstr "скутер"
+
+msgid "manual wheelchair"
+msgstr "кресло-коляска с ручным приводом"
+
+msgid "motorized wheelchair"
+msgstr "кресло-коляска с мотором"
+
+msgid "auto rickshaw"
+msgstr "авторикша"
+
+msgid "bicycle"
+msgstr "велосипед"
+
+msgid "kick scooter"
+msgstr "самокат"
+
+msgid "skateboard"
+msgstr "скейтборд"
+
+msgid "roller skate"
+msgstr "роликовые коньки"
+
+msgid "bus stop"
+msgstr "автобусная остановка"
+
+msgid "motorway"
+msgstr "шоссе"
+
+msgid "railway track"
+msgstr "железная дорога"
+
+msgid "oil drum"
+msgstr "бочка"
+
+msgid "fuel pump"
+msgstr "заправка"
+
+msgid "wheel"
+msgstr "автомобильное колесо"
+
+msgid "police car light"
+msgstr "мигалка"
+
+msgid "horizontal traffic light"
+msgstr "горизонтальный светофор"
+
+msgid "vertical traffic light"
+msgstr "вертикальный светофор"
+
+msgid "stop sign"
+msgstr "знак «стоп»"
+
+msgid "construction"
+msgstr "строительные работы"
+
+msgid "anchor"
+msgstr "якорь"
+
+msgid "ring buoy"
+msgstr "спасательный круг"
+
+msgid "sailboat"
+msgstr "парусник"
+
+msgid "canoe"
+msgstr "каноэ"
+
+msgid "speedboat"
+msgstr "катер"
+
+msgid "passenger ship"
+msgstr "пассажирский лайнер"
+
+msgid "ferry"
+msgstr "паром"
+
+msgid "motor boat"
+msgstr "моторная лодка"
+
+msgid "ship"
+msgstr "корабль"
+
+msgid "airplane"
+msgstr "самолет"
+
+msgid "small airplane"
+msgstr "маленький самолет"
+
+msgid "airplane departure"
+msgstr "взлет"
+
+msgid "airplane arrival"
+msgstr "посадка"
+
+msgid "parachute"
+msgstr "парашют"
+
+msgid "seat"
+msgstr "кресло"
+
+msgid "helicopter"
+msgstr "вертолет"
+
+msgid "suspension railway"
+msgstr "подвесная железная дорога"
+
+msgid "mountain cableway"
+msgstr "вагон фуникулера"
+
+msgid "aerial tramway"
+msgstr "канатная дорога"
+
+msgid "satellite"
+msgstr "спутник"
+
+msgid "rocket"
+msgstr "ракета"
+
+msgid "flying saucer"
+msgstr "летающая тарелка"
+
+msgid "bellhop bell"
+msgstr "гостиничный звонок"
+
+msgid "luggage"
+msgstr "багаж"
+
+msgid "hourglass done"
+msgstr "песочные часы"
+
+msgid "hourglass not done"
+msgstr "время пошло"
+
+msgid "watch"
+msgstr "наручные часы"
+
+msgid "alarm clock"
+msgstr "будильник"
+
+msgid "stopwatch"
+msgstr "секундомер"
+
+msgid "timer clock"
+msgstr "таймер"
+
+msgid "mantelpiece clock"
+msgstr "каминные часы"
+
+msgid "twelve o’clock"
+msgstr "двенадцать часов"
+
+msgid "twelve-thirty"
+msgstr "полпервого"
+
+msgid "one o’clock"
+msgstr "час"
+
+msgid "one-thirty"
+msgstr "полвторого"
+
+msgid "two o’clock"
+msgstr "два часа"
+
+msgid "two-thirty"
+msgstr "полтретьего"
+
+msgid "three o’clock"
+msgstr "три часа"
+
+msgid "three-thirty"
+msgstr "полчетвертого"
+
+msgid "four o’clock"
+msgstr "четыре часа"
+
+msgid "four-thirty"
+msgstr "полпятого"
+
+msgid "five o’clock"
+msgstr "пять часов"
+
+msgid "five-thirty"
+msgstr "полшестого"
+
+msgid "six o’clock"
+msgstr "шесть часов"
+
+msgid "six-thirty"
+msgstr "полседьмого"
+
+msgid "seven o’clock"
+msgstr "семь часов"
+
+msgid "seven-thirty"
+msgstr "полвосьмого"
+
+msgid "eight o’clock"
+msgstr "восемь часов"
+
+msgid "eight-thirty"
+msgstr "полдевятого"
+
+msgid "nine o’clock"
+msgstr "девять часов"
+
+msgid "nine-thirty"
+msgstr "полдесятого"
+
+msgid "ten o’clock"
+msgstr "десять часов"
+
+msgid "ten-thirty"
+msgstr "пол-одиннадцатого"
+
+msgid "eleven o’clock"
+msgstr "одиннадцать часов"
+
+msgid "eleven-thirty"
+msgstr "полдвенадцатого"
+
+msgid "new moon"
+msgstr "новолуние"
+
+msgid "waxing crescent moon"
+msgstr "молодая луна"
+
+msgid "first quarter moon"
+msgstr "луна в первой четверти"
+
+msgid "waxing gibbous moon"
+msgstr "прибывающая луна"
+
+msgid "full moon"
+msgstr "полнолуние"
+
+msgid "waning gibbous moon"
+msgstr "убывающая луна"
+
+msgid "last quarter moon"
+msgstr "луна в последней четверти"
+
+msgid "waning crescent moon"
+msgstr "старая луна"
+
+msgid "crescent moon"
+msgstr "полумесяц"
+
+msgid "new moon face"
+msgstr "новая луна с лицом"
+
+msgid "first quarter moon face"
+msgstr "луна в первой четверти с лицом"
+
+msgid "last quarter moon face"
+msgstr "луна в последней четверти с лицом"
+
+msgid "thermometer"
+msgstr "термометр"
+
+msgid "sun"
+msgstr "солнце"
+
+msgid "full moon face"
+msgstr "полная луна с лицом"
+
+msgid "sun with face"
+msgstr "солнце с лицом"
+
+msgid "ringed planet"
+msgstr "планета с кольцом"
+
+msgid "star"
+msgstr "желтая звезда"
+
+msgid "glowing star"
+msgstr "сияющая звезда"
+
+msgid "shooting star"
+msgstr "падающая звезда"
+
+msgid "milky way"
+msgstr "Млечный Путь"
+
+msgid "cloud"
+msgstr "облако"
+
+msgid "sun behind cloud"
+msgstr "солнце за облаками"
+
+msgid "cloud with lightning and rain"
+msgstr "гроза"
+
+msgid "sun behind small cloud"
+msgstr "солнце за облачком"
+
+msgid "sun behind large cloud"
+msgstr "солнце за облаком"
+
+msgid "sun behind rain cloud"
+msgstr "слепой дождь"
+
+msgid "cloud with rain"
+msgstr "дождь"
+
+msgid "cloud with snow"
+msgstr "снег"
+
+msgid "cloud with lightning"
+msgstr "молния"
+
+msgid "tornado"
+msgstr "торнадо"
+
+msgid "fog"
+msgstr "густой туман"
+
+msgid "wind face"
+msgstr "дует ветер"
+
+msgid "cyclone"
+msgstr "циклон"
+
+msgid "rainbow"
+msgstr "радуга"
+
+msgid "closed umbrella"
+msgstr "закрытый зонт"
+
+msgid "umbrella"
+msgstr "зонт"
+
+msgid "umbrella with rain drops"
+msgstr "зонт под дождем"
+
+msgid "umbrella on ground"
+msgstr "пляжный зонт"
+
+msgid "high voltage"
+msgstr "высокое напряжение"
+
+msgid "snowflake"
+msgstr "снежинка"
+
+msgid "snowman"
+msgstr "снеговик под снегом"
+
+msgid "snowman without snow"
+msgstr "снеговик"
+
+msgid "comet"
+msgstr "комета"
+
+msgid "fire"
+msgstr "огонь"
+
+msgid "droplet"
+msgstr "капля"
+
+msgid "water wave"
+msgstr "волна"
+
+msgid "jack-o-lantern"
+msgstr "тыква-фонарь"
+
+msgid "Christmas tree"
+msgstr "новогодняя елка"
+
+msgid "fireworks"
+msgstr "фейерверк"
+
+msgid "sparkler"
+msgstr "бенгальский огонь"
+
+msgid "firecracker"
+msgstr "динамитная шашка"
+
+msgid "sparkles"
+msgstr "блестки"
+
+msgid "balloon"
+msgstr "воздушный шарик"
+
+msgid "party popper"
+msgstr "хлопушка"
+
+msgid "confetti ball"
+msgstr "конфетти"
+
+msgid "tanabata tree"
+msgstr "бамбук с бумажными лентами"
+
+msgid "pine decoration"
+msgstr "украшенный бамбук"
+
+msgid "Japanese dolls"
+msgstr "японские куклы"
+
+msgid "carp streamer"
+msgstr "вымпелы в виде карпов"
+
+msgid "wind chime"
+msgstr "музыка ветра"
+
+msgid "moon viewing ceremony"
+msgstr "праздник Луны"
+
+msgid "red envelope"
+msgstr "красный конверт"
+
+msgid "ribbon"
+msgstr "бантик"
+
+msgid "wrapped gift"
+msgstr "подарок"
+
+msgid "reminder ribbon"
+msgstr "памятная лента"
+
+msgid "admission tickets"
+msgstr "билеты"
+
+msgid "ticket"
+msgstr "билет"
+
+msgid "military medal"
+msgstr "военная медаль"
+
+msgid "trophy"
+msgstr "кубок"
+
+msgid "sports medal"
+msgstr "спортивная медаль"
+
+msgid "1st place medal"
+msgstr "золотая медаль"
+
+msgid "2nd place medal"
+msgstr "серебряная медаль"
+
+msgid "3rd place medal"
+msgstr "бронзовая медаль"
+
+msgid "soccer ball"
+msgstr "футбол"
+
+msgid "baseball"
+msgstr "бейсбол"
+
+msgid "softball"
+msgstr "софтбол"
+
+msgid "basketball"
+msgstr "баскетбол"
+
+msgid "volleyball"
+msgstr "волейбол"
+
+msgid "american football"
+msgstr "американский футбол"
+
+msgid "rugby football"
+msgstr "регби"
+
+msgid "tennis"
+msgstr "теннис"
+
+msgid "flying disc"
+msgstr "летающий диск"
+
+msgid "bowling"
+msgstr "боулинг"
+
+msgid "cricket game"
+msgstr "крикет"
+
+msgid "field hockey"
+msgstr "хоккей на траве"
+
+msgid "ice hockey"
+msgstr "хоккей"
+
+msgid "lacrosse"
+msgstr "лакросс"
+
+msgid "ping pong"
+msgstr "настольный теннис"
+
+msgid "badminton"
+msgstr "бадминтон"
+
+msgid "boxing glove"
+msgstr "боксерская перчатка"
+
+msgid "martial arts uniform"
+msgstr "спортивное кимоно"
+
+msgid "goal net"
+msgstr "спортивные ворота"
+
+msgid "flag in hole"
+msgstr "гольф"
+
+msgid "ice skate"
+msgstr "коньки"
+
+msgid "fishing pole"
+msgstr "удочка с рыбой"
+
+msgid "diving mask"
+msgstr "маска с трубкой"
+
+msgid "running shirt"
+msgstr "футболка для бега"
+
+msgid "skis"
+msgstr "лыжи"
+
+msgid "sled"
+msgstr "санки"
+
+msgid "curling stone"
+msgstr "керлинг"
+
+msgid "bullseye"
+msgstr "мишень"
+
+msgid "yo-yo"
+msgstr "йо-йо"
+
+msgid "kite"
+msgstr "воздушный змей"
+
+msgid "water pistol"
+msgstr "водяной пистолет"
+
+msgid "pool 8 ball"
+msgstr "бильярд"
+
+msgid "crystal ball"
+msgstr "хрустальный шар"
+
+msgid "magic wand"
+msgstr "волшебная палочка"
+
+msgid "video game"
+msgstr "видеоигры"
+
+msgid "joystick"
+msgstr "джойстик"
+
+msgid "slot machine"
+msgstr "игровой автомат"
+
+msgid "game die"
+msgstr "игральная кость"
+
+msgid "puzzle piece"
+msgstr "пазл"
+
+msgid "teddy bear"
+msgstr "плюшевый мишка"
+
+msgid "piñata"
+msgstr "пиньята"
+
+msgid "mirror ball"
+msgstr "диско-шар"
+
+msgid "nesting dolls"
+msgstr "матрешка"
+
+msgid "spade suit"
+msgstr "пики"
+
+msgid "heart suit"
+msgstr "червы"
+
+msgid "diamond suit"
+msgstr "бубны"
+
+msgid "club suit"
+msgstr "трефы"
+
+msgid "chess pawn"
+msgstr "пешка"
+
+msgid "joker"
+msgstr "джокер"
+
+msgid "mahjong red dragon"
+msgstr "маджонг"
+
+msgid "flower playing cards"
+msgstr "цветочная карта"
+
+msgid "performing arts"
+msgstr "маски"
+
+msgid "framed picture"
+msgstr "картина"
+
+msgid "artist palette"
+msgstr "палитра с красками"
+
+msgid "thread"
+msgstr "катушка ниток"
+
+msgid "sewing needle"
+msgstr "швейная игла"
+
+msgid "yarn"
+msgstr "клубок"
+
+msgid "knot"
+msgstr "узел"
+
+msgid "glasses"
+msgstr "очки"
+
+msgid "sunglasses"
+msgstr "солнечные очки"
+
+msgid "goggles"
+msgstr "защитные очки"
+
+msgid "lab coat"
+msgstr "лабораторный халат"
+
+msgid "safety vest"
+msgstr "спасательный жилет"
+
+msgid "necktie"
+msgstr "галстук"
+
+msgid "t-shirt"
+msgstr "футболка"
+
+msgid "jeans"
+msgstr "джинсы"
+
+msgid "scarf"
+msgstr "шарф"
+
+msgid "gloves"
+msgstr "перчатки"
+
+msgid "coat"
+msgstr "пальто"
+
+msgid "socks"
+msgstr "носки"
+
+msgid "dress"
+msgstr "платье"
+
+msgid "kimono"
+msgstr "кимоно"
+
+msgid "sari"
+msgstr "сари"
+
+msgid "one-piece swimsuit"
+msgstr "цельный купальник"
+
+msgid "briefs"
+msgstr "плавки"
+
+msgid "shorts"
+msgstr "шорты"
+
+msgid "bikini"
+msgstr "бикини"
+
+msgid "woman’s clothes"
+msgstr "блузка"
+
+msgid "folding hand fan"
+msgstr "веер"
+
+msgid "purse"
+msgstr "кошелек"
+
+msgid "handbag"
+msgstr "сумка"
+
+msgid "clutch bag"
+msgstr "клатч"
+
+msgid "shopping bags"
+msgstr "пакеты"
+
+msgid "backpack"
+msgstr "ранец"
+
+msgid "thong sandal"
+msgstr "вьетнамки"
+
+msgid "man’s shoe"
+msgstr "ботинок"
+
+msgid "running shoe"
+msgstr "кроссовки"
+
+msgid "hiking boot"
+msgstr "треккинговый ботинок"
+
+msgid "flat shoe"
+msgstr "балетки"
+
+msgid "high-heeled shoe"
+msgstr "туфли на каблуке"
+
+msgid "woman’s sandal"
+msgstr "босоножки"
+
+msgid "ballet shoes"
+msgstr "пуанты"
+
+msgid "woman’s boot"
+msgstr "сапог"
+
+msgid "hair pick"
+msgstr "афро-гребень"
+
+msgid "crown"
+msgstr "корона"
+
+msgid "woman’s hat"
+msgstr "шляпка"
+
+msgid "top hat"
+msgstr "цилиндр"
+
+msgid "graduation cap"
+msgstr "шапочка выпускника"
+
+msgid "billed cap"
+msgstr "бейсболка"
+
+msgid "military helmet"
+msgstr "армейская каска"
+
+msgid "rescue worker’s helmet"
+msgstr "каска с белым крестом"
+
+msgid "prayer beads"
+msgstr "четки"
+
+msgid "lipstick"
+msgstr "помада"
+
+msgid "ring"
+msgstr "кольцо"
+
+msgid "gem stone"
+msgstr "драгоценный камень"
+
+msgid "muted speaker"
+msgstr "без звука"
+
+msgid "speaker low volume"
+msgstr "низкая громкость"
+
+msgid "speaker medium volume"
+msgstr "средняя громкость"
+
+msgid "speaker high volume"
+msgstr "высокая громкость"
+
+msgid "loudspeaker"
+msgstr "громкоговоритель"
+
+msgid "megaphone"
+msgstr "мегафон"
+
+msgid "postal horn"
+msgstr "почтовый рожок"
+
+msgid "bell"
+msgstr "колокольчик"
+
+msgid "bell with slash"
+msgstr "перечеркнутый колокольчик"
+
+msgid "musical score"
+msgstr "нотный стан"
+
+msgid "musical note"
+msgstr "нота"
+
+msgid "musical notes"
+msgstr "ноты"
+
+msgid "studio microphone"
+msgstr "студийный микрофон"
+
+msgid "level slider"
+msgstr "слайдер"
+
+msgid "control knobs"
+msgstr "регуляторы"
+
+msgid "microphone"
+msgstr "микрофон"
+
+msgid "headphone"
+msgstr "наушники"
+
+msgid "radio"
+msgstr "радио"
+
+msgid "saxophone"
+msgstr "саксофон"
+
+msgid "accordion"
+msgstr "аккордеон"
+
+msgid "guitar"
+msgstr "гитара"
+
+msgid "musical keyboard"
+msgstr "клавишные"
+
+msgid "trumpet"
+msgstr "труба"
+
+msgid "violin"
+msgstr "скрипка"
+
+msgid "banjo"
+msgstr "банджо"
+
+msgid "drum"
+msgstr "барабан"
+
+msgid "long drum"
+msgstr "конга"
+
+msgid "maracas"
+msgstr "маракасы"
+
+msgid "flute"
+msgstr "флейта"
+
+msgid "mobile phone"
+msgstr "мобильный телефон"
+
+msgid "mobile phone with arrow"
+msgstr "входящий вызов"
+
+msgid "telephone"
+msgstr "телефон"
+
+msgid "telephone receiver"
+msgstr "телефонная трубка"
+
+msgid "pager"
+msgstr "пейджер"
+
+msgid "fax machine"
+msgstr "факс"
+
+msgid "battery"
+msgstr "батарейка"
+
+msgid "low battery"
+msgstr "низкий уровень заряда"
+
+msgid "electric plug"
+msgstr "вилка"
+
+msgid "laptop"
+msgstr "ноутбук"
+
+msgid "desktop computer"
+msgstr "компьютер"
+
+msgid "printer"
+msgstr "принтер"
+
+msgid "keyboard"
+msgstr "клавиатура"
+
+msgid "computer mouse"
+msgstr "мышка"
+
+msgid "trackball"
+msgstr "трекбол"
+
+msgid "computer disk"
+msgstr "диск"
+
+msgid "floppy disk"
+msgstr "дискета"
+
+msgid "optical disk"
+msgstr "CD"
+
+msgid "dvd"
+msgstr "DVD"
+
+msgid "abacus"
+msgstr "счеты"
+
+msgid "movie camera"
+msgstr "кинокамера"
+
+msgid "film frames"
+msgstr "кинопленка"
+
+msgid "film projector"
+msgstr "кинопроектор"
+
+msgid "clapper board"
+msgstr "хлопушка-нумератор"
+
+msgid "television"
+msgstr "телевизор"
+
+msgid "camera"
+msgstr "фотоаппарат"
+
+msgid "camera with flash"
+msgstr "фотоаппарат со вспышкой"
+
+msgid "video camera"
+msgstr "видеокамера"
+
+msgid "videocassette"
+msgstr "видеокассета"
+
+msgid "magnifying glass tilted left"
+msgstr "лупа, наклоненная влево"
+
+msgid "magnifying glass tilted right"
+msgstr "лупа, наклоненная вправо"
+
+msgid "candle"
+msgstr "свеча"
+
+msgid "light bulb"
+msgstr "лампочка"
+
+msgid "flashlight"
+msgstr "фонарик"
+
+msgid "red paper lantern"
+msgstr "красный бумажный фонарик"
+
+msgid "diya lamp"
+msgstr "масляная лампа"
+
+msgid "notebook with decorative cover"
+msgstr "записная книжка"
+
+msgid "closed book"
+msgstr "закрытая книга"
+
+msgid "open book"
+msgstr "открытая книга"
+
+msgid "green book"
+msgstr "зеленая книга"
+
+msgid "blue book"
+msgstr "синяя книга"
+
+msgid "orange book"
+msgstr "оранжевая книга"
+
+msgid "books"
+msgstr "книги"
+
+msgid "notebook"
+msgstr "тетрадь"
+
+msgid "ledger"
+msgstr "блокнот"
+
+msgid "page with curl"
+msgstr "страница с загибом"
+
+msgid "scroll"
+msgstr "свиток"
+
+msgid "page facing up"
+msgstr "страница"
+
+msgid "newspaper"
+msgstr "газета"
+
+msgid "rolled-up newspaper"
+msgstr "свернутая газета"
+
+msgid "bookmark tabs"
+msgstr "стикеры-закладки"
+
+msgid "bookmark"
+msgstr "закладка"
+
+msgid "label"
+msgstr "бирка"
+
+msgid "money bag"
+msgstr "мешок денег"
+
+msgid "coin"
+msgstr "монета"
+
+msgid "yen banknote"
+msgstr "банкнота иены"
+
+msgid "dollar banknote"
+msgstr "банкнота доллара"
+
+msgid "euro banknote"
+msgstr "банкнота евро"
+
+msgid "pound banknote"
+msgstr "банкнота фунта"
+
+msgid "money with wings"
+msgstr "банкнота с крылышками"
+
+msgid "credit card"
+msgstr "кредитная карта"
+
+msgid "receipt"
+msgstr "чек"
+
+msgid "chart increasing with yen"
+msgstr "биржа"
+
+msgid "envelope"
+msgstr "конверт"
+
+msgid "e-mail"
+msgstr "электронная почта"
+
+msgid "incoming envelope"
+msgstr "входящее письмо"
+
+msgid "envelope with arrow"
+msgstr "исходящее письмо"
+
+msgid "outbox tray"
+msgstr "исходящие"
+
+msgid "inbox tray"
+msgstr "входящие"
+
+msgid "package"
+msgstr "посылка"
+
+msgid "closed mailbox with raised flag"
+msgstr "закрытый почтовый ящик с поднятым флажком"
+
+msgid "closed mailbox with lowered flag"
+msgstr "закрытый почтовый ящик с опущенным флажком"
+
+msgid "open mailbox with raised flag"
+msgstr "открытый почтовый ящик с поднятым флажком"
+
+msgid "open mailbox with lowered flag"
+msgstr "открытый почтовый ящик с опущенным флажком"
+
+msgid "postbox"
+msgstr "почтовый ящик"
+
+msgid "ballot box with ballot"
+msgstr "избирательная урна"
+
+msgid "pencil"
+msgstr "карандаш"
+
+msgid "black nib"
+msgstr "перьевой наконечник"
+
+msgid "fountain pen"
+msgstr "перьевая ручка"
+
+msgid "pen"
+msgstr "шариковая ручка"
+
+msgid "paintbrush"
+msgstr "кисточка"
+
+msgid "crayon"
+msgstr "восковой мелок"
+
+msgid "memo"
+msgstr "заметка"
+
+msgid "briefcase"
+msgstr "портфель"
+
+msgid "file folder"
+msgstr "папка"
+
+msgid "open file folder"
+msgstr "открытая папка"
+
+msgid "card index dividers"
+msgstr "маркированные папки"
+
+msgid "calendar"
+msgstr "календарь"
+
+msgid "tear-off calendar"
+msgstr "отрывной календарь"
+
+msgid "spiral notepad"
+msgstr "перекидной блокнот"
+
+msgid "spiral calendar"
+msgstr "перекидной календарь"
+
+msgid "card index"
+msgstr "органайзер"
+
+msgid "chart increasing"
+msgstr "диаграмма роста"
+
+msgid "chart decreasing"
+msgstr "диаграмма падения"
+
+msgid "bar chart"
+msgstr "гистограмма"
+
+msgid "clipboard"
+msgstr "планшет с зажимом"
+
+msgid "pushpin"
+msgstr "канцелярская кнопка"
+
+msgid "round pushpin"
+msgstr "канцелярская кнопка с шариком"
+
+msgid "paperclip"
+msgstr "скрепка"
+
+msgid "linked paperclips"
+msgstr "скрепки"
+
+msgid "straight ruler"
+msgstr "линейка"
+
+msgid "triangular ruler"
+msgstr "линейка-треугольник"
+
+msgid "scissors"
+msgstr "ножницы"
+
+msgid "card file box"
+msgstr "картотека"
+
+msgid "file cabinet"
+msgstr "архивный шкаф"
+
+msgid "wastebasket"
+msgstr "корзина для мусора"
+
+msgid "locked"
+msgstr "закрытый замок"
+
+msgid "unlocked"
+msgstr "открытый замок"
+
+msgid "locked with pen"
+msgstr "закрытый замок с перьевой ручкой"
+
+msgid "locked with key"
+msgstr "закрытый замок с ключом"
+
+msgid "key"
+msgstr "ключ"
+
+msgid "old key"
+msgstr "старинный ключ"
+
+msgid "hammer"
+msgstr "молоток"
+
+msgid "axe"
+msgstr "топор"
+
+msgid "pick"
+msgstr "кирка"
+
+msgid "hammer and pick"
+msgstr "кирка и молот"
+
+msgid "hammer and wrench"
+msgstr "молот и гаечный ключ"
+
+msgid "dagger"
+msgstr "кинжал"
+
+msgid "crossed swords"
+msgstr "скрещенные мечи"
+
+msgid "bomb"
+msgstr "бомба"
+
+msgid "boomerang"
+msgstr "бумеранг"
+
+msgid "bow and arrow"
+msgstr "лук со стрелой"
+
+msgid "shield"
+msgstr "щит"
+
+msgid "carpentry saw"
+msgstr "пила по дереву"
+
+msgid "wrench"
+msgstr "гаечный ключ"
+
+msgid "screwdriver"
+msgstr "отвертка"
+
+msgid "nut and bolt"
+msgstr "болт и гайка"
+
+msgid "gear"
+msgstr "шестеренка"
+
+msgid "clamp"
+msgstr "компрессор"
+
+msgid "balance scale"
+msgstr "весы"
+
+msgid "white cane"
+msgstr "белая трость"
+
+msgid "link"
+msgstr "гиперссылка"
+
+msgid "chains"
+msgstr "цепь"
+
+msgid "hook"
+msgstr "крюк"
+
+msgid "toolbox"
+msgstr "ящик для инструментов"
+
+msgid "magnet"
+msgstr "магнит"
+
+msgid "ladder"
+msgstr "лестница"
+
+msgid "alembic"
+msgstr "перегонный сосуд"
+
+msgid "test tube"
+msgstr "пробирка"
+
+msgid "petri dish"
+msgstr "чашка Петри"
+
+msgid "dna"
+msgstr "ДНК"
+
+msgid "microscope"
+msgstr "микроскоп"
+
+msgid "telescope"
+msgstr "телескоп"
+
+msgid "satellite antenna"
+msgstr "спутниковая антенна"
+
+msgid "syringe"
+msgstr "шприц"
+
+msgid "drop of blood"
+msgstr "капля крови"
+
+msgid "pill"
+msgstr "пилюля"
+
+msgid "adhesive bandage"
+msgstr "пластырь"
+
+msgid "crutch"
+msgstr "костыль"
+
+msgid "stethoscope"
+msgstr "стетоскоп"
+
+msgid "x-ray"
+msgstr "рентген"
+
+msgid "door"
+msgstr "дверь"
+
+msgid "elevator"
+msgstr "лифт"
+
+msgid "mirror"
+msgstr "зеркало"
+
+msgid "window"
+msgstr "окно"
+
+msgid "bed"
+msgstr "кровать"
+
+msgid "couch and lamp"
+msgstr "диван и торшер"
+
+msgid "chair"
+msgstr "стул"
+
+msgid "toilet"
+msgstr "унитаз"
+
+msgid "plunger"
+msgstr "вантуз"
+
+msgid "shower"
+msgstr "душ"
+
+msgid "bathtub"
+msgstr "ванна"
+
+msgid "mouse trap"
+msgstr "мышеловка"
+
+msgid "razor"
+msgstr "бритва"
+
+msgid "lotion bottle"
+msgstr "бутылка лосьона"
+
+msgid "safety pin"
+msgstr "английская булавка"
+
+msgid "broom"
+msgstr "метла"
+
+msgid "basket"
+msgstr "корзина"
+
+msgid "roll of paper"
+msgstr "рулон бумаги"
+
+msgid "bucket"
+msgstr "ведро"
+
+msgid "soap"
+msgstr "мыло"
+
+msgid "bubbles"
+msgstr "пузыри"
+
+msgid "toothbrush"
+msgstr "зубная щетка"
+
+msgid "sponge"
+msgstr "губка"
+
+msgid "fire extinguisher"
+msgstr "огнетушитель"
+
+msgid "shopping cart"
+msgstr "тележка для покупок"
+
+msgid "cigarette"
+msgstr "сигарета"
+
+msgid "coffin"
+msgstr "гроб"
+
+msgid "headstone"
+msgstr "надгробие"
+
+msgid "funeral urn"
+msgstr "урна с прахом"
+
+msgid "nazar amulet"
+msgstr "назар бонджук"
+
+msgid "hamsa"
+msgstr "хамса"
+
+msgid "moai"
+msgstr "истукан"
+
+msgid "placard"
+msgstr "плакат"
+
+msgid "identification card"
+msgstr "удостоверение личности"
+
+msgid "ATM sign"
+msgstr "значок банкомата"
+
+msgid "litter in bin sign"
+msgstr "бросайте мусор в урну"
+
+msgid "potable water"
+msgstr "питьевая вода"
+
+msgid "wheelchair symbol"
+msgstr "значок «для инвалидов»"
+
+msgid "men’s room"
+msgstr "мужской туалет"
+
+msgid "women’s room"
+msgstr "женский туалет"
+
+msgid "restroom"
+msgstr "уборная"
+
+msgid "baby symbol"
+msgstr "пеленальная"
+
+msgid "water closet"
+msgstr "туалет"
+
+msgid "passport control"
+msgstr "паспортный контроль"
+
+msgid "customs"
+msgstr "таможня"
+
+msgid "baggage claim"
+msgstr "получение багажа"
+
+msgid "left luggage"
+msgstr "забытый багаж"
+
+msgid "warning"
+msgstr "значок предупреждения"
+
+msgid "children crossing"
+msgstr "знак «дети»"
+
+msgid "no entry"
+msgstr "въезд запрещен"
+
+msgid "prohibited"
+msgstr "запрещено"
+
+msgid "no bicycles"
+msgstr "перечеркнутый велосипед"
+
+msgid "no smoking"
+msgstr "курение запрещено"
+
+msgid "no littering"
+msgstr "не мусорьте"
+
+msgid "non-potable water"
+msgstr "непитьевая вода"
+
+msgid "no pedestrians"
+msgstr "переход запрещен"
+
+msgid "no mobile phones"
+msgstr "мобильные телефоны запрещены"
+
+msgid "no one under eighteen"
+msgstr "для людей старше восемнадцати лет"
+
+msgid "radioactive"
+msgstr "радиация"
+
+msgid "biohazard"
+msgstr "биологическая угроза"
+
+msgid "up arrow"
+msgstr "стрелка вверх"
+
+msgid "up-right arrow"
+msgstr "стрелка вправо-вверх"
+
+msgid "right arrow"
+msgstr "стрелка вправо"
+
+msgid "down-right arrow"
+msgstr "стрелка вправо-вниз"
+
+msgid "down arrow"
+msgstr "стрелка вниз"
+
+msgid "down-left arrow"
+msgstr "стрелка влево-вниз"
+
+msgid "left arrow"
+msgstr "стрелка влево"
+
+msgid "up-left arrow"
+msgstr "стрелка влево-вверх"
+
+msgid "up-down arrow"
+msgstr "стрелка вверх-вниз"
+
+msgid "right arrow curving left"
+msgstr "стрелка вправо с поворотом влево"
+
+msgid "left arrow curving right"
+msgstr "стрелка влево с поворотом вправо"
+
+msgid "clockwise vertical arrows"
+msgstr "по часовой стрелке"
+
+msgid "counterclockwise arrows button"
+msgstr "против часовой стрелки"
+
+msgid "BACK arrow"
+msgstr "стрелка «назад»"
+
+msgid "END arrow"
+msgstr "стрелка «конец»"
+
+msgid "ON! arrow"
+msgstr "стрелка «активно»"
+
+msgid "SOON arrow"
+msgstr "стрелка «скоро»"
+
+msgid "TOP arrow"
+msgstr "стрелка «верх»"
+
+msgid "place of worship"
+msgstr "религия"
+
+msgid "atom symbol"
+msgstr "символ атома"
+
+msgid "om"
+msgstr "ом"
+
+msgid "star of David"
+msgstr "звезда Давида"
+
+msgid "wheel of dharma"
+msgstr "колесо дхармы"
+
+msgid "yin yang"
+msgstr "инь-ян"
+
+msgid "latin cross"
+msgstr "латинский крест"
+
+msgid "orthodox cross"
+msgstr "православный крест"
+
+msgid "star and crescent"
+msgstr "звезда и полумесяц"
+
+msgid "peace symbol"
+msgstr "пацифик"
+
+msgid "menorah"
+msgstr "менора"
+
+msgid "dotted six-pointed star"
+msgstr "шестиконечная звезда"
+
+msgid "khanda"
+msgstr "кханда"
+
+msgid "Aries"
+msgstr "знак зодиака Овен"
+
+msgid "Taurus"
+msgstr "знак зодиака Телец"
+
+msgid "Gemini"
+msgstr "знак зодиака Близнецы"
+
+msgid "Cancer"
+msgstr "знак зодиака Рак"
+
+msgid "Leo"
+msgstr "знак зодиака Лев"
+
+msgid "Virgo"
+msgstr "знак зодиака Дева"
+
+msgid "Libra"
+msgstr "знак зодиака Весы"
+
+msgid "Scorpio"
+msgstr "знак зодиака Скорпион"
+
+msgid "Sagittarius"
+msgstr "знак зодиака Стрелец"
+
+msgid "Capricorn"
+msgstr "знак зодиака Козерог"
+
+msgid "Aquarius"
+msgstr "знак зодиака Водолей"
+
+msgid "Pisces"
+msgstr "знак зодиака Рыбы"
+
+msgid "Ophiuchus"
+msgstr "знак зодиака Змееносец"
+
+msgid "shuffle tracks button"
+msgstr "случайный выбор"
+
+msgid "repeat button"
+msgstr "повтор"
+
+msgid "repeat single button"
+msgstr "повтор одной песни"
+
+msgid "play button"
+msgstr "воспроизведение"
+
+msgid "fast-forward button"
+msgstr "перемотка вперед"
+
+msgid "next track button"
+msgstr "следующий трек"
+
+msgid "play or pause button"
+msgstr "воспроизведение/пауза"
+
+msgid "reverse button"
+msgstr "реверс"
+
+msgid "fast reverse button"
+msgstr "перемотка назад"
+
+msgid "last track button"
+msgstr "предыдущий трек"
+
+msgid "upwards button"
+msgstr "треугольник острием вверх"
+
+msgid "fast up button"
+msgstr "два треугольника острием вверх"
+
+msgid "downwards button"
+msgstr "треугольник острием вниз"
+
+msgid "fast down button"
+msgstr "два треугольника острием вниз"
+
+msgid "pause button"
+msgstr "пауза"
+
+msgid "stop button"
+msgstr "стоп"
+
+msgid "record button"
+msgstr "запись"
+
+msgid "eject button"
+msgstr "выброс"
+
+msgid "cinema"
+msgstr "видеозапись"
+
+msgid "dim button"
+msgstr "низкая яркость"
+
+msgid "bright button"
+msgstr "высокая яркость"
+
+msgid "antenna bars"
+msgstr "сигнал сети"
+
+msgid "wireless"
+msgstr "беспроводная сеть"
+
+msgid "vibration mode"
+msgstr "режим вибрации"
+
+msgid "mobile phone off"
+msgstr "выключенный телефон"
+
+msgid "female sign"
+msgstr "женский символ"
+
+msgid "male sign"
+msgstr "мужской символ"
+
+msgid "multiply"
+msgstr "знак умножения"
+
+msgid "plus"
+msgstr "знак сложения"
+
+msgid "minus"
+msgstr "знак вычитания"
+
+msgid "divide"
+msgstr "знак деления"
+
+msgid "heavy equals sign"
+msgstr "жирный знак равенства"
+
+msgid "infinity"
+msgstr "бесконечность"
+
+msgid "red question mark"
+msgstr "красный вопросительный знак"
+
+msgid "white question mark"
+msgstr "белый вопросительный знак"
+
+msgid "white exclamation mark"
+msgstr "белый восклицательный знак"
+
+msgid "red exclamation mark"
+msgstr "красный восклицательный знак"
+
+msgid "currency exchange"
+msgstr "обмен валюты"
+
+msgid "heavy dollar sign"
+msgstr "жирный знак доллара"
+
+msgid "medical symbol"
+msgstr "медицинский символ"
+
+msgid "recycling symbol"
+msgstr "утилизация"
+
+msgid "fleur-de-lis"
+msgstr "геральдическая лилия"
+
+msgid "trident emblem"
+msgstr "трезубец"
+
+msgid "name badge"
+msgstr "бейдж"
+
+msgid "Japanese symbol for beginner"
+msgstr "символ новичка"
+
+msgid "hollow red circle"
+msgstr "красное кольцо"
+
+msgid "check mark button"
+msgstr "белая галочка"
+
+msgid "check box with check"
+msgstr "галочка в квадрате"
+
+msgid "check mark"
+msgstr "галочка"
+
+msgid "cross mark"
+msgstr "крестик"
+
+msgid "cross mark button"
+msgstr "кнопка «крестик»"
+
+msgid "curly loop"
+msgstr "петля"
+
+msgid "double curly loop"
+msgstr "двойная петля"
+
+msgid "eight-spoked asterisk"
+msgstr "восьмиконечная звездочка"
+
+msgid "eight-pointed star"
+msgstr "восьмиконечная звезда"
+
+msgid "sparkle"
+msgstr "искра"
+
+msgid "copyright"
+msgstr "значок защиты авторского права"
+
+msgid "registered"
+msgstr "зарегистрированный товарный знак"
+
+msgid "trade mark"
+msgstr "товарный знак"
+
+msgid "input latin uppercase"
+msgstr "ввод прописными"
+
+msgid "input latin lowercase"
+msgstr "ввод строчными"
+
+msgid "input numbers"
+msgstr "ввод цифр"
+
+msgid "input symbols"
+msgstr "ввод символов"
+
+msgid "input latin letters"
+msgstr "ввод латиницей"
+
+msgid "A button (blood type)"
+msgstr "II группа крови"
+
+msgid "AB button (blood type)"
+msgstr "IV группа крови"
+
+msgid "B button (blood type)"
+msgstr "III группа крови"
+
+msgid "CL button"
+msgstr "кнопка «очистить»"
+
+msgid "COOL button"
+msgstr "значок «круто»"
+
+msgid "FREE button"
+msgstr "значок «бесплатно»"
+
+msgid "ID button"
+msgstr "значок «идентификация»"
+
+msgid "circled M"
+msgstr "буква «м» в кружке"
+
+msgid "NEW button"
+msgstr "значок «новинка»"
+
+msgid "NG button"
+msgstr "значок «не годится»"
+
+msgid "O button (blood type)"
+msgstr "I группа крови"
+
+msgid "OK button"
+msgstr "значок «ОК»"
+
+msgid "P button"
+msgstr "парковка"
+
+msgid "SOS button"
+msgstr "значок SOS"
+
+msgid "UP! button"
+msgstr "значок «обновление»"
+
+msgid "VS button"
+msgstr "значок «против»"
+
+msgid "Japanese “here” button"
+msgstr "значок «здесь»"
+
+msgid "Japanese “service charge” button"
+msgstr "цена услуги"
+
+msgid "Japanese “monthly amount” button"
+msgstr "месяц"
+
+msgid "Japanese “not free of charge” button"
+msgstr "платно"
+
+msgid "Japanese “reserved” button"
+msgstr "забронировано"
+
+msgid "Japanese “bargain” button"
+msgstr "удачная сделка"
+
+msgid "Japanese “discount” button"
+msgstr "скидка"
+
+msgid "Japanese “free of charge” button"
+msgstr "бесплатно"
+
+msgid "Japanese “prohibited” button"
+msgstr "запрет"
+
+msgid "Japanese “acceptable” button"
+msgstr "допустимость"
+
+msgid "Japanese “application” button"
+msgstr "заявка"
+
+msgid "Japanese “passing grade” button"
+msgstr "проходной балл"
+
+msgid "Japanese “vacancy” button"
+msgstr "есть места"
+
+msgid "Japanese “congratulations” button"
+msgstr "поздравление"
+
+msgid "Japanese “secret” button"
+msgstr "секрет"
+
+msgid "Japanese “open for business” button"
+msgstr "открыто"
+
+msgid "Japanese “no vacancy” button"
+msgstr "нет мест"
+
+msgid "red circle"
+msgstr "красный круг"
+
+msgid "orange circle"
+msgstr "оранжевый круг"
+
+msgid "yellow circle"
+msgstr "желтый круг"
+
+msgid "green circle"
+msgstr "зеленый круг"
+
+msgid "blue circle"
+msgstr "голубой круг"
+
+msgid "purple circle"
+msgstr "фиолетовый круг"
+
+msgid "brown circle"
+msgstr "коричневый круг"
+
+msgid "black circle"
+msgstr "черный круг"
+
+msgid "white circle"
+msgstr "белый круг"
+
+msgid "red square"
+msgstr "красный квадрат"
+
+msgid "orange square"
+msgstr "оранжевый квадрат"
+
+msgid "yellow square"
+msgstr "желтый квадрат"
+
+msgid "green square"
+msgstr "зеленый квадрат"
+
+msgid "blue square"
+msgstr "синий квадрат"
+
+msgid "purple square"
+msgstr "фиолетовый квадрат"
+
+msgid "brown square"
+msgstr "коричневый квадрат"
+
+msgid "black large square"
+msgstr "большой черный квадрат"
+
+msgid "white large square"
+msgstr "большой белый квадрат"
+
+msgid "black small square"
+msgstr "черный квадратик"
+
+msgid "white small square"
+msgstr "белый квадратик"
+
+msgid "large orange diamond"
+msgstr "большой оранжевый ромб"
+
+msgid "large blue diamond"
+msgstr "большой голубой ромб"
+
+msgid "small orange diamond"
+msgstr "небольшой оранжевый ромб"
+
+msgid "small blue diamond"
+msgstr "небольшой голубой ромб"
+
+msgid "red triangle pointed up"
+msgstr "треугольник вершиной вверх"
+
+msgid "red triangle pointed down"
+msgstr "треугольник вершиной вниз"
+
+msgid "diamond with a dot"
+msgstr "ромб с точкой"
+
+msgid "radio button"
+msgstr "круглая кнопка"
+
+msgid "white square button"
+msgstr "кнопка с белой рамкой"
+
+msgid "black square button"
+msgstr "кнопка с черной рамкой"
+
+msgid "chequered flag"
+msgstr "клетчатый флаг"
+
+msgid "triangular flag"
+msgstr "треугольный флаг"
+
+msgid "crossed flags"
+msgstr "скрещенные флаги"
+
+msgid "black flag"
+msgstr "черный флаг"
+
+msgid "white flag"
+msgstr "белый флаг"
+
+msgid "pirate flag"
+msgstr "пиратский флаг"
+
+msgid "person: red hair"
+msgstr "взрослый: рыжие волосы"
+
+msgid "person: curly hair"
+msgstr "взрослый: кудрявые волосы"
+
+msgid "person: white hair"
+msgstr "взрослый: седые волосы"
+
+msgid "person: bald"
+msgstr "взрослый: без волос"
+
+msgid "man: red hair"
+msgstr "мужчина: рыжие волосы"
+
+msgid "man: curly hair"
+msgstr "мужчина: кудрявые волосы"
+
+msgid "man: white hair"
+msgstr "мужчина: седые волосы"
+
+msgid "man: bald"
+msgstr "мужчина: без волос"
+
+msgid "woman: red hair"
+msgstr "женщина: рыжие волосы"
+
+msgid "woman: curly hair"
+msgstr "женщина: кудрявые волосы"
+
+msgid "woman: white hair"
+msgstr "женщина: седые волосы"
+
+msgid "woman: bald"
+msgstr "женщина: без волос"
+
+msgid "kiss: woman, man"
+msgstr "поцелуй: женщина мужчина"
+
+msgid "couple with heart: woman, man"
+msgstr "влюбленная пара: женщина мужчина"
+
+msgid "family: man, woman, boy"
+msgstr "семья: мужчина женщина мальчик"
+
+msgid "family: man, woman, girl"
+msgstr "семья: мужчина женщина девочка"
+
+msgid "family: man, woman, girl, boy"
+msgstr "семья: мужчина женщина девочка мальчик"
+
+msgid "family: man, woman, boy, boy"
+msgstr "семья: мужчина женщина мальчик мальчик"
+
+msgid "family: man, woman, girl, girl"
+msgstr "семья: мужчина женщина девочка девочка"
+
+msgid "family: man, boy"
+msgstr "семья: мужчина мальчик"
+
+msgid "family: man, boy, boy"
+msgstr "семья: мужчина мальчик мальчик"
+
+msgid "family: man, girl"
+msgstr "семья: мужчина девочка"
+
+msgid "family: man, girl, boy"
+msgstr "семья: мужчина девочка мальчик"
+
+msgid "family: man, girl, girl"
+msgstr "семья: мужчина девочка девочка"
+
+msgid "keycap: 10"
+msgstr "клавиши: 10"
+
+msgid "flag: Ascension Island"
+msgstr "флаг: о-в Вознесения"
+
+msgid "flag: Andorra"
+msgstr "флаг: Андорра"
+
+msgid "flag: United Arab Emirates"
+msgstr "флаг: ОАЭ"
+
+msgid "flag: Afghanistan"
+msgstr "флаг: Афганистан"
+
+msgid "flag: Antigua & Barbuda"
+msgstr "флаг: Антигуа и Барбуда"
+
+msgid "flag: Anguilla"
+msgstr "флаг: Ангилья"
+
+msgid "flag: Albania"
+msgstr "флаг: Албания"
+
+msgid "flag: Armenia"
+msgstr "флаг: Армения"
+
+msgid "flag: Angola"
+msgstr "флаг: Ангола"
+
+msgid "flag: Antarctica"
+msgstr "флаг: Антарктида"
+
+msgid "flag: Argentina"
+msgstr "флаг: Аргентина"
+
+msgid "flag: American Samoa"
+msgstr "флаг: Американское Самоа"
+
+msgid "flag: Austria"
+msgstr "флаг: Австрия"
+
+msgid "flag: Australia"
+msgstr "флаг: Австралия"
+
+msgid "flag: Aruba"
+msgstr "флаг: Аруба"
+
+msgid "flag: Åland Islands"
+msgstr "флаг: Аландские о-ва"
+
+msgid "flag: Azerbaijan"
+msgstr "флаг: Азербайджан"
+
+msgid "flag: Bosnia & Herzegovina"
+msgstr "флаг: Босния и Герцеговина"
+
+msgid "flag: Barbados"
+msgstr "флаг: Барбадос"
+
+msgid "flag: Bangladesh"
+msgstr "флаг: Бангладеш"
+
+msgid "flag: Belgium"
+msgstr "флаг: Бельгия"
+
+msgid "flag: Burkina Faso"
+msgstr "флаг: Буркина-Фасо"
+
+msgid "flag: Bulgaria"
+msgstr "флаг: Болгария"
+
+msgid "flag: Bahrain"
+msgstr "флаг: Бахрейн"
+
+msgid "flag: Burundi"
+msgstr "флаг: Бурунди"
+
+msgid "flag: Benin"
+msgstr "флаг: Бенин"
+
+msgid "flag: St. Barthélemy"
+msgstr "флаг: Сен-Бартелеми"
+
+msgid "flag: Bermuda"
+msgstr "флаг: Бермудские о-ва"
+
+msgid "flag: Brunei"
+msgstr "флаг: Бруней"
+
+msgid "flag: Bolivia"
+msgstr "флаг: Боливия"
+
+msgid "flag: Caribbean Netherlands"
+msgstr "флаг: Бонэйр, Синт-Эстатиус и Саба"
+
+msgid "flag: Brazil"
+msgstr "флаг: Бразилия"
+
+msgid "flag: Bahamas"
+msgstr "флаг: Багамы"
+
+msgid "flag: Bhutan"
+msgstr "флаг: Бутан"
+
+msgid "flag: Bouvet Island"
+msgstr "флаг: о-в Буве"
+
+msgid "flag: Botswana"
+msgstr "флаг: Ботсвана"
+
+msgid "flag: Belarus"
+msgstr "флаг: Беларусь"
+
+msgid "flag: Belize"
+msgstr "флаг: Белиз"
+
+msgid "flag: Canada"
+msgstr "флаг: Канада"
+
+msgid "flag: Cocos (Keeling) Islands"
+msgstr "флаг: Кокосовые о-ва"
+
+msgid "flag: Congo - Kinshasa"
+msgstr "флаг: Конго - Киншаса"
+
+msgid "flag: Central African Republic"
+msgstr "флаг: Центрально-Африканская Республика"
+
+msgid "flag: Congo - Brazzaville"
+msgstr "флаг: Конго - Браззавиль"
+
+msgid "flag: Switzerland"
+msgstr "флаг: Швейцария"
+
+msgid "flag: Côte d’Ivoire"
+msgstr "флаг: Кот-д’Ивуар"
+
+msgid "flag: Cook Islands"
+msgstr "флаг: о-ва Кука"
+
+msgid "flag: Chile"
+msgstr "флаг: Чили"
+
+msgid "flag: Cameroon"
+msgstr "флаг: Камерун"
+
+msgid "flag: China"
+msgstr "флаг: Китай"
+
+msgid "flag: Colombia"
+msgstr "флаг: Колумбия"
+
+msgid "flag: Clipperton Island"
+msgstr "флаг: о-в Клиппертон"
+
+msgid "flag: Costa Rica"
+msgstr "флаг: Коста-Рика"
+
+msgid "flag: Cuba"
+msgstr "флаг: Куба"
+
+msgid "flag: Cape Verde"
+msgstr "флаг: Кабо-Верде"
+
+msgid "flag: Curaçao"
+msgstr "флаг: Кюрасао"
+
+msgid "flag: Christmas Island"
+msgstr "флаг: о-в Рождества"
+
+msgid "flag: Cyprus"
+msgstr "флаг: Кипр"
+
+msgid "flag: Czechia"
+msgstr "флаг: Чехия"
+
+msgid "flag: Germany"
+msgstr "флаг: Германия"
+
+msgid "flag: Diego Garcia"
+msgstr "флаг: Диего-Гарсия"
+
+msgid "flag: Djibouti"
+msgstr "флаг: Джибути"
+
+msgid "flag: Denmark"
+msgstr "флаг: Дания"
+
+msgid "flag: Dominica"
+msgstr "флаг: Доминика"
+
+msgid "flag: Dominican Republic"
+msgstr "флаг: Доминиканская Республика"
+
+msgid "flag: Algeria"
+msgstr "флаг: Алжир"
+
+msgid "flag: Ceuta & Melilla"
+msgstr "флаг: Сеута и Мелилья"
+
+msgid "flag: Ecuador"
+msgstr "флаг: Эквадор"
+
+msgid "flag: Estonia"
+msgstr "флаг: Эстония"
+
+msgid "flag: Egypt"
+msgstr "флаг: Египет"
+
+msgid "flag: Western Sahara"
+msgstr "флаг: Западная Сахара"
+
+msgid "flag: Eritrea"
+msgstr "флаг: Эритрея"
+
+msgid "flag: Spain"
+msgstr "флаг: Испания"
+
+msgid "flag: Ethiopia"
+msgstr "флаг: Эфиопия"
+
+msgid "flag: European Union"
+msgstr "флаг: Европейский союз"
+
+msgid "flag: Finland"
+msgstr "флаг: Финляндия"
+
+msgid "flag: Fiji"
+msgstr "флаг: Фиджи"
+
+msgid "flag: Falkland Islands"
+msgstr "флаг: Фолклендские о-ва"
+
+msgid "flag: Micronesia"
+msgstr "флаг: Федеративные Штаты Микронезии"
+
+msgid "flag: Faroe Islands"
+msgstr "флаг: Фарерские о-ва"
+
+msgid "flag: France"
+msgstr "флаг: Франция"
+
+msgid "flag: Gabon"
+msgstr "флаг: Габон"
+
+msgid "flag: United Kingdom"
+msgstr "флаг: Великобритания"
+
+msgid "flag: Grenada"
+msgstr "флаг: Гренада"
+
+msgid "flag: Georgia"
+msgstr "флаг: Грузия"
+
+msgid "flag: French Guiana"
+msgstr "флаг: Французская Гвиана"
+
+msgid "flag: Guernsey"
+msgstr "флаг: Гернси"
+
+msgid "flag: Ghana"
+msgstr "флаг: Гана"
+
+msgid "flag: Gibraltar"
+msgstr "флаг: Гибралтар"
+
+msgid "flag: Greenland"
+msgstr "флаг: Гренландия"
+
+msgid "flag: Gambia"
+msgstr "флаг: Гамбия"
+
+msgid "flag: Guinea"
+msgstr "флаг: Гвинея"
+
+msgid "flag: Guadeloupe"
+msgstr "флаг: Гваделупа"
+
+msgid "flag: Equatorial Guinea"
+msgstr "флаг: Экваториальная Гвинея"
+
+msgid "flag: Greece"
+msgstr "флаг: Греция"
+
+msgid "flag: South Georgia & South Sandwich Islands"
+msgstr "флаг: Южная Георгия и Южные Сандвичевы о-ва"
+
+msgid "flag: Guatemala"
+msgstr "флаг: Гватемала"
+
+msgid "flag: Guam"
+msgstr "флаг: Гуам"
+
+msgid "flag: Guinea-Bissau"
+msgstr "флаг: Гвинея-Бисау"
+
+msgid "flag: Guyana"
+msgstr "флаг: Гайана"
+
+msgid "flag: Hong Kong SAR China"
+msgstr "флаг: Гонконг (САР)"
+
+msgid "flag: Heard & McDonald Islands"
+msgstr "флаг: о-ва Херд и Макдональд"
+
+msgid "flag: Honduras"
+msgstr "флаг: Гондурас"
+
+msgid "flag: Croatia"
+msgstr "флаг: Хорватия"
+
+msgid "flag: Haiti"
+msgstr "флаг: Гаити"
+
+msgid "flag: Hungary"
+msgstr "флаг: Венгрия"
+
+msgid "flag: Canary Islands"
+msgstr "флаг: Канарские о-ва"
+
+msgid "flag: Indonesia"
+msgstr "флаг: Индонезия"
+
+msgid "flag: Ireland"
+msgstr "флаг: Ирландия"
+
+msgid "flag: Israel"
+msgstr "флаг: Израиль"
+
+msgid "flag: Isle of Man"
+msgstr "флаг: о-в Мэн"
+
+msgid "flag: India"
+msgstr "флаг: Индия"
+
+msgid "flag: British Indian Ocean Territory"
+msgstr "флаг: Британская территория в Индийском океане"
+
+msgid "flag: Iraq"
+msgstr "флаг: Ирак"
+
+msgid "flag: Iran"
+msgstr "флаг: Иран"
+
+msgid "flag: Iceland"
+msgstr "флаг: Исландия"
+
+msgid "flag: Italy"
+msgstr "флаг: Италия"
+
+msgid "flag: Jersey"
+msgstr "флаг: Джерси"
+
+msgid "flag: Jamaica"
+msgstr "флаг: Ямайка"
+
+msgid "flag: Jordan"
+msgstr "флаг: Иордания"
+
+msgid "flag: Japan"
+msgstr "флаг: Япония"
+
+msgid "flag: Kenya"
+msgstr "флаг: Кения"
+
+msgid "flag: Kyrgyzstan"
+msgstr "флаг: Киргизия"
+
+msgid "flag: Cambodia"
+msgstr "флаг: Камбоджа"
+
+msgid "flag: Kiribati"
+msgstr "флаг: Кирибати"
+
+msgid "flag: Comoros"
+msgstr "флаг: Коморы"
+
+msgid "flag: St. Kitts & Nevis"
+msgstr "флаг: Сент-Китс и Невис"
+
+msgid "flag: North Korea"
+msgstr "флаг: КНДР"
+
+msgid "flag: South Korea"
+msgstr "флаг: Республика Корея"
+
+msgid "flag: Kuwait"
+msgstr "флаг: Кувейт"
+
+msgid "flag: Cayman Islands"
+msgstr "флаг: о-ва Кайман"
+
+msgid "flag: Kazakhstan"
+msgstr "флаг: Казахстан"
+
+msgid "flag: Laos"
+msgstr "флаг: Лаос"
+
+msgid "flag: Lebanon"
+msgstr "флаг: Ливан"
+
+msgid "flag: St. Lucia"
+msgstr "флаг: Сент-Люсия"
+
+msgid "flag: Liechtenstein"
+msgstr "флаг: Лихтенштейн"
+
+msgid "flag: Sri Lanka"
+msgstr "флаг: Шри-Ланка"
+
+msgid "flag: Liberia"
+msgstr "флаг: Либерия"
+
+msgid "flag: Lesotho"
+msgstr "флаг: Лесото"
+
+msgid "flag: Lithuania"
+msgstr "флаг: Литва"
+
+msgid "flag: Luxembourg"
+msgstr "флаг: Люксембург"
+
+msgid "flag: Latvia"
+msgstr "флаг: Латвия"
+
+msgid "flag: Libya"
+msgstr "флаг: Ливия"
+
+msgid "flag: Morocco"
+msgstr "флаг: Марокко"
+
+msgid "flag: Monaco"
+msgstr "флаг: Монако"
+
+msgid "flag: Moldova"
+msgstr "флаг: Молдова"
+
+msgid "flag: Montenegro"
+msgstr "флаг: Черногория"
+
+msgid "flag: St. Martin"
+msgstr "флаг: Сен-Мартен"
+
+msgid "flag: Madagascar"
+msgstr "флаг: Мадагаскар"
+
+msgid "flag: Marshall Islands"
+msgstr "флаг: Маршалловы о-ва"
+
+msgid "flag: North Macedonia"
+msgstr "флаг: Северная Македония"
+
+msgid "flag: Mali"
+msgstr "флаг: Мали"
+
+msgid "flag: Myanmar (Burma)"
+msgstr "флаг: Мьянма (Бирма)"
+
+msgid "flag: Mongolia"
+msgstr "флаг: Монголия"
+
+msgid "flag: Macao SAR China"
+msgstr "флаг: Макао (САР)"
+
+msgid "flag: Northern Mariana Islands"
+msgstr "флаг: Северные Марианские о-ва"
+
+msgid "flag: Martinique"
+msgstr "флаг: Мартиника"
+
+msgid "flag: Mauritania"
+msgstr "флаг: Мавритания"
+
+msgid "flag: Montserrat"
+msgstr "флаг: Монтсеррат"
+
+msgid "flag: Malta"
+msgstr "флаг: Мальта"
+
+msgid "flag: Mauritius"
+msgstr "флаг: Маврикий"
+
+msgid "flag: Maldives"
+msgstr "флаг: Мальдивы"
+
+msgid "flag: Malawi"
+msgstr "флаг: Малави"
+
+msgid "flag: Mexico"
+msgstr "флаг: Мексика"
+
+msgid "flag: Malaysia"
+msgstr "флаг: Малайзия"
+
+msgid "flag: Mozambique"
+msgstr "флаг: Мозамбик"
+
+msgid "flag: Namibia"
+msgstr "флаг: Намибия"
+
+msgid "flag: New Caledonia"
+msgstr "флаг: Новая Каледония"
+
+msgid "flag: Niger"
+msgstr "флаг: Нигер"
+
+msgid "flag: Norfolk Island"
+msgstr "флаг: о-в Норфолк"
+
+msgid "flag: Nigeria"
+msgstr "флаг: Нигерия"
+
+msgid "flag: Nicaragua"
+msgstr "флаг: Никарагуа"
+
+msgid "flag: Netherlands"
+msgstr "флаг: Нидерланды"
+
+msgid "flag: Norway"
+msgstr "флаг: Норвегия"
+
+msgid "flag: Nepal"
+msgstr "флаг: Непал"
+
+msgid "flag: Nauru"
+msgstr "флаг: Науру"
+
+msgid "flag: Niue"
+msgstr "флаг: Ниуэ"
+
+msgid "flag: New Zealand"
+msgstr "флаг: Новая Зеландия"
+
+msgid "flag: Oman"
+msgstr "флаг: Оман"
+
+msgid "flag: Panama"
+msgstr "флаг: Панама"
+
+msgid "flag: Peru"
+msgstr "флаг: Перу"
+
+msgid "flag: French Polynesia"
+msgstr "флаг: Французская Полинезия"
+
+msgid "flag: Papua New Guinea"
+msgstr "флаг: Папуа — Новая Гвинея"
+
+msgid "flag: Philippines"
+msgstr "флаг: Филиппины"
+
+msgid "flag: Pakistan"
+msgstr "флаг: Пакистан"
+
+msgid "flag: Poland"
+msgstr "флаг: Польша"
+
+msgid "flag: St. Pierre & Miquelon"
+msgstr "флаг: Сен-Пьер и Микелон"
+
+msgid "flag: Pitcairn Islands"
+msgstr "флаг: о-ва Питкэрн"
+
+msgid "flag: Puerto Rico"
+msgstr "флаг: Пуэрто-Рико"
+
+msgid "flag: Palestinian Territories"
+msgstr "флаг: Палестинские территории"
+
+msgid "flag: Portugal"
+msgstr "флаг: Португалия"
+
+msgid "flag: Palau"
+msgstr "флаг: Палау"
+
+msgid "flag: Paraguay"
+msgstr "флаг: Парагвай"
+
+msgid "flag: Qatar"
+msgstr "флаг: Катар"
+
+msgid "flag: Réunion"
+msgstr "флаг: Реюньон"
+
+msgid "flag: Romania"
+msgstr "флаг: Румыния"
+
+msgid "flag: Serbia"
+msgstr "флаг: Сербия"
+
+msgid "flag: Russia"
+msgstr "флаг: Россия"
+
+msgid "flag: Rwanda"
+msgstr "флаг: Руанда"
+
+msgid "flag: Saudi Arabia"
+msgstr "флаг: Саудовская Аравия"
+
+msgid "flag: Solomon Islands"
+msgstr "флаг: Соломоновы о-ва"
+
+msgid "flag: Seychelles"
+msgstr "флаг: Сейшельские о-ва"
+
+msgid "flag: Sudan"
+msgstr "флаг: Судан"
+
+msgid "flag: Sweden"
+msgstr "флаг: Швеция"
+
+msgid "flag: Singapore"
+msgstr "флаг: Сингапур"
+
+msgid "flag: St. Helena"
+msgstr "флаг: о-в Св. Елены"
+
+msgid "flag: Slovenia"
+msgstr "флаг: Словения"
+
+msgid "flag: Svalbard & Jan Mayen"
+msgstr "флаг: Шпицберген и Ян-Майен"
+
+msgid "flag: Slovakia"
+msgstr "флаг: Словакия"
+
+msgid "flag: Sierra Leone"
+msgstr "флаг: Сьерра-Леоне"
+
+msgid "flag: San Marino"
+msgstr "флаг: Сан-Марино"
+
+msgid "flag: Senegal"
+msgstr "флаг: Сенегал"
+
+msgid "flag: Somalia"
+msgstr "флаг: Сомали"
+
+msgid "flag: Suriname"
+msgstr "флаг: Суринам"
+
+msgid "flag: South Sudan"
+msgstr "флаг: Южный Судан"
+
+msgid "flag: São Tomé & Príncipe"
+msgstr "флаг: Сан-Томе и Принсипи"
+
+msgid "flag: El Salvador"
+msgstr "флаг: Сальвадор"
+
+msgid "flag: Sint Maarten"
+msgstr "флаг: Синт-Мартен"
+
+msgid "flag: Syria"
+msgstr "флаг: Сирия"
+
+msgid "flag: Eswatini"
+msgstr "флаг: Эсватини"
+
+msgid "flag: Tristan da Cunha"
+msgstr "флаг: Тристан-да-Кунья"
+
+msgid "flag: Turks & Caicos Islands"
+msgstr "флаг: Тёркс и Кайкос"
+
+msgid "flag: Chad"
+msgstr "флаг: Чад"
+
+msgid "flag: French Southern Territories"
+msgstr "флаг: Французские Южные территории"
+
+msgid "flag: Togo"
+msgstr "флаг: Того"
+
+msgid "flag: Thailand"
+msgstr "флаг: Таиланд"
+
+msgid "flag: Tajikistan"
+msgstr "флаг: Таджикистан"
+
+msgid "flag: Tokelau"
+msgstr "флаг: Токелау"
+
+msgid "flag: Timor-Leste"
+msgstr "флаг: Восточный Тимор"
+
+msgid "flag: Turkmenistan"
+msgstr "флаг: Туркменистан"
+
+msgid "flag: Tunisia"
+msgstr "флаг: Тунис"
+
+msgid "flag: Tonga"
+msgstr "флаг: Тонга"
+
+msgid "flag: Türkiye"
+msgstr "флаг: Турция"
+
+msgid "flag: Trinidad & Tobago"
+msgstr "флаг: Тринидад и Тобаго"
+
+msgid "flag: Tuvalu"
+msgstr "флаг: Тувалу"
+
+msgid "flag: Taiwan"
+msgstr "флаг: Тайвань"
+
+msgid "flag: Tanzania"
+msgstr "флаг: Танзания"
+
+msgid "flag: Ukraine"
+msgstr "флаг: Украина"
+
+msgid "flag: Uganda"
+msgstr "флаг: Уганда"
+
+msgid "flag: U.S. Outlying Islands"
+msgstr "флаг: Внешние малые о-ва (США)"
+
+msgid "flag: United Nations"
+msgstr "флаг: Организация Объединенных Наций"
+
+msgid "flag: United States"
+msgstr "флаг: Соединенные Штаты"
+
+msgid "flag: Uruguay"
+msgstr "флаг: Уругвай"
+
+msgid "flag: Uzbekistan"
+msgstr "флаг: Узбекистан"
+
+msgid "flag: Vatican City"
+msgstr "флаг: Ватикан"
+
+msgid "flag: St. Vincent & Grenadines"
+msgstr "флаг: Сент-Винсент и Гренадины"
+
+msgid "flag: Venezuela"
+msgstr "флаг: Венесуэла"
+
+msgid "flag: British Virgin Islands"
+msgstr "флаг: Виргинские о-ва (Великобритания)"
+
+msgid "flag: U.S. Virgin Islands"
+msgstr "флаг: Виргинские о-ва (США)"
+
+msgid "flag: Vietnam"
+msgstr "флаг: Вьетнам"
+
+msgid "flag: Vanuatu"
+msgstr "флаг: Вануату"
+
+msgid "flag: Wallis & Futuna"
+msgstr "флаг: Уоллис и Футуна"
+
+msgid "flag: Samoa"
+msgstr "флаг: Самоа"
+
+msgid "flag: Kosovo"
+msgstr "флаг: Косово"
+
+msgid "flag: Yemen"
+msgstr "флаг: Йемен"
+
+msgid "flag: Mayotte"
+msgstr "флаг: Майотта"
+
+msgid "flag: South Africa"
+msgstr "флаг: Южно-Африканская Республика"
+
+msgid "flag: Zambia"
+msgstr "флаг: Замбия"
+
+msgid "flag: Zimbabwe"
+msgstr "флаг: Зимбабве"
+
+msgid "flag: England"
+msgstr "флаг: Англия"
+
+msgid "flag: Scotland"
+msgstr "флаг: Шотландия"
+
+msgid "flag: Wales"
+msgstr "флаг: Уэльс"
