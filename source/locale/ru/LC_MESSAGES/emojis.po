@@ -1196,22 +1196,22 @@ msgid "woman getting haircut"
 msgstr "женщина у парикмахера"
 
 msgid "person walking"
-msgstr "человек идёт"
+msgstr "человек, идущий пешком"
 
 msgid "man walking"
-msgstr "мужчина идёт"
+msgstr "мужчина, идущий пешком"
 
 msgid "woman walking"
-msgstr "женщина идёт"
+msgstr "женщина, идущая пешком"
 
 msgid "person standing"
-msgstr "человек стоит"
+msgstr "стоящий человек"
 
 msgid "man standing"
-msgstr "мужчина стоит"
+msgstr "стоящий мужчина"
 
 msgid "woman standing"
-msgstr "женщина стоит"
+msgstr "стоящая женщина"
 
 msgid "person kneeling"
 msgstr "человек на коленях"
@@ -1250,13 +1250,13 @@ msgid "woman in manual wheelchair"
 msgstr "женщина в ручном кресле-коляске"
 
 msgid "person running"
-msgstr "человек бежит"
+msgstr "бегущий человек"
 
 msgid "man running"
-msgstr "мужчина бежит"
+msgstr "бегущий мужчина"
 
 msgid "woman running"
-msgstr "женщина бежит"
+msgstr "бегущая женщина"
 
 msgid "woman dancing"
 msgstr "танцующая женщина"
@@ -1265,7 +1265,7 @@ msgid "man dancing"
 msgstr "танцующий мужчина"
 
 msgid "person in suit levitating"
-msgstr "бизнесмен в воздухе"
+msgstr "парящий в воздухе человек в деловом костюме"
 
 msgid "people with bunny ears"
 msgstr "люди с ушами кролика"
@@ -1316,13 +1316,13 @@ msgid "woman golfing"
 msgstr "женщина играет в гольф"
 
 msgid "person surfing"
-msgstr "сёрфинг"
+msgstr "человек, плывущий на доске для сёрфинга"
 
 msgid "man surfing"
-msgstr "сёрфингист"
+msgstr "мужчина, плывущий на доске для сёрфинга"
 
 msgid "woman surfing"
-msgstr "сёрфингистка"
+msgstr "женщина, плывущая на доске для сёрфинга"
 
 msgid "person rowing boat"
 msgstr "гребля"
@@ -1334,7 +1334,7 @@ msgid "woman rowing boat"
 msgstr "гребчиха"
 
 msgid "person swimming"
-msgstr "плавание"
+msgstr "плывущий человек"
 
 msgid "man swimming"
 msgstr "пловец"
@@ -1361,7 +1361,7 @@ msgid "woman lifting weights"
 msgstr "женщина со штангой"
 
 msgid "person biking"
-msgstr "велосипедист"
+msgstr "человек на велосипеде"
 
 msgid "man biking"
 msgstr "мужчина на велосипеде"
@@ -1442,7 +1442,7 @@ msgid "people holding hands"
 msgstr "люди, держащиеся за руки"
 
 msgid "woman and man holding hands"
-msgstr "мужчина и женщина"
+msgstr "мужчина и женщина, держащиеся за руки"
 
 msgid "kiss"
 msgstr "поцелуй"
