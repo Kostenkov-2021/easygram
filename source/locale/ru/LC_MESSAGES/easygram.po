@@ -7,17 +7,17 @@ msgstr ""
 "Project-Id-Version: Easygram 0.40\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
 "POT-Creation-Date: 2025-11-07 20:31+0300\n"
-"PO-Revision-Date: 2025-11-07 21:28+0300\n"
+"PO-Revision-Date: 2025-11-10 00:06+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
-"<piatro97@gmail.com>\n"
+"<piatro97@gmail.com>, Danil Kostenkov <danilkostenkov38@gmail.com>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-KeywordsList: N_\n"
@@ -553,13 +553,15 @@ msgid "Can't change answer in quiz mode."
 msgstr "Невозможно изменить ответ в режиме викторины."
 
 msgid "This quiz is now closed."
-msgstr "Эта викторина закрыта"
+msgstr "Эта викторина закрыта."
 
 msgid "Links"
 msgstr "Ссылки"
 
 msgid "Original text in English: © Eugene Poplavsky."
-msgstr "Перевод на русский язык: © Eugene Poplavsky, Peter Ivanovich."
+msgstr ""
+"Перевод на русский язык: © Eugene Poplavsky, Peter Ivanovich, Danil "
+"Kostenkov."
 
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr "Easygram также включает в себя ряд компонентов, совместимых с GNU GPL."
@@ -1048,7 +1050,7 @@ msgid "Password:"
 msgstr "Пароль:"
 
 msgid "Password hint:"
-msgstr "Подсказка для пароля"
+msgstr "Подсказка для пароля:"
 
 msgid ""
 "\n"
@@ -1202,10 +1204,10 @@ msgid "Leave group"
 msgstr "Покинуть группу"
 
 msgid "&Show window"
-msgstr "&Отобразить окно"
+msgstr "П&оказать окно"
 
 msgid "E&xit"
-msgstr "В&ыход"
+msgstr "В&ыйти"
 
 msgid "&All chats"
 msgstr "&Все чаты"
@@ -1599,13 +1601,13 @@ msgid "Confirmation before closing"
 msgstr "Подтверждение перед закрытием"
 
 msgid "Show sender in system tray"
-msgstr "Отображать отправителя в уведомлении"
+msgstr "Показывать имя отправителя в уведомлении"
 
 msgid "Close windows by pressing the ESCAPE key"
 msgstr "Закрывать окна по нажатию клавиши ESCAPE"
 
 msgid "Show the window after complit download"
-msgstr "Отображать окно после завершения загрузки"
+msgstr "Показывать окно после завершения загрузки"
 
 msgid "Downloads"
 msgstr "Загрузки"
@@ -1648,7 +1650,7 @@ msgid "Chat list"
 msgstr "Список чатов"
 
 msgid "Show time after message text"
-msgstr "Отображать время после текста сообщения"
+msgstr "Показывать время после текста сообщения"
 
 msgid "Mark chats without notifications"
 msgstr "Отмечать чаты без уведомлений"
@@ -1675,20 +1677,20 @@ msgid "Multimedia keys:"
 msgstr "Мультимедийные клавиши:"
 
 msgid "chats settings"
-msgstr "Настройки чатов"
+msgstr "настройки чатов"
 
 msgid "Send messages by pressing enter"
 msgstr "Отправлять сообщения нажатием Enter"
 
 msgid "Sequentially play voice messages and audio files in chats"
 msgstr ""
-"Последовательное воспроизведение голосовых сообщений и аудиофайлов в чатах"
+"Последовательно воспроизводить голосовые сообщения и аудиофайлы в чатах"
 
 msgid "Automatically start recording a voice message"
 msgstr "Автоматически начинать запись голосового сообщения"
 
 msgid "Show emoji button"
-msgstr "Отображать кнопку эмодзи"
+msgstr "Показывать кнопку эмодзи"
 
 msgid ""
 "Disable Markdown markup (if there are issues with the messages being sent)"
@@ -1696,7 +1698,7 @@ msgstr ""
 "Отключить разметку Markdown (если есть проблемы с отправляемыми сообщениями)"
 
 msgid "Don't show dialog box \"Message scheduled\""
-msgstr "Не отображать диалоговое окно \"Сообщение отложено\""
+msgstr "Не показывать диалог \"Сообщение отложено\""
 
 msgid "Use new search style in chat and message lists"
 msgstr "Использовать новый стиль поиска в списках чатов и сообщений"
@@ -1732,7 +1734,7 @@ msgid "Voice message quality:"
 msgstr "Качество голосовых сообщений:"
 
 msgid "Display size for:"
-msgstr "Отображать размер:"
+msgstr "Показывать размер:"
 
 msgid "Documents"
 msgstr "Документов"
@@ -2133,7 +2135,7 @@ msgid "Selects a contact"
 msgstr "Выбирает контакт"
 
 msgid "Selects location"
-msgstr "Выбирает геопозицию"
+msgstr "Выбирает местоположение"
 
 msgid "Selects a sticker"
 msgstr "Выбирает стикер"
