@@ -4,10 +4,10 @@
 # This file is distributed under the same license as the 'easygram' package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.42\n"
+"Project-Id-Version: Easygram 0.40\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2025-11-09 20:36+0300\n"
-"PO-Revision-Date: 2025-12-10 13:03+0300\n"
+"POT-Creation-Date: 2025-11-07 20:31+0300\n"
+"PO-Revision-Date: 2025-11-10 00:06+0300\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Eugene Poplavsky <jawhien@gmail.com>, Peter Ivanovich "
 "<piatro97@gmail.com>, Danil Kostenkov <danilkostenkov38@gmail.com>\n"
@@ -23,6 +23,144 @@ msgstr ""
 "X-Poedit-KeywordsList: N_\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "Faces and emotions"
+msgstr "Лица и эмоции"
+
+msgid "People and gestures"
+msgstr "Люди и жесты"
+
+msgid "Animals and nature"
+msgstr "Животные и природа"
+
+msgid "Food and drink"
+msgstr "Еда и напитки"
+
+msgid "Travel and places"
+msgstr "Путешествия и места"
+
+msgid "Activities"
+msgstr "Занятия"
+
+msgid "Objects"
+msgstr "Объекты"
+
+msgid "Symbols"
+msgstr "Символы"
+
+msgid "Flags"
+msgstr "Флаги"
+
+msgid "Offline"
+msgstr "Не в сети"
+
+msgid "Chats"
+msgstr "Чаты"
+
+msgid "All chats"
+msgstr "Все чаты"
+
+msgid "Loading chats..."
+msgstr "Загрузка чатов..."
+
+msgid "Archive"
+msgstr "Архив"
+
+msgid "Mark all chats as read"
+msgstr "Пометить все чаты прочитанными"
+
+#, python-brace-format
+msgid "Chats ({0})"
+msgstr "Чаты ({0})"
+
+msgid "Contacts"
+msgstr "Контакты"
+
+msgid "About user"
+msgstr "О пользователе"
+
+msgid "Open chat"
+msgstr "Открыть чат"
+
+#, python-brace-format
+msgid "Contacts ({0})"
+msgstr "Контакты ({0})"
+
+msgid "My profile"
+msgstr "Мой профиль"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Preferences"
+msgstr "Настройки"
+
+msgid "About Easygram"
+msgstr "О Easygram"
+
+#, python-brace-format
+msgid "Archive: {count} unread chat"
+msgid_plural "Archive: {count} unread chats"
+msgstr[0] "Архив: {count} непрочитанный чат"
+msgstr[1] "Архив: {count} непрочитанных чата"
+msgstr[2] "Архив: {count} непрочитанных чатов"
+
+msgid "Skipped one-time voice message"
+msgstr "Пропущено одноразовое голосовое сообщение"
+
+#, python-brace-format
+msgid "Do you really want to delete this \"{name}\" contact?"
+msgstr "Вы действительно хотите удалить контакт \"{name}\"?"
+
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+msgid "Archived chats"
+msgstr "Архивированные чаты"
+
+msgid "Are you sure you want to close application?"
+msgstr "Вы действительно хотите закрыть приложение?"
+
+msgid "Exit the program"
+msgstr "Выход из программы"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Invalid verification code!"
+msgstr "Неправильный код подтверждения!"
+
+msgid "Invalid password!"
+msgstr "Неправильный пароль!"
+
+msgid "Authorisation Error"
+msgstr "Ошибка авторизации"
+
+msgid "Do you really want to mark all the chats on this list as read?"
+msgstr "Вы действительно хотите пометить все чаты в этом списке прочитанными?"
+
+msgid "Updating..."
+msgstr "Обновление..."
+
+msgid "Ready"
+msgstr "Готов"
+
+msgid "Connecting..."
+msgstr "Соединение..."
+
+#, python-brace-format
+msgid "You have a new message from {title}"
+msgstr "У вас есть новое сообщение от {title}"
+
+msgid "You have a new message"
+msgstr "У вас есть новое сообщение"
+
+#, python-brace-format
+msgid "{count} unread message"
+msgid_plural "{count} unread messages"
+msgstr[0] "{count} непрочитанное сообщение"
+msgstr[1] "{count} непрочитанных сообщения"
+msgstr[2] "{count} непрочитанных сообщений"
+
 msgid "Selected"
 msgstr "Выделено"
 
@@ -35,7 +173,6 @@ msgstr "Меню бота"
 msgid "Bot keyboard"
 msgstr "Клавиатура бота"
 
-#. sizer for the inline bot keyboard.
 msgid "Inline keyboard"
 msgstr "Встроенная клавиатура"
 
@@ -194,9 +331,6 @@ msgstr "Бот: {name}"
 msgid "Premium account"
 msgstr "Premium-аккаунт"
 
-msgid "Skipped one-time voice message"
-msgstr "Пропущено одноразовое голосовое сообщение"
-
 msgid "There are no links in this message."
 msgstr "В этом сообщении нет ссылок."
 
@@ -282,9 +416,6 @@ msgstr "Отмена"
 msgid "About the bot"
 msgstr "О боте"
 
-msgid "About user"
-msgstr "О пользователе"
-
 msgid "First name:"
 msgstr "Имя:"
 
@@ -308,9 +439,6 @@ msgstr "Личный канал"
 
 msgid "ID:"
 msgstr "Идентификатор:"
-
-msgid "Open chat"
-msgstr "Открыть чат"
 
 #, python-brace-format
 msgid "{day}/{month}/{year}"
@@ -375,15 +503,11 @@ msgstr "Невозможно отправлять пустые сообщени�
 msgid "Info"
 msgstr "Информация"
 
-#. Change the label of the button to show that the upload has already started.
 msgid "Sending in progress..."
 msgstr "Идёт отправка..."
 
 msgid "A message is being sent. Do you really want to close this window?"
 msgstr "Сообщение отправляется. Вы действительно хотите закрыть это окно?"
-
-msgid "Confirmation"
-msgstr "Подтверждение"
 
 msgid "Cancel the record and delete the message?"
 msgstr "Отменить запись и удалить сообщение?"
@@ -434,15 +558,11 @@ msgstr "Эта викторина закрыта."
 msgid "Links"
 msgstr "Ссылки"
 
-msgid "About Easygram"
-msgstr "О Easygram"
-
 msgid "Original text in English: © Eugene Poplavsky."
 msgstr ""
 "Перевод на русский язык: © Eugene Poplavsky, Peter Ivanovich, Danil "
 "Kostenkov."
 
-#. text.append(_("Easygram is distributed under the GNU GPLv3 open source license, with the exception of certain additional components and Microsoft redistributable code. By using or distributing Easygram, you agree to be bound by the terms of the license agreement. The text of the license can be found at:\n{link}").format(link="https://www.gnu.org/licenses/gpl-3.0.en.html"))
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr "Easygram также включает в себя ряд компонентов, совместимых с GNU GPL."
 
@@ -819,9 +939,6 @@ msgstr "Ноябрь"
 msgid "December"
 msgstr "Декабрь"
 
-msgid "My profile"
-msgstr "Мой профиль"
-
 msgid "Change phone number"
 msgstr "Изменить номер телефона"
 
@@ -842,9 +959,6 @@ msgstr "Не удалось получить полную информацию �
 
 msgid "Topics:"
 msgstr "Темы:"
-
-msgid "Search"
-msgstr "Поиск"
 
 msgid "Search query:"
 msgstr "Поисковый запрос:"
@@ -1778,9 +1892,6 @@ msgstr "Поведение"
 msgid "Keyboard"
 msgstr "Клавиатура"
 
-msgid "Chats"
-msgstr "Чаты"
-
 msgid "Sounds"
 msgstr "Звуки"
 
@@ -1879,13 +1990,6 @@ msgid "Muted"
 msgstr "Без уведомлений"
 
 #, python-brace-format
-msgid "{count} unread message"
-msgid_plural "{count} unread messages"
-msgstr[0] "{count} непрочитанное сообщение"
-msgstr[1] "{count} непрочитанных сообщения"
-msgstr[2] "{count} непрочитанных сообщений"
-
-#, python-brace-format
 msgid "{count} mention"
 msgid_plural "{count} mentions"
 msgstr[0] "{count} упоминание"
@@ -1956,96 +2060,30 @@ msgstr[0] "{count} участник"
 msgstr[1] "{count} участника"
 msgstr[2] "{count} участников"
 
-msgid "Offline"
-msgstr "Не в сети"
+msgid "Play/Pause"
+msgstr "Воспроизведение/пауза"
 
-msgid "All chats"
-msgstr "Все чаты"
+msgid "Mute/Unmute"
+msgstr "Выключить / включить звук"
 
-msgid "Loading chats..."
-msgstr "Загрузка чатов..."
+msgid "Volume down"
+msgstr "Уменьшение громкости"
 
-msgid "Archive"
-msgstr "Архив"
+msgid "Volume up"
+msgstr "Увеличение громкости"
 
-msgid "Mark all chats as read"
-msgstr "Пометить все чаты прочитанными"
-
-#, python-brace-format
-msgid "Chats ({0})"
-msgstr "Чаты ({0})"
-
-msgid "Contacts"
-msgstr "Контакты"
+msgid "Nothing is playing"
+msgstr "Ничего не воспроизводится"
 
 #, python-brace-format
-msgid "Contacts ({0})"
-msgstr "Контакты ({0})"
-
-msgid "Preferences"
-msgstr "Настройки"
-
-#, python-brace-format
-msgid "Archive: {count} unread chat"
-msgid_plural "Archive: {count} unread chats"
-msgstr[0] "Архив: {count} непрочитанный чат"
-msgstr[1] "Архив: {count} непрочитанных чата"
-msgstr[2] "Архив: {count} непрочитанных чатов"
-
-#, python-brace-format
-msgid "Do you really want to delete this \"{name}\" contact?"
-msgstr "Вы действительно хотите удалить контакт \"{name}\"?"
-
-msgid "Archived chats"
-msgstr "Архивированные чаты"
-
-msgid "Are you sure you want to close application?"
-msgstr "Вы действительно хотите закрыть приложение?"
-
-msgid "Exit the program"
-msgstr "Выход из программы"
-
-msgid "Loading..."
-msgstr "Загрузка..."
-
-msgid "Invalid verification code!"
-msgstr "Неправильный код подтверждения!"
-
-msgid "Invalid password!"
-msgstr "Неправильный пароль!"
-
-msgid "Authorisation Error"
-msgstr "Ошибка авторизации"
-
-msgid "Do you really want to mark all the chats on this list as read?"
-msgstr "Вы действительно хотите пометить все чаты в этом списке прочитанными?"
-
-msgid "Updating..."
-msgstr "Обновление..."
-
-msgid "Ready"
-msgstr "Готово"
-
-msgid "Connecting..."
-msgstr "Соединение..."
-
-#. We display the notification separately from the main system tray icon, because after the notification is shown, the icon is not clickable from the keyboard.
-#, python-brace-format
-msgid "You have a new message from {title}"
-msgstr "У вас есть новое сообщение от {title}"
-
-msgid "You have a new message"
-msgstr "У вас есть новое сообщение"
+msgid "Time: {t}/{l}"
+msgstr "Время: {t}/{l}"
 
 msgid "Disabled"
 msgstr "Выключен"
 
 msgid "Equalizer"
 msgstr "Эквалайзер"
-
-#, python-brace-format
-msgid "Time: {t}/{l}"
-msgstr "Время: {t}/{l}"
 
 #, python-brace-format
 msgid "Playback rate: {rate}"
@@ -2076,9 +2114,6 @@ msgstr "Стоп"
 msgid "Pause"
 msgstr "Пауза"
 
-msgid "Nothing is playing"
-msgstr "Ничего не воспроизводится"
-
 #, python-brace-format
 msgid "Volume {v}"
 msgstr "Громкость {v}"
@@ -2095,6 +2130,42 @@ msgstr "Скорость воспроизведения {rate}"
 
 msgid "Default playback device"
 msgstr "Устройство воспроизведения по умолчанию"
+
+msgid "Selects a contact"
+msgstr "Выбирает контакт"
+
+msgid "Selects location"
+msgstr "Выбирает местоположение"
+
+msgid "Selects a sticker"
+msgstr "Выбирает стикер"
+
+msgid "Recording video"
+msgstr "Записывает видео"
+
+msgid "Recording voice"
+msgstr "Записывает голосовое сообщение"
+
+msgid "Start playing game"
+msgstr "Начинает играть в игру"
+
+msgid "Typing"
+msgstr "Печатает"
+
+msgid "Sending a file"
+msgstr "Отправляет файл"
+
+msgid "Sending a photo"
+msgstr "Отправляет фото"
+
+msgid "Sending a video"
+msgstr "Отправляет видео"
+
+msgid "Sending an audio"
+msgstr "Отправляет аудио"
+
+msgid "Watching animations"
+msgstr "Просматривает анимацию"
 
 msgid "Outgoing"
 msgstr "Исходящий"
@@ -2151,81 +2222,6 @@ msgstr "{sound} (встроенный)"
 #, python-brace-format
 msgid "{sound} (user)"
 msgstr "{sound} (пользовательский)"
-
-#~ msgid "Faces and emotions"
-#~ msgstr "Лица и эмоции"
-
-#~ msgid "People and gestures"
-#~ msgstr "Люди и жесты"
-
-#~ msgid "Animals and nature"
-#~ msgstr "Животные и природа"
-
-#~ msgid "Food and drink"
-#~ msgstr "Еда и напитки"
-
-#~ msgid "Travel and places"
-#~ msgstr "Путешествия и места"
-
-#~ msgid "Activities"
-#~ msgstr "Занятия"
-
-#~ msgid "Objects"
-#~ msgstr "Объекты"
-
-#~ msgid "Symbols"
-#~ msgstr "Символы"
-
-#~ msgid "Flags"
-#~ msgstr "Флаги"
-
-#~ msgid "Play/Pause"
-#~ msgstr "Воспроизведение/пауза"
-
-#~ msgid "Mute/Unmute"
-#~ msgstr "Выключить / включить звук"
-
-#~ msgid "Volume down"
-#~ msgstr "Уменьшение громкости"
-
-#~ msgid "Volume up"
-#~ msgstr "Увеличение громкости"
-
-#~ msgid "Selects a contact"
-#~ msgstr "Выбирает контакт"
-
-#~ msgid "Selects location"
-#~ msgstr "Выбирает местоположение"
-
-#~ msgid "Selects a sticker"
-#~ msgstr "Выбирает стикер"
-
-#~ msgid "Recording video"
-#~ msgstr "Записывает видео"
-
-#~ msgid "Recording voice"
-#~ msgstr "Записывает голосовое сообщение"
-
-#~ msgid "Start playing game"
-#~ msgstr "Начинает играть в игру"
-
-#~ msgid "Typing"
-#~ msgstr "Печатает"
-
-#~ msgid "Sending a file"
-#~ msgstr "Отправляет файл"
-
-#~ msgid "Sending a photo"
-#~ msgstr "Отправляет фото"
-
-#~ msgid "Sending a video"
-#~ msgstr "Отправляет видео"
-
-#~ msgid "Sending an audio"
-#~ msgstr "Отправляет аудио"
-
-#~ msgid "Watching animations"
-#~ msgstr "Просматривает анимацию"
 
 #~ msgid "Delete for everyone"
 #~ msgstr "Удалить у всех"
