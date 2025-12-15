@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Easygram 0.30\n"
+"Project-Id-Version: Easygram 0.42.2.0\n"
 "Report-Msgid-Bugs-To: 'jawhien@gmail.com'\n"
-"POT-Creation-Date: 2024-08-19 16:02+0300\n"
-"PO-Revision-Date: 2024-08-19 16:25+0300\n"
+"POT-Creation-Date: 2025-11-23 21:55+0400\n"
+"PO-Revision-Date: 2025-12-13 17:42+0400\n"
 "Last-Translator: Peter Ivanovich <piatro97@gmail.com>\n"
 "Language-Team: Neyman Agayev <neyman1993@gmail.com> <neyman1993@gmail.com>\n"
 "Language: tr\n"
@@ -22,362 +22,11 @@ msgstr ""
 "X-Poedit-KeywordsList: N_\n"
 "X-Poedit-SearchPath-0: .\n"
 
-msgid "Slightly smiling face"
-msgstr "Hafif güler yüz"
-
-msgid "Smiling face"
-msgstr "Gülen yüz"
-
-msgid "Grinning face"
-msgstr "Sırıtan yüz"
-
-msgid "Smiling face with smiling eyes"
-msgstr "Gülümseyen gözlerle güler yüz"
-
-msgid "Smiling face with halo"
-msgstr "Işık halkalı gülümseme"
-
-msgid "Grinning face with big eyes"
-msgstr "Ağzı açık gülümseyen yüz"
-
-msgid "Grinning face with smiling eyes"
-msgstr "Gülümseyen gözlerle sırıtan yüz"
-
-msgid "Grinning squinting face"
-msgstr "Kapalı gözlerle ağzı açık sırıtma"
-
-msgid "Grinning face with sweat"
-msgstr "Soğuk terli ağzı açık gülümseme"
-
-msgid "Rolling on the floor laughing"
-msgstr "Gülmekten yerlere yatan yüz"
-
-msgid "Face with tears of joy"
-msgstr "Sevinç gözyaşları"
-
-msgid "Beaming face with smiling eyes"
-msgstr "Gülen gözlerle sırıtma"
-
-msgid "Smiling face with horns"
-msgstr "boynuzlu gülen yüz"
-
-msgid "Angry face with horns"
-msgstr "boynuzlu kızgın yüz"
-
-msgid "Upside-down face"
-msgstr "Ters döndürülmüş yüz"
-
-msgid "Melting face"
-msgstr "eriyen yüz"
-
-msgid "Winking face"
-msgstr "Göz kırpan yüz"
-
-msgid "Winking face with tongue"
-msgstr "Ağzı açık göz kırpan yüz"
-
-msgid "Smiling face with open hands"
-msgstr "Kucaklayarak gülümseme"
-
-msgid "Smiling face with hearts"
-msgstr "3 kalpli gülümseyen yüz"
-
-msgid "Smiling face with heart-eyes"
-msgstr "kalp gözlü gülümseme"
-
-msgid "Star-struck"
-msgstr "yıldız çarpmış"
-
-msgid "Face blowing a kiss"
-msgstr "öpücük gönderen yüz"
-
-msgid "Kissing face"
-msgstr "öpen yüz"
-
-msgid "Kissing face with closed eyes"
-msgstr "Kapalı gözlerle öpen yüz"
-
-msgid "Kissing face with smiling eyes"
-msgstr "gülen gözlerle öpen yüz"
-
-msgid "Smiling face with tear"
-msgstr "gözü yaşlı gülümseyen yüz"
-
-msgid "Face savoring food"
-msgstr "lezzetli yiyecek beğenen yüz"
-
-msgid "Face with tongue"
-msgstr "dil dışarıda"
-
-msgid "Face with hand over mouth"
-msgstr "eliyle ağzını kapatan yüz"
-
-msgid "Face with open eyes and hand over mouth"
-msgstr "gözleri açık ve eliyle ağzını kapatan yüz"
-
-msgid "Zany face"
-msgstr "çılgın surat"
-
-msgid "Squinting face with tongue"
-msgstr "dil dışarıda ve gözler kapalı"
-
-msgid "Money-mouth face"
-msgstr "para ağızlı yüz"
-
-msgid "Face with peeking eye"
-msgstr "gizlice bakan yüz"
-
-msgid "Shushing face"
-msgstr "sus işareti yapan yüz"
-
-msgid "Thinking face"
-msgstr "düşünen yüz"
-
-msgid "Saluting face"
-msgstr "selamlayan yüz"
-
-msgid "Zipper-mouth face"
-msgstr "ağzı fermuarlı yüz"
-
-msgid "Face with raised eyebrow"
-msgstr "tek kaşı çatık yüz"
-
-msgid "Neutral face"
-msgstr "duygusuz yüz"
-
-msgid "Expressionless face"
-msgstr "ifadesiz yüz"
-
-msgid "Face without mouth"
-msgstr "ağzı olmayan yüz"
-
-msgid "Dotted line face"
-msgstr "noktalı çizgili yüz"
-
-msgid "Face in clouds"
-msgstr "bulutlardaki yüz"
-
-msgid "Smirking face"
-msgstr "imalı gülümseme"
-
-msgid "unamused face"
-msgstr "Eğlencesiz yüz"
-
-msgid "Face with rolling eyes"
-msgstr "gözlerini deviren yüz"
-
-msgid "Grimacing face"
-msgstr "dişlerini gösteren yüz"
-
-msgid "Face exhaling"
-msgstr "nefes veren yüz"
-
-msgid "Lying face"
-msgstr "yalan söyleyen yüz"
-
-msgid "Shaking face"
-msgstr "sallanan yüz"
-
-msgid "Relieved face"
-msgstr "rahatlamış yüz"
-
-msgid "Pensive face"
-msgstr "düşünceli yüz"
-
-msgid "Sleepy face"
-msgstr "uykulu yüz"
-
-msgid "Drooling face"
-msgstr "salya akıtan yüz"
-
-msgid "Sleeping face"
-msgstr "uyuyan yüz"
-
-msgid "Face with medical mask"
-msgstr "maskeli yüz"
-
-msgid "Face with thermometer"
-msgstr "ağzında termometre olan yüz"
-
-msgid "Face with head-bandage"
-msgstr "kafası sarılı yüz"
-
-msgid "Face with spiral eyes"
-msgstr "sarmal gözlü yüz"
-
-msgid "Exploding head"
-msgstr "patlayan kafa"
-
-msgid "Cowboy hat face"
-msgstr "kovboy şapkalı yüz"
-
-msgid "Partying face"
-msgstr "partide eğlenen yüz"
-
-msgid "Smiling face with sunglasses"
-msgstr "güneş gözlüklü gülümseme"
-
-msgid "Nerd face"
-msgstr "ukala yüz"
-
-msgid "Face with monocle"
-msgstr "tek cam gözlüklü yüz"
-
-msgid "Confused face"
-msgstr "kafası karışık yüz"
-
-msgid "Face with diagonal mouth"
-msgstr "yamuk ağızlı yüz"
-
-msgid "Worried face"
-msgstr "endişeli yüz"
-
-msgid "Slightly frowning face"
-msgstr "biraz asık surat"
-
-msgid "Frowning face"
-msgstr "asık surat"
-
-msgid "Face with open mouth"
-msgstr "ağzı açık yüz"
-
-msgid "Hushed face"
-msgstr "şaşkın yüz"
-
-msgid "Astonished face"
-msgstr "afallamış yüz"
-
-msgid "Flushed face"
-msgstr "kızarmış ve şaşkın yüz"
-
-msgid "Pleading face"
-msgstr "yalvaran yüz"
-
-msgid "Face holding back tears"
-msgstr "gözleri dolmuş yüz"
-
-msgid "Frowning face with open mouth"
-msgstr "hoşnutsuz yüz"
-
-msgid "Anguished face"
-msgstr "kederli yüz"
-
-msgid "Fearful face"
-msgstr "korkulu yüz"
-
-msgid "Anxious face with sweat"
-msgstr "terli ve endişeli yüz"
-
-msgid "Sad but relieved face"
-msgstr "üzgün ama rahatlamış yüz"
-
-msgid "Crying face"
-msgstr "ağlayan yüz"
-
-msgid "Loudly crying face"
-msgstr "avaz ağlayan yüz"
-
-msgid "Face screaming in fear"
-msgstr "korkuyla çığlık atan yüz"
-
-msgid "Confounded face"
-msgstr "kafası çok karışık yüz"
-
-msgid "Persevering face"
-msgstr "kararlı yüz"
-
-msgid "Disappointed face"
-msgstr "memnuniyetsiz yüz"
-
-msgid "Downcast face with sweat"
-msgstr "soğuk ter"
-
-msgid "Weary face"
-msgstr "çok yorgun"
-
-msgid "Tired face"
-msgstr "yorgun yüz"
-
-msgid "Enraged face"
-msgstr "somurtkan yüz"
-
-msgid "Angry face"
-msgstr "öfkeli yüz"
-
-msgid "Face with symbols on mouth"
-msgstr "ağzında semboller olan yüz"
-
-msgid "Skull"
-msgstr "kafatası"
-
-msgid "Skull and crossbones"
-msgstr "kuru kafa"
-
-msgid "Grinning cat"
-msgstr "sırıtan kedi"
-
-msgid "Grinning cat with smiling eyes"
-msgstr "gülen gözlerle sırıtan kedi"
-
-msgid "Cat with tears of joy"
-msgstr "sevinç gözyaşları döken kedi"
-
-msgid "Smiling cat with heart-eyes"
-msgstr "kalp gözlü gülümseyen kedi"
-
-msgid "Cat with wry smile"
-msgstr "iğneleyici kedi yüzü"
-
-msgid "Kissing cat"
-msgstr "öpen kedi"
-
-msgid "Weary cat"
-msgstr "korkuyla bağıran kedi"
-
-msgid "Crying cat"
-msgstr "ağlayan kedi"
-
-msgid "Pouting cat"
-msgstr "somurtan kedi"
-
-msgid "Thumbs up"
-msgstr "Başparmak yukarı"
-
-msgid "Thumbs down"
-msgstr "Başparmak aşağı\\"
-
-msgid "Clapping hands"
-msgstr "el çırpma"
-
-msgid "Raising hands"
-msgstr "eller havaya"
-
-msgid "Waving hand"
-msgstr "el sallama"
-
-msgid "OK hand"
-msgstr "tamam işareti"
-
-msgid "Pinching hand"
-msgstr "kıstırma hareketi yapan el"
-
-msgid "Victory hand"
-msgstr "zafer işareti"
-
-msgid "Love-you gesture"
-msgstr "seni seviyorum işareti"
-
-msgid "Sign of the horns"
-msgstr "boynuz işareti"
-
-msgid "Call me hand"
-msgstr "beni ara işareti"
-
-msgid "Middle finger"
-msgstr "orta parmak"
-
-msgid "Heart hands"
-msgstr "kalp oluşturan eller"
+msgid "Selected"
+msgstr "Seçili"
+
+msgid "Not selected"
+msgstr "Seçilmemiş"
 
 msgid "Bot menu"
 msgstr "Bot menüsü"
@@ -395,7 +44,6 @@ msgstr "Emoji"
 msgid "Schedule message"
 msgstr "Mesajı Zamanla"
 
-#. TRANSLATORS: this is the label of the button in the file attachment dialog box.
 msgid "Set date and time..."
 msgstr "Tarih ve saati ayarlayın..."
 
@@ -429,8 +77,50 @@ msgstr "Sesi aç"
 msgid "Join the channel"
 msgstr "Kanala Katıl"
 
+msgid "Apply to join group"
+msgstr "Gruba katılmak için başvur"
+
+msgid "Join the group"
+msgstr "Gruba katıl"
+
+msgid "Select topic"
+msgstr "Konu seç"
+
 msgid "Close"
 msgstr "Kapat"
+
+msgid "Multiple selection enabled"
+msgstr "Çoklu seçim etkin"
+
+msgid "Multiple selection disabled"
+msgstr "Çoklu seçim devre dışı"
+
+msgid "All files"
+msgstr "Tüm dosyalar"
+
+msgid "Save file"
+msgstr "Dosyayı kaydet"
+
+#, python-brace-format
+msgid "Topic: {name}"
+msgstr "Konu: {name}"
+
+msgid "The request has been sent"
+msgstr "İstek gönderildi"
+
+msgid "Information"
+msgstr "Bilgi"
+
+#, python-brace-format
+msgid ""
+"Failed to save file \"{name}\", such file already exists and name search "
+"limit exceeded."
+msgstr ""
+"Dosya kaydedilemedi  \"{name}\", böyle bir dosya zaten var ve ad arama "
+"sınırı aşıldı."
+
+msgid "Error"
+msgstr "Hata"
 
 msgid "Messages"
 msgstr "Mesajlar"
@@ -439,8 +129,8 @@ msgid "Message:"
 msgstr "Mesaj:"
 
 #, python-brace-format
-msgid "Reply to {name}:"
-msgstr "Yanıt  {name}:"
+msgid "Reply to {name}: {text}:"
+msgstr "{name} yanıtı: {text}"
 
 msgid "online"
 msgstr "çevrimiçi"
@@ -503,26 +193,14 @@ msgstr "Premium Hesap"
 msgid "Skipped one-time voice message"
 msgstr "Tek seferlik sesli mesaj atlandı"
 
-msgid "Are you sure you want to delete this message?"
-msgstr "Bu mesajı silmek istediğinizden emin misiniz?"
-
-msgid "Delete for everyone"
-msgstr "Herkesten sil"
-
-msgid "Delete for yourself"
-msgstr "Benden sil"
-
 msgid "There are no links in this message."
 msgstr "Bu mesajda bağlantı yok."
-
-msgid "Information"
-msgstr "Bilgi"
 
 msgid "Voice and video messages in this chat are restricted!"
 msgstr "Bu sohbette sesli ve görüntülü mesajlar kısıtlanmıştır!"
 
-msgid "All files"
-msgstr "Tüm dosyalar"
+msgid "Unable to send a voice message because the input device was not found."
+msgstr "Giriş cihazı bulunamadığı için sesli mesaj gönderilemiyor."
 
 msgid "Select file"
 msgstr "Dosya seç"
@@ -539,9 +217,6 @@ msgstr "Gönderme hatası"
 msgid "You have not set the date and time!"
 msgstr "Tarih ve saati belirlemediniz!"
 
-msgid "Error"
-msgstr "Hata"
-
 msgid "%d.%m.%Y at %H:%M"
 msgstr "%d.%m.%Y %H:%M"
 
@@ -549,13 +224,18 @@ msgstr "%d.%m.%Y %H:%M"
 msgid "Scheduled for: {date}"
 msgstr "{date}: İçin planlandı"
 
-#, python-brace-format
+msgid "Scheduled for: When the user is online"
+msgstr "Zamanlanmış: Kullanıcı çevrimiçi olduğunda"
+
+msgid "An error occurred. See details in the event log."
+msgstr "Bir hata oluştu. Ayrıntılar için olay günlüğüne bakın."
+
 msgid ""
-"Failed to save file \"{name}\", such file already exists and name search "
-"limit exceeded."
-msgstr ""
-"Dosya kaydedilemedi  \"{name}\", böyle bir dosya zaten var ve ad arama "
-"sınırı aşıldı."
+"It was not possible to import contact. Perhaps it is absent in Telegram."
+msgstr "Kişi içe aktarılamadı. Belki de Telegram'da yoktur."
+
+msgid "Successfully imported."
+msgstr "Başarıyla içe aktarıldı."
 
 msgid "Comment:"
 msgstr "Yorum:"
@@ -568,6 +248,18 @@ msgstr "Yorumlar:"
 
 msgid "Schedule"
 msgstr "Zamanla"
+
+msgid "When to send"
+msgstr "Ne zaman gönderilecek"
+
+msgid "Date and time"
+msgstr "Tarih ve saat"
+
+msgid "When will user be online"
+msgstr "Kullanıcı çevrimiçi olduğunda"
+
+msgid "Date and time selection"
+msgstr "Tarih ve saat seçimi"
 
 msgid "Hour:"
 msgstr "Saat:"
@@ -652,11 +344,24 @@ msgstr "Sesli mesaj: {title}"
 msgid "Start recording"
 msgstr "Kayda başla"
 
+msgid "Options"
+msgstr "Seçenekler"
+
 msgid "Delete after listening"
 msgstr "Oynatıldıktan sonra sil"
 
 msgid "Stop recording"
 msgstr "Kaydı durdur"
+
+msgid ""
+"An error occurred while sending a voice message. See the log for more "
+"details."
+msgstr ""
+"Sesli mesaj gönderilirken bir hata oluştu.  Daha fazla bilgi için günlüğe "
+"bakın."
+
+msgid "An error occurred while converting the file."
+msgstr "Dosyayı dönüştürürken bir hata oluştu."
 
 msgid "Can't send empty messages!"
 msgstr "Boş mesaj gönderemezsiniz!"
@@ -668,18 +373,14 @@ msgstr "Bilgi"
 msgid "Sending in progress..."
 msgstr "Gönderiliyor..."
 
-#. Show an error if the file could not be saved.
-msgid "An error occurred while writing the file."
-msgstr "Dosya yazılırken bir hata oluştu."
-
-msgid "An error occurred while converting the file."
-msgstr "Dosyayı dönüştürürken bir hata oluştu."
-
-msgid "Cancel the record and delete the message?"
-msgstr "Kayıt iptal edilip mesaj silinsin mi?"
+msgid "A message is being sent. Do you really want to close this window?"
+msgstr "Mesaj gönderiliyor. Bu pencereyi kapatmak istediğinize emin misiniz?"
 
 msgid "Confirmation"
 msgstr "Onay"
+
+msgid "Cancel the record and delete the message?"
+msgstr "Kayıt iptal edilip mesaj silinsin mi?"
 
 #, python-brace-format
 msgid "Poll: {title}, anonymous poll"
@@ -733,20 +434,7 @@ msgstr "Easygram Hakkında"
 msgid "Original text in English: © Eugene Poplavsky."
 msgstr "Türkçeye çeviren: © Neyman Agayev."
 
-#, python-brace-format
-msgid ""
-"Easygram is distributed under the GNU GPLv3 open source license, with the "
-"exception of certain additional components and Microsoft redistributable "
-"code. By using or distributing Easygram, you agree to be bound by the terms "
-"of the license agreement. The text of the license can be found at:\n"
-"{link}"
-msgstr ""
-"Easygram, bazı ek bileşenler ve Microsoft'un yeniden dağıtılabilir kodu "
-"dışında açık kaynaklı GNU GPLv3 lisansı altında dağıtılır. Easygram'ı "
-"kullanarak veya dağıtarak, lisans sözleşmesinin şartlarına uymayı kabul "
-"etmiş olursunuz. Lisans metnine buradan ulaşabilirsiniz:\\n\n"
-"{link}\\"
-
+#. text.append(_("Easygram is distributed under the GNU GPLv3 open source license, with the exception of certain additional components and Microsoft redistributable code. By using or distributing Easygram, you agree to be bound by the terms of the license agreement. The text of the license can be found at:\n{link}").format(link="https://www.gnu.org/licenses/gpl-3.0.en.html"))
 msgid "Easygram also includes a number of GNU GPL compatible components."
 msgstr "Easygram ayrıca GNU GPL ile uyumlu bir dizi bileşen içerir."
 
@@ -758,47 +446,9 @@ msgstr ""
 "{name}, sürüm: {version}\n"
 "{link}"
 
-msgid "File path:"
-msgstr "Dosya konumu:"
-
-msgid "Caption:"
-msgstr "Başlık:"
-
-msgid "Attach file"
-msgstr "Dosya ekle"
-
-msgid "No such file exists!"
-msgstr "Böyle bir dosya yok!"
-
-msgid "The caption text is too long!"
-msgstr "Başlık metni çok uzun!"
-
-msgid "No command to send!"
-msgstr "Gönderilecek komut yok!"
-
-msgid "Attach video"
-msgstr "Video ekle"
-
-msgid "Attach audio"
-msgstr "Ses ekle"
-
-msgid "Title:"
-msgstr "Başlık:"
-
-msgid "Performer:"
-msgstr "Sanatçı:"
-
-msgid "Title required!"
-msgstr "Başlık gerekli!"
-
-msgid "Attach photo"
-msgstr "Fotoğraf ekle"
-
-msgid "Attach animation"
-msgstr "Animasyon ekle"
-
-msgid "Attach document"
-msgstr "Belge ekle"
+#. TRANSLATORS: this text on button in about dialog.
+msgid "Keyboard shortcuts"
+msgstr "Klavye kısayolları"
 
 msgid "About the channel"
 msgstr "Kanal hakkında"
@@ -827,8 +477,14 @@ msgstr "Boş mesaj gönderilemiyor!"
 msgid "Edit document"
 msgstr "Belgeyi düzenle"
 
+msgid "Caption:"
+msgstr "Başlık:"
+
 msgid "Override file..."
 msgstr "Dosyayı değiştir..."
+
+msgid "File path:"
+msgstr "Dosya konumu:"
 
 msgid "Browse..."
 msgstr "Gözat"
@@ -866,11 +522,36 @@ msgstr "Sesi düzenle"
 msgid "All audio files"
 msgstr "Tüm ses dosyaları"
 
+msgid "Title:"
+msgstr "Başlık:"
+
+msgid "Performer:"
+msgstr "Sanatçı:"
+
 msgid "Edit voice note"
 msgstr "Sesli mesajı düzenle"
 
 msgid "Delete message"
 msgstr "Mesajı sil"
+
+msgid "Are you sure you want to delete this message?"
+msgstr "Bu mesajı silmek istediğinizden emin misiniz?"
+
+#, python-brace-format
+msgid "Are you sure you want to delete {count} message?"
+msgid_plural "Are you sure you want to delete {count} messages?"
+msgstr[0] "{count} mesajı silmek istediğinizden emin misiniz?"
+msgstr[1] "{count} mesajı silmek istediğinizden emin misiniz?"
+
+#, python-brace-format
+msgid "Delete also for {name}"
+msgstr "{name} için de sil"
+
+msgid "Delete from all users"
+msgstr "Tüm kullanıcılardan sil"
+
+msgid "Revoke my messages"
+msgstr "Mesajlarımı geri al"
 
 msgid "Delete"
 msgstr "Sil"
@@ -881,6 +562,12 @@ msgstr "Başarılı"
 #, python-brace-format
 msgid "File '{name}' saved in downloads"
 msgstr "Dosya '{name}' indirilenlere kaydedildi"
+
+#, python-brace-format
+msgid "The file is saved in \"{path}\""
+msgstr ""
+"Dosya \"{path}\"\n"
+" konumuna kaydedildi."
 
 msgid "Show in Folder"
 msgstr "Klasörde göster"
@@ -909,6 +596,9 @@ msgstr "Zamanlanmış mesaj"
 #, python-brace-format
 msgid "Message scheduled at {date}"
 msgstr "Mesaj {date} tarihine planlandı"
+
+msgid "The message will be sent when the user is online."
+msgstr "Mesaj, kullanıcı çevrimiçi olduğunda gönderilecektir. "
 
 msgid "Message Detail"
 msgstr "Mesajla ilgili bilgiler"
@@ -967,15 +657,20 @@ msgid "Views: {count}"
 msgstr "Görüntülemeler {count}"
 
 #, python-brace-format
-msgid "Reactions: {reactions}"
-msgstr "Tepkiler : {reactions}"
-
-#, python-brace-format
 msgid "You sent a reaction {r}"
 msgstr "Siz tepki gönderdiniz  {r}"
 
-msgid "Insert emoji"
-msgstr "Emoji ekle"
+msgid "Emoji panel"
+msgstr "Emoji paneli"
+
+msgid "All"
+msgstr "Tüm"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Filter:"
+msgstr "Filtre:"
 
 msgid "List of pinned messages"
 msgstr "Sabitlenmiş mesaj listesi"
@@ -1000,17 +695,26 @@ msgstr ""
 msgid "Unpin all messages"
 msgstr "Tüm mesajların sabitlenmesini kaldır"
 
-msgid "Forward message"
-msgstr "Mesajı ilet"
+#, python-brace-format
+msgid "Forward {count} message"
+msgid_plural "Forward {count} messages"
+msgstr[0] "Forward {count} message"
+msgstr[1] "Forward {count} message"
 
 msgid "Chats:"
 msgstr "Sohbetler:"
+
+msgid "Topic:"
+msgstr "Konu:"
 
 msgid "Advanced options"
 msgstr "Gelişmiş seçenekler"
 
 msgid "Hide sender name"
 msgstr "Gönderenin  ismini gizle"
+
+msgid "Hide sender name (if available)"
+msgstr "Gönderen adını gizle (mevcutsa"
 
 msgid "Remove caption"
 msgstr "Başlığı kaldır"
@@ -1036,14 +740,128 @@ msgstr "Özellikler"
 msgid "Send without compression"
 msgstr "Sıkıştırmadan gönder"
 
-msgid "Options"
-msgstr "Seçenekler"
-
 msgid "Attach files"
 msgstr "Dosya ekle"
 
-msgid "When online"
-msgstr "Çevrimiçi olduğunda"
+msgid "Service notification"
+msgstr "Servis bildirimi"
+
+msgid "Log out"
+msgstr "Hesaptan çıkış yap"
+
+msgid "Change personal information"
+msgstr "Kişisel  bilgilerinizi  deiştir"
+
+msgid "Basic information"
+msgstr "Temel bilgiler"
+
+msgid "Your name:"
+msgstr "Adınız:"
+
+msgid "Your bio:"
+msgstr "Kendiniz hakkında"
+
+msgid "Birthday"
+msgstr "Doğum gününüz"
+
+msgid "None"
+msgstr "Hayır"
+
+msgid "Day:"
+msgstr "Gün:"
+
+msgid "Month:"
+msgstr "Ay:"
+
+msgid "Year:"
+msgstr "Yıl:"
+
+msgid "January"
+msgstr "Ocak"
+
+msgid "February"
+msgstr "Şubat"
+
+msgid "March"
+msgstr "Mart"
+
+msgid "April"
+msgstr "Nisan"
+
+msgid "May"
+msgstr "Mayıs"
+
+msgid "June"
+msgstr "Haziran"
+
+msgid "July"
+msgstr "Temmuz"
+
+msgid "August"
+msgstr "Ağustos"
+
+msgid "September"
+msgstr "Eylül"
+
+msgid "October"
+msgstr "Ekim"
+
+msgid "November"
+msgstr "Kasım"
+
+msgid "December"
+msgstr "Aralık"
+
+msgid "My profile"
+msgstr "Profilim"
+
+msgid "Change phone number"
+msgstr "Telefon numarasını değiştir"
+
+msgid "Change personal channel"
+msgstr "Kişisel kanalı değiştir"
+
+msgid "Change User name"
+msgstr "Kullanıcı adını değiştir"
+
+msgid "Are you sure you want to log out of your account?"
+msgstr "Hesabınızdan çıkış yapmak istediğinizden emin misiniz?"
+
+msgid "Feature not yet supported!"
+msgstr "Özellik henüz desteklenmiyor!"
+
+msgid "Failed to get full profile information."
+msgstr "Profil hakkında tam bilgi alınamadı."
+
+msgid "Topics:"
+msgstr "Konular:"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Search query:"
+msgstr "Arama sorgusu:"
+
+msgid "Search Results"
+msgstr "arama sonuçları"
+
+msgid "Clear history"
+msgstr "Geçmişi temizle"
+
+msgid "From your chats"
+msgstr "Sohbetlerinizden"
+
+msgid "Global search"
+msgstr "Genel arama"
+
+msgid "No results"
+msgstr "Sonuç yok"
+
+msgid "An error has occurred"
+msgstr "Bir hata oluştu"
+
+msgid "Do you really want to clear search history?"
+msgstr "Arama geçmişini gerçekten temizlemek istiyor musunuz?"
 
 msgid "Seen"
 msgstr "Okundu"
@@ -1078,6 +896,9 @@ msgstr "Ülke:"
 msgid "Country"
 msgstr "Ülke"
 
+msgid "Log in by QR Code"
+msgstr "QR koduyla giriş yapın"
+
 msgid "Next"
 msgstr "Sonraki"
 
@@ -1087,20 +908,47 @@ msgstr "Doğrulama işlemini durdurmak istiyor musunuz?"
 msgid "Enter confirmation code"
 msgstr "Doğrulama kodunu girin"
 
-msgid "The code was sent to you via Telegram."
-msgstr "Kod size Telegram aracılığıyla gönderildi."
+#, python-brace-format
+msgid "The code was sent to you via Telegram to {number}."
+msgstr "Kod size Telegram aracılığıyla {number} numarasına  gönderildi."
 
-msgid "The code was sent to you via SMS."
-msgstr "Kod size SMS ile gönderildi."
+#, python-brace-format
+msgid "The code was sent to you via SMS to {number}."
+msgstr "Kod SMS ile {number} numaranıza gönderildi."
 
 msgid "Confirmation code:"
 msgstr "Doğrulama kodu:"
+
+msgid "Incorrect phone number?"
+msgstr "Yanlış telefon numarası mı?"
 
 msgid "Enter password"
 msgstr "Şifreyi girin"
 
 msgid "Password:"
 msgstr "Şifre:"
+
+msgid "Password hint:"
+msgstr "Parola ipucu:"
+
+msgid ""
+"\n"
+"Instruction:\n"
+"\t\t1: Open Telegram on your phone.\n"
+"\t\t2: Go to Settings > Devices > Link Desktop Device.\n"
+"\t\t3: Point your phone at this screen to confirm login.\n"
+"\t\t"
+msgstr ""
+"\n"
+"Talimat: \n"
+"\t\t1: Akıllı telefonunuzda Telegram'ı açın.\n"
+"\t\t2: Ayarlar > Cihazlar > Cihazı Bağla'ya gidin.\n"
+"\t\t3: Oturum açmayı onaylamak için akıllı telefonunuzu bu ekrana "
+"doğrultun.\n"
+"\t\t"
+
+msgid "Log in by phone number"
+msgstr "Telefon numarasıyla giriş yap"
 
 msgid "Registration"
 msgstr "Kayıt"
@@ -1128,73 +976,139 @@ msgstr "Doğrulama kodu Yanlış!"
 msgid "Incorrect password!"
 msgstr "Yanlış şifre!"
 
-msgid "Detailed view"
-msgstr "Detaylı görüntüleme"
+msgid "Detailed &view"
+msgstr "De&taylı görüntüle"
 
-msgid "Copy text"
-msgstr "Metni kopyala"
+msgid "&Copy text"
+msgstr "Metni &kopyala"
 
-msgid "Save in downloads"
-msgstr "İndirilenlere kaydet"
+msgid "&Save in downloads"
+msgstr "&İndirilenlere kaydet"
 
-msgid "Reply"
-msgstr "Yanıtla"
+msgid "Save fi&le as..."
+msgstr "Dosyayı &farklı kaydet…"
 
-msgid "Pin"
-msgstr "Sabitle"
+msgid "&Save VCard"
+msgstr "&vCard kaydet"
 
-msgid "Go to quoted message"
-msgstr "Alıntılanan mesaja git"
+msgid "Impor&t in to contacts"
+msgstr "Kişilere Aktar&"
 
-#, python-brace-format
-msgid "Comments: {count}"
-msgstr "Yorumlar: {count}"
+msgid "&Reply"
+msgstr "Ya&nıtla"
 
-msgid "Go to original message"
-msgstr "Orijinal mesaja git"
+msgid "&Pin"
+msgstr "Sa&bitle"
 
-msgid "Add to favorites"
-msgstr "Kayıtlı mesajlara ekle"
+msgid "Un&pin"
+msgstr "Sabitlemeyi Kald&ır"
 
-msgid "Forward"
-msgstr "İlet"
-
-msgid "Add reaction"
-msgstr "Tepki ekle"
+msgid "Go to &quoted message"
+msgstr "Alıntılanan Mesaja &Git"
 
 #, python-brace-format
-msgid "Remove reaction {r}"
-msgstr "Tepkiyi kaldır {r}"
+msgid "Co&mments: {count}"
+msgstr "Yo&rumlar: {count}"
 
-msgid "Open profile"
-msgstr "Profili aç"
+msgid "&Go to original message"
+msgstr "Orijinal Mesaja &Git"
 
-msgid "Open"
-msgstr "Aç"
+msgid "&Add to favorites"
+msgstr "Fa&vorilere ekle"
 
-msgid "Mark as read"
-msgstr "Okundu olarak işaretle"
+msgid "&Forward"
+msgstr "İ&let"
 
-msgid "Leave channel"
-msgstr "Kanaldan ayrıl"
+msgid "Copy lin&k"
+msgstr "Bağlantıyı Ko&pyala"
 
-msgid "Leave group"
-msgstr "Gruptan ayrıl"
+msgid "Add react&ion"
+msgstr "Tepki &Ekle"
 
-msgid "Clear history"
-msgstr "Geçmişi temizle"
+#, python-brace-format
+msgid "Remove reacti&on {r}"
+msgstr "{r} tepkisini Kaldı&r"
+
+msgid "Open the &user profile"
+msgstr "Kullanıcı Profilini &Aç"
+
+msgid "&Edit message"
+msgstr "Mesajı &Düzenle"
+
+msgid "&Delete"
+msgstr "&Sil"
+
+msgid "&Open"
+msgstr "&Aç"
+
+msgid "Mark as &read"
+msgstr "&Okundu Olarak İşaretle"
+
+msgid "&View as messages"
+msgstr "&Mesajlara Göre Görüntüle"
+
+msgid "&View as topics"
+msgstr "Konular olarak &Görüntüle"
+
+msgid "Move to &archive"
+msgstr "Arşive Ta&şı"
+
+msgid "Un&archive"
+msgstr "Arşivden Çıka&k"
+
+msgid "A&bout user"
+msgstr "Kullanıcı Hakkında &Bilgi"
+
+msgid "A&bout the channel"
+msgstr "Kanal Hakkında &H"
+
+msgid "&Leave channel"
+msgstr "Kanaldan &Çık"
+
+msgid "&Leave group"
+msgstr "Gruptan a&yırıl"
+
+msgid "&Clear history"
+msgstr "Geçmişi &Temizle"
 
 msgid "Are you sure you want to leave this channel?"
 msgstr "Kanaldan ayrılmak istediğinizden emin misiniz?"
 
+msgid "Leave channel"
+msgstr "Kanaldan ayrıl"
+
 msgid "Are you sure you want to leave this group?"
 msgstr "Gruptan ayrılmak istediğinizden emin misiniz?"
 
-msgid "Show window"
-msgstr "Pencereyi göster"
+msgid "Leave group"
+msgstr "Gruptan ayrıl"
 
-msgid "Exit"
-msgstr "Çıkış"
+msgid "&Show window"
+msgstr "Pencereyi &Göster"
+
+msgid "E&xit"
+msgstr "&Çıkış"
+
+msgid "&All chats"
+msgstr "&Tüm Sohbetler"
+
+#, python-brace-format
+msgid "{title}: {count} unread chat"
+msgid_plural "{title}: {count} unread chats"
+msgstr[0] "{title}: {count} okunmamış sohbet"
+msgstr[1] "{title}: {count} okunmamış sohbetler"
+
+msgid "Open &chat"
+msgstr "&Sohbeti aç"
+
+msgid "Contact &information"
+msgstr "Kişi &Bilgileri"
+
+msgid "Delete from Favorites"
+msgstr "Favorilerden Sil"
+
+msgid "Add to Favorites"
+msgstr "Favorilere Ekle"
 
 msgid "You"
 msgstr "Siz"
@@ -1250,9 +1164,18 @@ msgstr "Gif {caption}"
 msgid "The user is now in telegram."
 msgstr "Kullanıcı artık Telegram'da."
 
+msgid "Channel created."
+msgstr "Kanal oluşturuldu."
+
 #. TRANSLATORS: This is the text of the message when the user creates a group.
 msgid "Group created"
 msgstr "Grup oluşturuldu"
+
+msgid "Channel photo updated"
+msgstr "Kanal fotoğrafı güncellendi"
+
+msgid "Group photo updated"
+msgstr "Grup fotoğrafı güncellendi"
 
 msgid "This group has become a supergroup."
 msgstr "Grup süper gruba yükseltildi"
@@ -1295,14 +1218,18 @@ msgstr "gruptan ayrıldı"
 msgid "removed {user}"
 msgstr "{user} kaldırıldı"
 
-#. try:
-#. sender = storage.users.get(message.sender.id)
-#. senderName = _("Deleted user") if sender.type == objects.type_user_deleted else sender.firstAndLast
-#. except storage.NoItemError:
-#. chat = storage.chats.get(message.chatId)
-#. senderName = chat.title
 msgid "joined the group via invite link"
 msgstr "Davet bağlantısıyla gruba katıldı"
+
+msgid "was accepted into the group"
+msgstr "Gruba kabul edildi"
+
+#, python-brace-format
+msgid "Contact: {name}"
+msgstr "Kişi: {name}"
+
+msgid "Location"
+msgstr "Konum"
 
 msgid "Pinned message"
 msgstr "Mesajı sabitledi"
@@ -1321,6 +1248,12 @@ msgstr "Görüntülü Mesaj  {h}:{m}:{s}"
 
 msgid "Expired voice message"
 msgstr "Süresi dolmuş sesli mesaj"
+
+msgid "Closed the topic."
+msgstr "Konuyu kapattı"
+
+msgid "Opened the topic."
+msgstr "Konuyu açtı."
 
 msgid "Unsupported message type"
 msgstr "Desteklenmeyen mesaj türü"
@@ -1364,6 +1297,166 @@ msgid "I don't know what to call such a big size!"
 msgstr "Bu kadar büyük bir boyuta ne diyeceğimi bilmiyorum!"
 
 #, python-brace-format
+msgid "Scheduled at {time}"
+msgstr "{time} planlandı"
+
+#, python-brace-format
+msgid "Scheduled {date} at {time}"
+msgstr "Planlandı {date} {time} "
+
+msgid "Send when online."
+msgstr "Çevrimiçi olduğunda gönder."
+
+#, python-brace-format
+msgid "Sent at {time}"
+msgstr "Gönderildi {time}"
+
+#, python-brace-format
+msgid "Sent {date} at {time}"
+msgstr "Gönderildi {date} {time}"
+
+#, python-brace-format
+msgid "Sending... at {time}"
+msgstr "Gönderme... {time}"
+
+#, python-brace-format
+msgid "Sending... {date} at {time}"
+msgstr "Gönderme... {date} {time}"
+
+#, python-brace-format
+msgid "Sending failed. at {time}"
+msgstr "Gönderme hatası. {time}"
+
+#, python-brace-format
+msgid "Sending failed. {date} at {time}"
+msgstr "Gönderme hatası. {date}  {time}"
+
+#, python-brace-format
+msgid "Received at {time}"
+msgstr "Alındı {time}"
+
+#, python-brace-format
+msgid "Received {date} at {time}"
+msgstr "Alındı {date} {time}"
+
+#, python-brace-format
+msgid "Custom emoji: {c}"
+msgstr "Özel emoji: {c}”"
+
+#, python-brace-format
+msgid "Reaction paid: {c}"
+msgstr "Ücretli tepki: {c}"
+
+#, python-brace-format
+msgid "Unknown reaction: {c}"
+msgstr "Bilinmeyen tepki: {c}"
+
+#, python-brace-format
+msgid "Reactions: {reactions}"
+msgstr "Tepkiler : {reactions}"
+
+#, python-brace-format
+msgid "Changed at {time}"
+msgstr "Değiştirildi: {time}"
+
+#, python-brace-format
+msgid "Changed {date} at {time}"
+msgstr "{date} {time}’de değiştirildi"
+
+msgid "Storage settings"
+msgstr "Depolama ayarları"
+
+msgid "Never"
+msgstr "Asla"
+
+msgid "1 day"
+msgstr "1 gün"
+
+msgid "1 week"
+msgstr "1 hafta"
+
+msgid "1 month"
+msgstr "1 aylık"
+
+msgid "1 year"
+msgstr "1 yıl"
+
+msgid "No limit"
+msgstr "Sınır yok"
+
+msgid "100 MB"
+msgstr "100 MB"
+
+msgid "200 MB"
+msgstr "200 MB"
+
+msgid "500 MB"
+msgstr "500 MB"
+
+msgid "1 GB"
+msgstr "1 GB"
+
+msgid "2 GB"
+msgstr "2 GB"
+
+msgid "5 GB"
+msgstr "5 GB"
+
+msgid "10 GB"
+msgstr "10 GB"
+
+msgid "20 GB"
+msgstr "20 GB"
+
+msgid "50 GB"
+msgstr "50 GB"
+
+msgid "Auto-remove cached media"
+msgstr "Önbelleğe alınan medyayı otomatik sil"
+
+msgid ""
+"Photos, videos and other files from cloud chats that you have not accessed "
+"during this period will be removed from this device to save disk space."
+msgstr ""
+"Bu süre içinde erişmediğiniz sohbetlerdeki fotoğraf, video ve diğer "
+"dosyalar, disk alanını korumak için bu cihazdan otomatik olarak "
+"kaldırılacaktır."
+
+msgid "Personal chats: unknown"
+msgstr "Kişisel sohbetler: bilinmiyor"
+
+msgid "Groups: unknown"
+msgstr "Gruplar: bilinmiyor"
+
+msgid "Channels: unknown"
+msgstr "Kanallar: bilinmiyor"
+
+msgid "Maximum cache size"
+msgstr "Maksimum önbellek boyutu"
+
+msgid ""
+"If your cache size exceeds this limit, the oldest unused media will be "
+"removed from the device."
+msgstr ""
+"Önbellek boyutunuz bu sınırı aşarsa, kullanılmayan en eski medya cihazdan "
+"kaldırılır."
+
+msgid "Apply"
+msgstr "Uygula"
+
+#, python-brace-format
+msgid "Personal chats: {time}"
+msgstr "Kişisel sohbetler: {time}"
+
+#, python-brace-format
+msgid "Groups: {time}"
+msgstr "Gruplar: {time}"
+
+#, python-brace-format
+msgid "Channels: {time}"
+msgstr "Kanallar: {time}"
+
+#, python-brace-format
 msgid "{program} preferences"
 msgstr "ayarlar {program}"
 
@@ -1388,11 +1481,11 @@ msgstr "Kapanmadan önce onay"
 msgid "Show sender in system tray"
 msgstr "Göndereni sistem tepsisinde göster"
 
-msgid "Close chats by pressing the ESCAPE key"
-msgstr "ESCAPE tuşuna basarak sohbetleri kapat"
+msgid "Close windows by pressing the ESCAPE key"
+msgstr "ESCAPE tuşuna basarak pencereleri kapatın"
 
-msgid "Play event sounds"
-msgstr "Etkinlik seslerini çal"
+msgid "Show the window after complit download"
+msgstr "İndirme işlemi tamamlandıktan sonra pencereyi göster"
 
 msgid "Downloads"
 msgstr "İndirilenler"
@@ -1428,6 +1521,39 @@ msgstr "Başlangıçta günlüğü temizle\\"
 msgid "Log rotation"
 msgstr "Günlük döndürme"
 
+msgid "View settings"
+msgstr "Görünüm ayarları"
+
+msgid "Chat list"
+msgstr "Sohbet listesi"
+
+msgid "Show time after message text"
+msgstr "Mesaj metninden sonra zamanı göster"
+
+msgid "Mark chats without notifications"
+msgstr "Bildirim almayan sohbetleri işaretle"
+
+msgid "Behavior settings"
+msgstr "Davranış ayarları"
+
+msgid "Chat window"
+msgstr "Sohbet penceresi"
+
+msgid "Break up long messages"
+msgstr "Uzun mesajları böl"
+
+msgid "Keyboard settings"
+msgstr "Klavye ayarları"
+
+msgid "Multimedia keys"
+msgstr "Multimedya tuşları"
+
+msgid "Handle multimedia keys"
+msgstr "Multimedya tuşlarını kullanma"
+
+msgid "Multimedia keys:"
+msgstr "Multimedya tuşları:"
+
 msgid "chats settings"
 msgstr "sohbet ayarları"
 
@@ -1454,6 +1580,9 @@ msgstr "\"Mesaj zamanlandı\" iletişim kutusunu gösterme"
 
 msgid "Use new search style in chat and message lists"
 msgstr "Sohbet ve mesaj listelerinde yeni arama stilini kullanın"
+
+msgid "Trim long messages (1 - 4096 characters, 0 - do not trim):"
+msgstr "Uzun mesajları kısalt (1 - 4096 karakter, 0 - kısaltma):"
 
 #. TRANSLATORS: this is an option when selecting the quality of voice messages.
 msgid "Auto (optimal: approximately 550 kB/Min)"
@@ -1497,6 +1626,45 @@ msgstr "Ses"
 msgid "Video messages"
 msgstr "Video"
 
+msgid "Sound scheme settings"
+msgstr "Ses teması ayarları"
+
+msgid "Play the sounds of events"
+msgstr "Olayların seslerini çal"
+
+msgid "Events:"
+msgstr "Olaylar:"
+
+msgid "New incoming message in open chat "
+msgstr "Açık sohbette yeni gelen mesaj"
+
+msgid "New outgoing message in open chat"
+msgstr "Açık sohbette yeni giden mesaj"
+
+msgid "New unread message"
+msgstr "Yeni okunmamış mesaj"
+
+msgid "Record"
+msgstr "Kayıt"
+
+msgid "Chat action"
+msgstr "Sohbet işlemi"
+
+msgid "Download is completed"
+msgstr "İndirme işlemi tamamlandı"
+
+msgid "Select sound:"
+msgstr "Sesi seçin:"
+
+msgid "Play this sound"
+msgstr "Sesi çal"
+
+msgid "Add new sound..."
+msgstr "Yeni ses ekleyin..."
+
+msgid "Delete sound"
+msgstr "Sesi sil"
+
 msgid "Speech settings"
 msgstr "Konuşma ayarları"
 
@@ -1527,9 +1695,6 @@ msgstr "Her zaman"
 
 msgid "In the foreground"
 msgstr "Ön planda"
-
-msgid "Never"
-msgstr "Asla"
 
 msgid "Network Status Changes:"
 msgstr "Ağ Durumu Değişiklikleri:"
@@ -1567,14 +1732,49 @@ msgstr "İstatistik:"
 msgid "Name"
 msgstr "Ad"
 
-msgid "Clear storage"
-msgstr "Depolamayı temizle"
+msgid "Clear cache"
+msgstr "Önbelleği temizle"
+
+msgid "Delete all cloud drafts..."
+msgstr "Buluttaki tüm taslakları sil..."
+
+msgid "Troubleshooting"
+msgstr "Sorun giderme"
+
+msgid "Use streaming audio encoding when recording"
+msgstr "Kaydederken akış ses kodlamasını kullan"
+
+msgid "Audio input latency (ms):"
+msgstr "Ses girişi gecikmesi (ms):"
+
+msgid ""
+"Disable record optimization (reduces RAM usage, but requires more free space "
+"on the system drive to store temporary files)"
+msgstr ""
+"Kayıt optimizasyonunu devre dışı bırak\n"
+"(RAM kullanımını azaltır, ancak geçici dosyaları depolamak için sistem "
+"sürücüsünde daha fazla boş alan gerektirir)"
+
+msgid "Keep the cursor position in the chat list"
+msgstr "Sohbet listesindeki odak konumunu koru"
 
 msgid "General"
 msgstr "Genel"
 
+msgid "View"
+msgstr "Görünüm"
+
+msgid "Behavior"
+msgstr "Davranış"
+
+msgid "Keyboard"
+msgstr "Klavye"
+
 msgid "Chats"
 msgstr "Sohbetler"
+
+msgid "Sounds"
+msgstr "Sesler"
 
 msgid "Speech"
 msgstr "Konuşma"
@@ -1585,8 +1785,42 @@ msgstr "Cihazlar"
 msgid "Storage"
 msgstr "Depolama"
 
-msgid "Apply"
-msgstr "Uygula"
+msgid ""
+"Are you sure you want to delete all cloud drafts? This action cannot be "
+"undone!"
+msgstr ""
+"Buluttaki tüm taslakları gerçekten silmek istiyor musunuz? Bu işlem geri "
+"alınamaz!"
+
+msgid "Warning"
+msgstr "Uyarı"
+
+msgid "All cloud drafts have been successfully deleted."
+msgstr "Buluttaki tüm taslaklar başarıyla silindi."
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "An error occurred while deleting cloud drafts."
+msgstr "Taslaklar buluttan silinirken bir hata oluştu."
+
+msgid "Sound files"
+msgstr "Ses dosyaları"
+
+#, python-brace-format
+msgid "A file with this name already exists: {name}"
+msgstr "Bu isimde bir dosya zaten var: {name}"
+
+msgid ""
+"Be Careful! The enable of this option can lead to unstable operation of the "
+"application and various errors. Do you really want to turn on this parameter?"
+msgstr ""
+"Dikkatli Olun! Bu seçeneğin etkinleştirilmesi uygulamanın kararsız "
+"çalışmasına ve çeşitli hatalara yol açabilir. Bu parametreyi gerçekten "
+"etkinleştirmek istiyor musunuz?"
+
+msgid "Warning!"
+msgstr "Uyarı!"
 
 #, python-brace-format
 msgid "Disk usage: {size}, {count} file"
@@ -1596,17 +1830,22 @@ msgstr[1] "Disk kullanımı {size}, {count} dosyalar"
 
 msgid ""
 "Are you sure you want to clear storage? After this, all local copies of "
-"files from the cache will be deleted. This action cannot be undone!"
+"files from the cache will be deleted. Your search queries will also be "
+"cleared. This action cannot be undone!"
 msgstr ""
-"Depolama alanıını temizlemek istediğinizden emin misiniz? Bundan sonra, "
-"dosyaların önbellekteki tüm yerel kopyaları silinecektir. Bu işlem geri "
-"alınamaz!"
+"Depolamayı temizlemek istediğinizden emin misiniz?  Bundan sonra, "
+"önbellekteki dosyaların tüm yerel kopyaları silinecek.  Arama sorgularınız "
+"da silinecek.  Bu işlem geri alınamaz! "
 
-msgid "Warning"
-msgstr "Uyarı"
+msgid ""
+"To apply some settings, it is required to reboot Easygram. Do you want to "
+"reboot Easygram right now?"
+msgstr ""
+"Bazı ayarların uygulanabilmesi için Easygram’ın yeniden başlatılması "
+"gerekir. Easygram’ı şimdi yeniden başlatmak ister misiniz?"
 
-msgid "Restart the application to apply the new language settings."
-msgstr "Yeni dil ayarlarını uygulamak için uygulamayı yeniden başlatın."
+msgid "Restart is required"
+msgstr "Yeniden başlatma gerekli"
 
 #, python-brace-format
 msgid "{name} (channel)"
@@ -1627,6 +1866,9 @@ msgstr "{title} (çevrimiçi)"
 msgid "(pinned)"
 msgstr "(sabitlendi)"
 
+msgid "Muted"
+msgstr "Sessiz"
+
 #, python-brace-format
 msgid "{count} unread message"
 msgid_plural "{count} unread messages"
@@ -1644,6 +1886,9 @@ msgid_plural "New reactions"
 msgstr[0] "Yeni tepki"
 msgstr[1] "Yeni tepkiler"
 
+msgid "A choice of topic is available"
+msgstr "Konu seçimi mevcuttur"
+
 msgid "Music"
 msgstr "Müzik"
 
@@ -1659,11 +1904,58 @@ msgstr "Animasyon"
 msgid "Document"
 msgstr "Belge"
 
+msgid "(General topic)"
+msgstr "(Ana konu)"
+
+msgid "Closed"
+msgstr "Kapalı"
+
+#, python-brace-format
+msgid "{name} (@{username}) (channel)"
+msgstr "{name} (@{username}) (kanal)"
+
+#, python-brace-format
+msgid "{name} (@{username}) (group)"
+msgstr "{name} (@{username}) grup"
+
+#, python-brace-format
+msgid "{name} (@{username}) (bot)"
+msgstr "{name} (@{username}) (bot)"
+
+#, python-brace-format
+msgid "{title} (@{username}) (online)"
+msgstr "{title} (@{username}) (Çevrimiçi)"
+
+#, python-brace-format
+msgid "{title} (@{username})"
+msgstr "{title} (@{username})"
+
+#, python-brace-format
+msgid "{count} subscriber"
+msgid_plural "{count} subscribers"
+msgstr[0] "{count} abone"
+msgstr[1] "{count} abone "
+
+#, python-brace-format
+msgid "{count} member"
+msgid_plural "{count} members"
+msgstr[0] "{count} üye"
+msgstr[1] "{count} üye"
+
 msgid "Offline"
 msgstr "Çevrimdışı"
 
+msgid "All chats"
+msgstr "Tüm sohbetler"
+
 msgid "Loading chats..."
 msgstr "Sohbetler yükleniyor..."
+
+msgid "Archive"
+msgstr "Arşiv"
+
+msgid "Mark all chats as read"
+msgstr "Tüm sohbetleri okundu olarak işaretle"
 
 #, python-brace-format
 msgid "Chats ({0})"
@@ -1679,8 +1971,18 @@ msgstr "Kişiler ({0})"
 msgid "Preferences"
 msgstr "Ayarlar"
 
-msgid "Your chats"
-msgstr "Sohbetleriniz"
+#, python-brace-format
+msgid "Archive: {count} unread chat"
+msgid_plural "Archive: {count} unread chats"
+msgstr[0] "Arşiv: {count} okunmamış sohbet."
+msgstr[1] "Arşiv: {count} okunmamış sohbetler."
+
+#, python-brace-format
+msgid "Do you really want to delete this \"{name}\" contact?"
+msgstr "\"{name}\" kişisini gerçekten silmek istiyor musunuz?"
+
+msgid "Archived chats"
+msgstr "Arşivlenmiş sohbetler"
 
 msgid "Are you sure you want to close application?"
 msgstr "Uygulamayı kapatmak istediğinize emin misiniz?"
@@ -1700,6 +2002,9 @@ msgstr "Yanlış şifre!"
 msgid "Authorisation Error"
 msgstr "Yetkilendirme Hatası"
 
+msgid "Do you really want to mark all the chats on this list as read?"
+msgstr "Bu listedeki tüm sohbetleri okundu olarak işaretlemek istiyor musunuz?"
+
 msgid "Updating..."
 msgstr "Güncelleme..."
 
@@ -1716,6 +2021,12 @@ msgstr "{title} 'dan yeni bir mesajınız var"
 
 msgid "You have a new message"
 msgstr "Yeni bir mesajınız var"
+
+msgid "Disabled"
+msgstr "Kapalı"
+
+msgid "Equalizer"
+msgstr "Ekolayzır"
 
 #, python-brace-format
 msgid "Time: {t}/{l}"
@@ -1757,44 +2068,18 @@ msgstr "Hiçbir şey oynatılmıyor"
 msgid "Volume {v}"
 msgstr "Ses seviyesi {v}"
 
+msgid "Sound unmuted"
+msgstr "Ses açık"
+
+msgid "Sound muted"
+msgstr "Ses kapalı"
+
 #, python-brace-format
 msgid "Playback rate {rate}"
 msgstr "Oynatma hızı  {rate}"
 
 msgid "Default playback device"
 msgstr "Varsayılan oynatma cihazı"
-
-#, python-brace-format
-msgid "Scheduled at {time}"
-msgstr "{time} planlandı"
-
-#, python-brace-format
-msgid "Scheduled {date} at {time}"
-msgstr "Planlandı {date} {time} "
-
-#, python-brace-format
-msgid "Sent at {time}"
-msgstr "Gönderildi {time}"
-
-#, python-brace-format
-msgid "Sent {date} at {time}"
-msgstr "Gönderildi {date} {time}"
-
-#, python-brace-format
-msgid "Sending... at {time}"
-msgstr "Gönderme... {time}"
-
-#, python-brace-format
-msgid "Sending... {date} at {time}"
-msgstr "Gönderme... {date} {time}"
-
-#, python-brace-format
-msgid "Received at {time}"
-msgstr "Alındı {time}"
-
-#, python-brace-format
-msgid "Received {date} at {time}"
-msgstr "Alındı {date} {time}"
 
 msgid "Outgoing"
 msgstr "Giden"
@@ -1816,6 +2101,647 @@ msgstr "görüntülü arama"
 
 msgid "audio call"
 msgstr "sesli arama"
+
+msgid "Action"
+msgstr "İşlem"
+
+msgid "Foreground message"
+msgstr "Ön plandaki mesaj"
+
+msgid "Background message"
+msgstr "Arka plandaki mesaj"
+
+msgid "Operation completed"
+msgstr "İşlem tamamlandı"
+
+msgid "Background message classic"
+msgstr "Klasik arka plan mesajı"
+
+msgid "Message notification telegram"
+msgstr "Telegram mesaj bildirimi"
+
+msgid "Incoming message telegram"
+msgstr "Telegram gelen mesaj "
+
+msgid "Outgoing message telegram"
+msgstr "Telegram giden mesaj"
+
+msgid "Outgoing message"
+msgstr "Giden mesaj"
+
+#, python-brace-format
+msgid "{sound} (builtin)"
+msgstr "{sound} (yerleşik)"
+
+#, python-brace-format
+msgid "{sound} (user)"
+msgstr "{sound} (kullanıcı tanımlı)"
+
+#~ msgid "Slightly smiling face"
+#~ msgstr "Hafif güler yüz"
+
+#~ msgid "Smiling face"
+#~ msgstr "Gülen yüz"
+
+#~ msgid "Grinning face"
+#~ msgstr "Sırıtan yüz"
+
+#~ msgid "Smiling face with smiling eyes"
+#~ msgstr "Gülümseyen gözlerle güler yüz"
+
+#~ msgid "Smiling face with halo"
+#~ msgstr "Işık halkalı gülümseme"
+
+#~ msgid "Grinning face with big eyes"
+#~ msgstr "Ağzı açık gülümseyen yüz"
+
+#~ msgid "Grinning face with smiling eyes"
+#~ msgstr "Gülümseyen gözlerle sırıtan yüz"
+
+#~ msgid "Grinning squinting face"
+#~ msgstr "Kapalı gözlerle ağzı açık sırıtma"
+
+#~ msgid "Grinning face with sweat"
+#~ msgstr "Soğuk terli ağzı açık gülümseme"
+
+#~ msgid "Rolling on the floor laughing"
+#~ msgstr "Gülmekten yerlere yatan yüz"
+
+#~ msgid "Face with tears of joy"
+#~ msgstr "Sevinç gözyaşları"
+
+#~ msgid "Beaming face with smiling eyes"
+#~ msgstr "Gülen gözlerle sırıtma"
+
+#~ msgid "Smiling face with horns"
+#~ msgstr "boynuzlu gülen yüz"
+
+#~ msgid "Angry face with horns"
+#~ msgstr "boynuzlu kızgın yüz"
+
+#~ msgid "Upside-down face"
+#~ msgstr "Ters döndürülmüş yüz"
+
+#~ msgid "Melting face"
+#~ msgstr "eriyen yüz"
+
+#~ msgid "Winking face"
+#~ msgstr "Göz kırpan yüz"
+
+#~ msgid "Winking face with tongue"
+#~ msgstr "Ağzı açık göz kırpan yüz"
+
+#~ msgid "Smiling face with open hands"
+#~ msgstr "Kucaklayarak gülümseme"
+
+#~ msgid "Smiling face with hearts"
+#~ msgstr "3 kalpli gülümseyen yüz"
+
+#~ msgid "Smiling face with heart-eyes"
+#~ msgstr "kalp gözlü gülümseme"
+
+#~ msgid "Star-struck"
+#~ msgstr "yıldız çarpmış"
+
+#~ msgid "Face blowing a kiss"
+#~ msgstr "öpücük gönderen yüz"
+
+#~ msgid "Kissing face"
+#~ msgstr "öpen yüz"
+
+#~ msgid "Kissing face with closed eyes"
+#~ msgstr "Kapalı gözlerle öpen yüz"
+
+#~ msgid "Kissing face with smiling eyes"
+#~ msgstr "gülen gözlerle öpen yüz"
+
+#~ msgid "Smiling face with tear"
+#~ msgstr "gözü yaşlı gülümseyen yüz"
+
+#~ msgid "Face savoring food"
+#~ msgstr "lezzetli yiyecek beğenen yüz"
+
+#~ msgid "Face with tongue"
+#~ msgstr "dil dışarıda"
+
+#~ msgid "Face with hand over mouth"
+#~ msgstr "eliyle ağzını kapatan yüz"
+
+#~ msgid "Face with open eyes and hand over mouth"
+#~ msgstr "gözleri açık ve eliyle ağzını kapatan yüz"
+
+#~ msgid "Zany face"
+#~ msgstr "çılgın surat"
+
+#~ msgid "Squinting face with tongue"
+#~ msgstr "dil dışarıda ve gözler kapalı"
+
+#~ msgid "Money-mouth face"
+#~ msgstr "para ağızlı yüz"
+
+#~ msgid "Face with peeking eye"
+#~ msgstr "gizlice bakan yüz"
+
+#~ msgid "Shushing face"
+#~ msgstr "sus işareti yapan yüz"
+
+#~ msgid "Thinking face"
+#~ msgstr "düşünen yüz"
+
+#~ msgid "Saluting face"
+#~ msgstr "selamlayan yüz"
+
+#~ msgid "Zipper-mouth face"
+#~ msgstr "ağzı fermuarlı yüz"
+
+#~ msgid "Face with raised eyebrow"
+#~ msgstr "tek kaşı çatık yüz"
+
+#~ msgid "Neutral face"
+#~ msgstr "duygusuz yüz"
+
+#~ msgid "Expressionless face"
+#~ msgstr "ifadesiz yüz"
+
+#~ msgid "Face without mouth"
+#~ msgstr "ağzı olmayan yüz"
+
+#~ msgid "Dotted line face"
+#~ msgstr "noktalı çizgili yüz"
+
+#~ msgid "Face in clouds"
+#~ msgstr "bulutlardaki yüz"
+
+#~ msgid "Smirking face"
+#~ msgstr "imalı gülümseme"
+
+#~ msgid "unamused face"
+#~ msgstr "Eğlencesiz yüz"
+
+#~ msgid "Face with rolling eyes"
+#~ msgstr "gözlerini deviren yüz"
+
+#~ msgid "Grimacing face"
+#~ msgstr "dişlerini gösteren yüz"
+
+#~ msgid "Face exhaling"
+#~ msgstr "nefes veren yüz"
+
+#~ msgid "Lying face"
+#~ msgstr "yalan söyleyen yüz"
+
+#~ msgid "Shaking face"
+#~ msgstr "sallanan yüz"
+
+#~ msgid "Relieved face"
+#~ msgstr "rahatlamış yüz"
+
+#~ msgid "Pensive face"
+#~ msgstr "düşünceli yüz"
+
+#~ msgid "Sleepy face"
+#~ msgstr "uykulu yüz"
+
+#~ msgid "Drooling face"
+#~ msgstr "salya akıtan yüz"
+
+#~ msgid "Sleeping face"
+#~ msgstr "uyuyan yüz"
+
+#~ msgid "Face with medical mask"
+#~ msgstr "maskeli yüz"
+
+#~ msgid "Face with thermometer"
+#~ msgstr "ağzında termometre olan yüz"
+
+#~ msgid "Face with head-bandage"
+#~ msgstr "kafası sarılı yüz"
+
+#~ msgid "Nauseated face"
+#~ msgstr "Kusmak üzere olan yüz"
+
+#~ msgid "Face vomiting"
+#~ msgstr "Kusan yüz"
+
+#~ msgid "Sneezing face"
+#~ msgstr "Hapşıran yüz"
+
+#~ msgid "Hot face"
+#~ msgstr "Kızarmış yüz"
+
+#~ msgid "Cold face"
+#~ msgstr "Üşümüş yüz"
+
+#~ msgid "Woozy face"
+#~ msgstr "Sarhoş yüz"
+
+#~ msgid "Face with crossed-out eyes"
+#~ msgstr "Sersemlemiş yüz"
+
+#~ msgid "Face with spiral eyes"
+#~ msgstr "sarmal gözlü yüz"
+
+#~ msgid "Exploding head"
+#~ msgstr "patlayan kafa"
+
+#~ msgid "Cowboy hat face"
+#~ msgstr "kovboy şapkalı yüz"
+
+#~ msgid "Partying face"
+#~ msgstr "partide eğlenen yüz"
+
+#~ msgid "Smiling face with sunglasses"
+#~ msgstr "güneş gözlüklü gülümseme"
+
+#~ msgid "Nerd face"
+#~ msgstr "ukala yüz"
+
+#~ msgid "Face with monocle"
+#~ msgstr "tek cam gözlüklü yüz"
+
+#~ msgid "Confused face"
+#~ msgstr "kafası karışık yüz"
+
+#~ msgid "Face with diagonal mouth"
+#~ msgstr "yamuk ağızlı yüz"
+
+#~ msgid "Worried face"
+#~ msgstr "endişeli yüz"
+
+#~ msgid "Slightly frowning face"
+#~ msgstr "biraz asık surat"
+
+#~ msgid "Frowning face"
+#~ msgstr "asık surat"
+
+#~ msgid "Face with open mouth"
+#~ msgstr "ağzı açık yüz"
+
+#~ msgid "Hushed face"
+#~ msgstr "şaşkın yüz"
+
+#~ msgid "Astonished face"
+#~ msgstr "afallamış yüz"
+
+#~ msgid "Flushed face"
+#~ msgstr "kızarmış ve şaşkın yüz"
+
+#~ msgid "Pleading face"
+#~ msgstr "yalvaran yüz"
+
+#~ msgid "Face holding back tears"
+#~ msgstr "gözleri dolmuş yüz"
+
+#~ msgid "Frowning face with open mouth"
+#~ msgstr "hoşnutsuz yüz"
+
+#~ msgid "Anguished face"
+#~ msgstr "kederli yüz"
+
+#~ msgid "Fearful face"
+#~ msgstr "korkulu yüz"
+
+#~ msgid "Anxious face with sweat"
+#~ msgstr "terli ve endişeli yüz"
+
+#~ msgid "Sad but relieved face"
+#~ msgstr "üzgün ama rahatlamış yüz"
+
+#~ msgid "Crying face"
+#~ msgstr "ağlayan yüz"
+
+#~ msgid "Loudly crying face"
+#~ msgstr "avaz ağlayan yüz"
+
+#~ msgid "Face screaming in fear"
+#~ msgstr "korkuyla çığlık atan yüz"
+
+#~ msgid "Confounded face"
+#~ msgstr "kafası çok karışık yüz"
+
+#~ msgid "Persevering face"
+#~ msgstr "kararlı yüz"
+
+#~ msgid "Disappointed face"
+#~ msgstr "memnuniyetsiz yüz"
+
+#~ msgid "Downcast face with sweat"
+#~ msgstr "soğuk ter"
+
+#~ msgid "Weary face"
+#~ msgstr "çok yorgun"
+
+#~ msgid "Tired face"
+#~ msgstr "yorgun yüz"
+
+#~ msgid "Yawning face"
+#~ msgstr "Esneyen yüz"
+
+#~ msgid "Enraged face"
+#~ msgstr "somurtkan yüz"
+
+#~ msgid "Angry face"
+#~ msgstr "öfkeli yüz"
+
+#~ msgid "Face with symbols on mouth"
+#~ msgstr "ağzında semboller olan yüz"
+
+#~ msgid "Skull"
+#~ msgstr "kafatası"
+
+#~ msgid "Skull and crossbones"
+#~ msgstr "kuru kafa"
+
+#~ msgid "Pile of poo"
+#~ msgstr "Kaka"
+
+#~ msgid "Clown face"
+#~ msgstr "Palyaço yüzü"
+
+#~ msgid "Ogre"
+#~ msgstr "Dev"
+
+#~ msgid "Goblin"
+#~ msgstr "Goblin"
+
+#~ msgid "Ghost"
+#~ msgstr "Hayalet"
+
+#~ msgid "Alien"
+#~ msgstr "Uzaylı"
+
+#~ msgid "Alien monster"
+#~ msgstr "Uzaylı canavar"
+
+#~ msgid "Robot"
+#~ msgstr "Robot"
+
+#~ msgid "Grinning cat"
+#~ msgstr "sırıtan kedi"
+
+#~ msgid "Grinning cat with smiling eyes"
+#~ msgstr "gülen gözlerle sırıtan kedi"
+
+#~ msgid "Cat with tears of joy"
+#~ msgstr "sevinç gözyaşları döken kedi"
+
+#~ msgid "Smiling cat with heart-eyes"
+#~ msgstr "kalp gözlü gülümseyen kedi"
+
+#~ msgid "Cat with wry smile"
+#~ msgstr "iğneleyici kedi yüzü"
+
+#~ msgid "Kissing cat"
+#~ msgstr "öpen kedi"
+
+#~ msgid "Weary cat"
+#~ msgstr "korkuyla bağıran kedi"
+
+#~ msgid "Crying cat"
+#~ msgstr "ağlayan kedi"
+
+#~ msgid "Pouting cat"
+#~ msgstr "somurtan kedi"
+
+#~ msgid "Thumbs up"
+#~ msgstr "Başparmak yukarı"
+
+#~ msgid "Thumbs down"
+#~ msgstr "Başparmak aşağı\\"
+
+#~ msgid "Clapping hands"
+#~ msgstr "el çırpma"
+
+#~ msgid "Raising hands"
+#~ msgstr "eller havaya"
+
+#~ msgid "Waving hand"
+#~ msgstr "el sallama"
+
+#~ msgid "OK hand"
+#~ msgstr "tamam işareti"
+
+#~ msgid "Pinching hand"
+#~ msgstr "kıstırma hareketi yapan el"
+
+#~ msgid "Victory hand"
+#~ msgstr "zafer işareti"
+
+#~ msgid "Love-you gesture"
+#~ msgstr "seni seviyorum işareti"
+
+#~ msgid "Sign of the horns"
+#~ msgstr "boynuz işareti"
+
+#~ msgid "Call me hand"
+#~ msgstr "beni ara işareti"
+
+#~ msgid "Middle finger"
+#~ msgstr "orta parmak"
+
+#~ msgid "Heart hands"
+#~ msgstr "kalp oluşturan eller"
+
+#~ msgid "Notebook with decorative cover"
+#~ msgstr "Süslü not defteri"
+
+#~ msgid "Closed book"
+#~ msgstr "Kapalı kitap"
+
+#~ msgid "Open book"
+#~ msgstr "Açık kitap"
+
+#~ msgid "Green book"
+#~ msgstr "Yeşil kitap"
+
+#~ msgid "Blue book"
+#~ msgstr "Mavi kitap"
+
+#~ msgid "Orange book"
+#~ msgstr "Turuncu kitap"
+
+#~ msgid "Books"
+#~ msgstr "Kitaplar"
+
+#~ msgid "Notebook"
+#~ msgstr "Not defteri"
+
+#~ msgid "Ledger"
+#~ msgstr "Resmi defter"
+
+#~ msgid "Page with curl"
+#~ msgstr "Kıvrık sayfa"
+
+#~ msgid "Scroll"
+#~ msgstr "Parşömen"
+
+#~ msgid "Page facing up"
+#~ msgstr "Yüzü yukarıda sayfa"
+
+#~ msgid "Newspaper"
+#~ msgstr "Gazete"
+
+#~ msgid "Rolled-up newspaper"
+#~ msgstr "Rulo gazete"
+
+#~ msgid "Bookmark tabs"
+#~ msgstr "sayfa ayraçları"
+
+#~ msgid "Bookmark"
+#~ msgstr "yer işareti"
+
+#~ msgid "Label"
+#~ msgstr "Etiket"
+
+#~ msgid "Reply to {name}:"
+#~ msgstr "Yanıt  {name}:"
+
+#~ msgid "Delete for everyone"
+#~ msgstr "Herkesten sil"
+
+#~ msgid "Delete for yourself"
+#~ msgstr "Benden sil"
+
+#~ msgid "An error occurred while writing the file."
+#~ msgstr "Dosya yazılırken bir hata oluştu."
+
+#~ msgid ""
+#~ "Easygram is distributed under the GNU GPLv3 open source license, with the "
+#~ "exception of certain additional components and Microsoft redistributable "
+#~ "code. By using or distributing Easygram, you agree to be bound by the "
+#~ "terms of the license agreement. The text of the license can be found at:\n"
+#~ "{link}"
+#~ msgstr ""
+#~ "Easygram, bazı ek bileşenler ve Microsoft'un yeniden dağıtılabilir kodu "
+#~ "dışında açık kaynaklı GNU GPLv3 lisansı altında dağıtılır. Easygram'ı "
+#~ "kullanarak veya dağıtarak, lisans sözleşmesinin şartlarına uymayı kabul "
+#~ "etmiş olursunuz. Lisans metnine buradan ulaşabilirsiniz:\\n\n"
+#~ "{link}\\"
+
+#~ msgid "Insert emoji"
+#~ msgstr "Emoji ekle"
+
+#~ msgid "Forward message"
+#~ msgstr "Mesajı ilet"
+
+#~ msgid "When online"
+#~ msgstr "Çevrimiçi olduğunda"
+
+#~ msgid "Detailed view"
+#~ msgstr "Detaylı görüntüleme"
+
+#~ msgid "Copy text"
+#~ msgstr "Metni kopyala"
+
+#~ msgid "Save in downloads"
+#~ msgstr "İndirilenlere kaydet"
+
+#~ msgid "Reply"
+#~ msgstr "Yanıtla"
+
+#~ msgid "Pin"
+#~ msgstr "Sabitle"
+
+#~ msgid "Go to quoted message"
+#~ msgstr "Alıntılanan mesaja git"
+
+#~ msgid "Comments: {count}"
+#~ msgstr "Yorumlar: {count}"
+
+#~ msgid "Go to original message"
+#~ msgstr "Orijinal mesaja git"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Kayıtlı mesajlara ekle"
+
+#~ msgid "Forward"
+#~ msgstr "İlet"
+
+#~ msgid "Add reaction"
+#~ msgstr "Tepki ekle"
+
+#~ msgid "Remove reaction {r}"
+#~ msgstr "Tepkiyi kaldır {r}"
+
+#~ msgid "Open profile"
+#~ msgstr "Profili aç"
+
+#~ msgid "Open"
+#~ msgstr "Aç"
+
+#~ msgid "Mark as read"
+#~ msgstr "Okundu olarak işaretle"
+
+#~ msgid "Move to archive"
+#~ msgstr "Arşive taşı"
+
+#~ msgid "Unarchive"
+#~ msgstr "Arşivden Çıkar"
+
+#~ msgid "Show window"
+#~ msgstr "Pencereyi göster"
+
+#~ msgid "Exit"
+#~ msgstr "Çıkış"
+
+#~ msgid "Close chats by pressing the ESCAPE key"
+#~ msgstr "ESCAPE tuşuna basarak sohbetleri kapat"
+
+#~ msgid "Play event sounds"
+#~ msgstr "Etkinlik seslerini çal"
+
+#~ msgid "Clear storage"
+#~ msgstr "Depolamayı temizle"
+
+#~ msgid ""
+#~ "Are you sure you want to clear storage? After this, all local copies of "
+#~ "files from the cache will be deleted. This action cannot be undone!"
+#~ msgstr ""
+#~ "Depolama alanıını temizlemek istediğinizden emin misiniz? Bundan sonra, "
+#~ "dosyaların önbellekteki tüm yerel kopyaları silinecektir. Bu işlem geri "
+#~ "alınamaz!"
+
+#~ msgid "Restart the application to apply the new language settings."
+#~ msgstr "Yeni dil ayarlarını uygulamak için uygulamayı yeniden başlatın."
+
+#~ msgid "Attach file"
+#~ msgstr "Dosya ekle"
+
+#~ msgid "No such file exists!"
+#~ msgstr "Böyle bir dosya yok!"
+
+#~ msgid "The caption text is too long!"
+#~ msgstr "Başlık metni çok uzun!"
+
+#~ msgid "No command to send!"
+#~ msgstr "Gönderilecek komut yok!"
+
+#~ msgid "Attach video"
+#~ msgstr "Video ekle"
+
+#~ msgid "Attach audio"
+#~ msgstr "Ses ekle"
+
+#~ msgid "Title required!"
+#~ msgstr "Başlık gerekli!"
+
+#~ msgid "Attach photo"
+#~ msgstr "Fotoğraf ekle"
+
+#~ msgid "Attach animation"
+#~ msgstr "Animasyon ekle"
+
+#~ msgid "Attach document"
+#~ msgstr "Belge ekle"
+
+#~ msgid "The code was sent to you via Telegram."
+#~ msgstr "Kod size Telegram aracılığıyla gönderildi."
+
+#~ msgid "The code was sent to you via SMS."
+#~ msgstr "Kod size SMS ile gönderildi."
+
+#~ msgid "Your chats"
+#~ msgstr "Sohbetleriniz"
 
 #~ msgid "Selects a contact"
 #~ msgstr "Kişiyi seçiyor"
